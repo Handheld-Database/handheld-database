@@ -1,5 +1,6 @@
 {
     "name": "Trimui Smart Pro",
+    "database_key": "tsp",
     "manufacturer": "Trimui",
     "screen_size": "4.96 inches",
     "resolution": "1280 x 720 pixels",
@@ -15,5 +16,11 @@
     "connectivity": [
       "Wi-Fi",
       "USB-C"
+    ],
+    "systems": [
+        {
+            "name": "Portmaster",
+            "key": "ports"
+        }
     ]
 }
