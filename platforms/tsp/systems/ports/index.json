@@ -1,5 +1,9 @@
 {
-    "games": {
-        "sonicmania": "GOLD"
-    }
+    "games": [
+        {
+            "name": "Sonic Mania",
+            "key": "sonicmania",
+            "rank": "GOLD"
+        }
+    ]
 }
