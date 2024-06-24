@@ -1,0 +1,19 @@
+{
+    "name": "Trimui Smart Pro",
+    "manufacturer": "Trimui",
+    "screen_size": "4.96 inches",
+    "resolution": "1280 x 720 pixels",
+    "battery_life": "5 hours",
+    "weight": "249g",
+    "system": "Linux",
+    "cpu": "Allwinner A133P (A133 plus) 1.8GHZ",
+    "gpu": "Imagination PowerVR GE8300 660MHz",
+    "ram": "1GB LPDDR4x",
+    "arch": "aarch64",
+    "storage": "8GB (expandable via microSD)",
+    "media": "Digital download",
+    "connectivity": [
+      "Wi-Fi",
+      "USB-C"
+    ]
+}
