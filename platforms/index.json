@@ -1,0 +1,8 @@
+{
+    "platforms": [
+        {
+            "name": "Trimui Smart Pro",
+            "image": "platforms/tsp.webp"
+        }
+    ]
+}
