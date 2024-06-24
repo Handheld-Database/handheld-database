@@ -1,4 +1,4 @@
-# Contributing to the Gameheld Database
+# Contributing to the Handheld Database
 
 ## Introduction
 Thank you for considering contributing to our games compatibility list project. This document provides guidelines on how to add new games, platforms, and systems, ensuring our repository remains organized and easy to navigate.
