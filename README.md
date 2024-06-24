@@ -45,3 +45,17 @@ Thank you for considering contributing to our games compatibility list project. 
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a pull request.
+
+## Media
+
+1. **Usage of WebP Format for Web Application:**
+
+When integrating images into your web application, ensure to utilize the WebP format for optimal performance. WebP offers efficient compression and supports transparency, making it ideal for a variety of graphical elements.
+
+2. **Icon Specifications:**
+
+Icons should be provided in the dimensions of 512x512 pixels to ensure clarity and compatibility across different display resolutions.
+
+3. **Banner Requirements:**
+
+Banners should be provided in the dimensions of 1050x380 pixels to ensure clarity and compatibility across different display resolutions.
