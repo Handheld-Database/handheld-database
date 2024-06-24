@@ -3,7 +3,8 @@
         {
             "name": "Trimui Smart Pro",
             "image": "platforms/tsp.webp",
-            "database_key": "tsp"
+            "database_key": "tsp",
+            "system": "Linux"
         }
     ]
 }
