@@ -1,10 +1,6 @@
-import csv
-import os
-import json
-import re
-import argparse
-
-import requests
+import csv, argparse, os, json, re, requests
+from PIL import Image
+from io import BytesIO
 
 
 # Function to normalize input string by removing extra spaces and non-word characters
@@ -35,7 +31,7 @@ def scan_input(prompt):
     return input(prompt)
 
 # Main function to create games
-def create_game(platform_name, system_name, game_name, rank, observations, icon_url, cover_url):
+def create_game(platform_name, system_name, game_name, rank, observations):
     normalize_game_name = normalize_string_2(game_name)
     normalize_system_name = normalize_string_2(system_name)
     normalize_platform_name = normalize_string_2(platform_name)
@@ -46,9 +42,7 @@ def create_game(platform_name, system_name, game_name, rank, observations, icon_
     attributes = {
         "name": normalize_string(game_name),
         "key": normalize_string_2(game_name),
-        "rank": rank,
-        "icon_url": icon_url,
-        "cover_url": cover_url
+        "rank": rank
     }
 
     # Create JSON file for the game
@@ -85,9 +79,7 @@ def update_games_list(platform_name, system_name, attributes):
     game_entry = {
         "name": attributes["name"],
         "key": attributes["key"],
-        "rank": attributes["rank"],
-        "icon_url": attributes["icon_url"],
-        "cover_url": attributes["cover_url"]
+        "rank": attributes["rank"]
     }
 
     games_list.append(game_entry)
@@ -146,6 +138,17 @@ def fetch_steamgriddb_game_urls(api_key, game_id):
         print(f"Request error: {e}")
         return None
 
+def download_and_convert_image(image_url, save_path):
+    response = requests.get(image_url)
+    if response.status_code == 200:
+        image = Image.open(BytesIO(response.content))
+        # Remove alpha channel by converting to RGB
+        image = image.convert("RGB")
+        # Save the image in WebP format with quality 70
+        image.save(save_path, 'WEBP', quality=70 )
+    else:
+        print(f"Failed to download image from {image_url}")
+
 # Argument parser setup
 parser = argparse.ArgumentParser(description='Process a CSV file of game data.')
 parser.add_argument('csv_file', type=str, help='The path to the CSV file to process.')
@@ -188,10 +191,21 @@ with open(csv_file_path, 'r') as csvfile:
         icon_url = ""
         cover_url = ""
 
-        if(game_id is not None):
+        if game_id is not None:
             image_urls = fetch_steamgriddb_game_urls(steam_grid_api_key, game_id)
             icon_url = image_urls['square']
             cover_url = image_urls['rectangular']
-        
+
+        # Download and convert images
+        game_folder = os.path.join("commons", "images", "games")
+        os.makedirs(game_folder, exist_ok=True)
+        if cover_url:
+            cover_save_path = os.path.join(game_folder, f'{normalize_string_2(game_name)}.cover.webp')
+            download_and_convert_image(cover_url, cover_save_path)
+        if icon_url:
+            icon_save_path = os.path.join(game_folder, f'{normalize_string_2(game_name)}.icon.webp')
+            download_and_convert_image(icon_url, icon_save_path)
+
+            
         # Create the game with parsed data
-        create_game("tsp", "n64", game_name, rank, observations, icon_url, cover_url)
+        create_game("tsp", "n64", game_name, rank, observations)
