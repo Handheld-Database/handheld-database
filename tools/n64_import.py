@@ -57,7 +57,7 @@ def create_game(platform_name, system_name, game_name, rank, observations, icon_
         with open(game_json_path, 'w') as f:
             json.dump(attributes, f, indent=4)
 
-    MARKDOWN = f'''# {game_name} \n\nImprove this game description with your PR: https://github.com/ogregorio/handheld-database\n\n## Execution information\n\n'''
+    MARKDOWN = f'''# {game_name} \n\n%game_orverview%\n\n## Execution information\n\n'''
     
     # Create Markdown file for the game
     game_md_path = os.path.join(game_dir, f'{normalize_game_name}.md')
