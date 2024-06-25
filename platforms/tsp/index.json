@@ -21,6 +21,10 @@
         {
             "name": "Portmaster",
             "key": "ports"
+        },
+        {
+            "name": "Nintendo 64",
+            "key": "n64"
         }
     ]
 }
