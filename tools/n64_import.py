@@ -1,0 +1,195 @@
+import csv
+import os
+import json
+import re
+import argparse
+
+import requests
+
+
+# Function to normalize input string by removing extra spaces and non-word characters
+def normalize_string(input_string):
+    normalized_string = re.sub(r'\s+', ' ', input_string)  # Collapse multiple spaces into one
+    normalized_string = re.sub(r'[^\w\s]', '', normalized_string)  # Remove non-word characters
+    normalized_string = normalized_string.strip()  # Remove leading/trailing spaces
+    return normalized_string
+
+# Function to normalize input string by removing all spaces, non-word characters and lower case
+def normalize_string_2(input_string):
+    normalized_string = normalize_string(input_string)
+    normalized_string = normalized_string.lower()
+    normalized_string = re.sub(r'\s+', '', normalized_string)
+    return normalized_string
+
+# Function to extract the clean game name
+def extract_game_name(filename):
+    # Remove file extension
+    filename = re.sub(r'\.zip$', '', filename)
+    # Remove region codes, [!], and other parenthetical content
+    filename = re.sub(r'\s*\(.*?\)\s*', '', filename)
+    filename = re.sub(r'\s*\[!\]\s*', '', filename)
+    return filename.strip()
+
+# Simulating scan_input function for rank
+def scan_input(prompt):
+    return input(prompt)
+
+# Main function to create games
+def create_game(platform_name, system_name, game_name, rank, observations, icon_url, cover_url):
+    normalize_game_name = normalize_string_2(game_name)
+    normalize_system_name = normalize_string_2(system_name)
+    normalize_platform_name = normalize_string_2(platform_name)
+
+    game_dir = os.path.join('platforms', normalize_platform_name, 'systems', normalize_system_name, normalize_game_name)
+    os.makedirs(game_dir, exist_ok=True)
+    
+    attributes = {
+        "name": normalize_string(game_name),
+        "key": normalize_string_2(game_name),
+        "rank": rank,
+        "icon_url": icon_url,
+        "cover_url": cover_url
+    }
+
+    # Create JSON file for the game
+    game_json_path = os.path.join(game_dir, f'{normalize_game_name}.json')
+    if not os.path.exists(game_json_path):
+        with open(game_json_path, 'w') as f:
+            json.dump(attributes, f, indent=4)
+    
+    # Create Markdown file for the game
+    game_md_path = os.path.join(game_dir, f'{normalize_game_name}.md')
+    if not os.path.exists(game_md_path):
+        with open(game_md_path, 'w') as f:
+            f.write(f'# {game_name}\n\n## Overview\n\nDetailed description of the game.\n\n## Key Informations\n\n')
+            f.write('\n'.join(observations))
+
+    update_games_list(normalize_platform_name, normalize_system_name, attributes)
+
+# Function to update the list of platforms in the main index.json
+def update_games_list(platform_name, system_name, attributes):
+    games_list = []
+    
+    games_list_path = os.path.join('platforms', platform_name, 'systems', system_name, 'index.json')
+    if os.path.exists(games_list_path):
+        with open(games_list_path, 'r') as f:
+            try:
+                data = json.load(f)
+                games_list = data.get('games', [])
+            except json.JSONDecodeError:
+                games_list = []
+    
+    # Extract relevant attributes for the platform entry
+    game_entry = {
+        "name": attributes["name"],
+        "key": attributes["key"],
+        "rank": attributes["rank"],
+        "icon_url": attributes["icon_url"],
+        "cover_url": attributes["cover_url"]
+    }
+
+    games_list.append(game_entry)
+
+    # Write updated platform list back to index.json
+    data = {"games": games_list}
+
+    with open(games_list_path, 'w') as f:
+        json.dump(data, f, indent=4)
+
+# Function to fetch image game id from SteamGridDB
+def fetch_steamgriddb_game_id(api_key, game_name):
+    base_url = f'https://www.steamgriddb.com/api/v2/search/autocomplete/'
+    headers = {'Authorization': f'Bearer {api_key}'}
+
+    try:
+        response = requests.get(f'{base_url}{game_name}', headers=headers)
+        if response.status_code == 200:
+            data = response.json()
+            if(len(data['data']) > 0):
+                return data['data'][0]['id']
+        else:
+            print(f"Error fetching data for {game_name}: {response.status_code}")
+    except requests.exceptions.RequestException as e:
+        print(f"Request error: {e}")
+
+
+# Função para buscar URLs de imagens do SteamGridDB
+def fetch_steamgriddb_game_urls(api_key, game_id):
+    base_url = f'https://www.steamgriddb.com/api/v2/grids/game/'
+    headers = {'Authorization': f'Bearer {api_key}'}
+
+    try:
+        response = requests.get(f'{base_url}{game_id}', headers=headers)
+        if response.status_code == 200:
+            data = response.json()
+            image_urls = {'square': None, 'rectangular': None}
+
+            images_list = data['data']
+            
+            # Filtrar imagens quadradas e retangulares
+            square_images = list(filter(lambda x: x['style'] == 'alternate' and x['width'] == x['height'], images_list))
+            rectangular_images = list(filter(lambda x: x['style'] == 'alternate' and x['width'] > x['height'], data['data']))
+            
+            # Selecionar a primeira imagem de cada tipo, se existirem
+            if square_images:
+                image_urls['square'] = square_images[0]['url']
+            if rectangular_images:
+                image_urls['rectangular'] = rectangular_images[0]['url']
+            
+            return image_urls
+        else:
+            print(f"No data found for game ID {game_id}")
+            return None
+    except requests.exceptions.RequestException as e:
+        print(f"Request error: {e}")
+        return None
+
+# Argument parser setup
+parser = argparse.ArgumentParser(description='Process a CSV file of game data.')
+parser.add_argument('csv_file', type=str, help='The path to the CSV file to process.')
+parser.add_argument('steamgrid_key', type=str, help='The Steamgriddb API key.')
+args = parser.parse_args()
+
+# Read CSV data from file
+csv_file_path = args.csv_file
+steam_grid_api_key = args.steamgrid_key
+with open(csv_file_path, 'r') as csvfile:
+    csvreader = csv.reader(csvfile, delimiter=',')
+    header = next(csvreader)
+    for row in csvreader:
+        if len(row) == 0:
+            continue
+        game_name = extract_game_name(row[0])
+        observations = [
+            f"**ParaLLEl (2.0-rc2 a03fdcba)**: {row[1] if len(row[1]) > 1 else 'Not tested'}",
+            f"**Dynarec/Gln64**: {row[2] if len(row[2]) > 1 else 'Not tested'}",
+            f"**Mupen64Plus GLES2 (2.5 ab8134a)**: {row[3] if len(row[3]) > 1 else 'Not tested'}",
+            f"**Pure/HLE**: {row[4] if len(row[4]) > 1 else 'Not tested'}"
+        ]
+        observations = [obs for obs in observations if obs]  # Remove empty observations
+
+        print("tsp", "n64", game_name, observations)
+
+        game_id = fetch_steamgriddb_game_id(steam_grid_api_key, game_name)
+
+        # Determine rank
+        rank = "GARBAGE"
+        if "Great" in row[1] or "Great" in row[2] or "Great" in row[3]:
+            rank = "GOLD"
+        elif "Good" in row[1] or "Good" in row[2] or "Good" in row[3]:
+            rank = "SILVER"
+        elif "Ok" in row[1] or "Ok" in row[2] or "Ok" in row[3]:
+            rank = "BRONZE"
+
+        print(steam_grid_api_key, game_id)
+
+        icon_url = ""
+        cover_url = ""
+
+        if(game_id is not None):
+            image_urls = fetch_steamgriddb_game_urls(steam_grid_api_key, game_id)
+            icon_url = image_urls['square']
+            cover_url = image_urls['rectangular']
+        
+        # Create the game with parsed data
+        create_game("tsp", "n64", game_name, rank, observations, icon_url, cover_url)
