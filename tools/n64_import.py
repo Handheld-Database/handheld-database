@@ -56,12 +56,14 @@ def create_game(platform_name, system_name, game_name, rank, observations, icon_
     if not os.path.exists(game_json_path):
         with open(game_json_path, 'w') as f:
             json.dump(attributes, f, indent=4)
+
+    MARKDOWN = f'''# {game_name} \n\nImprove this game description with your PR: https://github.com/ogregorio/handheld-database\n\n## Execution information\n\n'''
     
     # Create Markdown file for the game
     game_md_path = os.path.join(game_dir, f'{normalize_game_name}.md')
     if not os.path.exists(game_md_path):
         with open(game_md_path, 'w') as f:
-            f.write(f'# {game_name}\n\n## Overview\n\nDetailed description of the game.\n\n## Key Informations\n\n')
+            f.write(MARKDOWN)
             f.write('\n'.join(observations))
 
     update_games_list(normalize_platform_name, normalize_system_name, attributes)
