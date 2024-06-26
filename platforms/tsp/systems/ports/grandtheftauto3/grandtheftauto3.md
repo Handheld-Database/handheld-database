@@ -14,9 +14,12 @@ Tomato OS installation:
 5. Eject the SD card to safely remove it and put it back in your device.
 6. Have fun!
 
+You can adjust analog sticks sensitivity by changing LeftStickSens/RightStickSens values in re3.ini.
+
 ## Troubleshoot
 
 If the game won't boot, try booting it one more time. If that doesn't work:
 1. Open Portmaster and go to "Manage Ports".
 2. Press "Show Info", after that press "Reinstall".
+3. Try launching it again.
 
