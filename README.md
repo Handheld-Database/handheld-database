@@ -93,3 +93,30 @@ Icons should be provided in the dimensions of 512x512 pixels to ensure clarity a
 3. **Banner Requirements:**
 
 Banners should be provided in the dimensions of 1050x380 pixels to ensure clarity and compatibility across different display resolutions.
+
+## Rank
+
+## PLATINUM
+- **Graphics**: Outstanding, with no glitches or visual issues and exceptional detail.
+- **Gameplay**: Extremely stable, with very high FPS (60 or higher) and absolutely no drops or stuttering.
+- **Load**: Instantaneous loading, completely free of crashes or any issues affecting user experience.
+
+## GOLD
+- **Graphics**: Excellent, without significant glitches or visual issues.
+- **Gameplay**: Very stable, with a high FPS rate (30 or higher) and no noticeable drops or stuttering.
+- **Load**: Quick loading, no crashes, or issues that affect the user experience.
+
+## SILVER
+- **Graphics**: Good, with some minor glitches that do not significantly affect the gaming experience.
+- **Gameplay**: Stable most of the time, with occasional minor FPS drops or stuttering.
+- **Load**: Relatively quick loading, with few slowdowns or minor issues that can be worked around.
+
+## BRONZE
+- **Graphics**: Acceptable, but with noticeable visual glitches that can affect the gaming experience.
+- **Gameplay**: Inconsistent, with more frequent and noticeable FPS drops and occasional stuttering.
+- **Load**: Slow loading, with the possibility of crashes or issues that affect usability.
+
+## GARBAGE
+- **Graphics**: Poor, with severe glitches and visual issues that hinder gameplay.
+- **Gameplay**: Very unstable, with constant FPS drops and severe stuttering, compromising playability.
+- **Load**: Significant loading problems, including frequent crashes and glitches that impede proper use.
