@@ -4,6 +4,11 @@
             "name": "Sonic Mania",
             "key": "sonicmania",
             "rank": "GOLD"
+        },
+        {
+            "name": "Grand Theft Auto III",
+            "key": "grandtheftauto3",
+            "rank": "GOLD"
         }
     ]
 }
