@@ -6,7 +6,6 @@ on:
       - 'README.md'
       - '.gitignore'
       - 'markdown/**'
-
     branches:
       - main
       - master
@@ -37,12 +36,15 @@ jobs:
       run: |
         python tools/fetch_collaborators.py
 
+    - name: Print collaborators.json
+      run: cat commons/collaborators/collaborators.json
+
     - name: Commit changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add commons/collaborators/collaborators.json
-        git commit -m 'Update collaborators.json'
+        git commit -m 'Update collaborators.json' || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
