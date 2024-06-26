@@ -10,11 +10,15 @@ Thank you for considering contributing to our games compatibility list project. 
     - Add the game's cover image to `commons/images/games/` with the format `[gamename].cover.webp`.
     - Add the game's icon image to `commons/images/games/` with the format `[gamename].icon.webp`.
 
+2. **Create Game Overview:**
+    - Add a Markdown file with general game information to `commons/overviews/`. Follow the naming convention `[gamename].md`.
+
 2. **Create Game Data:**
     - Navigate to the appropriate platform and system directory under `platforms/`.
     - Create a new directory for the game if it doesn't already exist. For example, `platforms/tsp/systems/ports/[gamename]/`.
     - Add a JSON file with the game's data. Follow the naming convention `[gamename].json`.
-    - Add a Markdown file with additional game information. Follow the naming convention `[gamename].md`.
+    - Add a Markdown file with specif plarform game instructions. Follow the naming convention `[gamename].md`.
+    - Use %game_overview% to indicate where the overview file should be rendered inside `[gamename].md`.
 
 ### Adding a New Platform
 1. **Create Platform Images:**
@@ -33,6 +37,36 @@ Thank you for considering contributing to our games compatibility list project. 
     - Navigate to the appropriate platform directory under `platforms/`.
     - Create a new directory for the system if it doesn't already exist. For example, `platforms/[platformname]/systems/[systemname]/`.
     - Add an `index.json` file with the system's data.
+
+## Adding a New Game Automation
+
+This script helps you manage platforms, systems, and games by creating and updating corresponding JSON and Markdown files.
+
+## Prerequisites
+
+- Python 3.x
+- JSON module
+- OS module
+- SYS module
+- RE module
+
+## Usage
+
+Run the script with the appropriate command to create platforms, systems, and games.
+
+### Commands
+
+- `new platform [platform_name]`: Create a new platform.
+- `new system [platform_name] [system_name]`: Create a new system under a specified platform.
+- `new game [platform_name] [system_name] [game_name]`: Create a new game under a specified platform and system.
+- `help`: Display the help message.
+
+### Examples
+
+- Create a new platform:
+
+  ```bash
+  python tools/new_file.py new platform myplatform
 
 ## Commit Guidelines
 - Write clear, concise commit messages.
