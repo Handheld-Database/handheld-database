@@ -12,7 +12,7 @@ owner = "ogregorio"
 repo = "handheld-database"
 
 # GitHub API URL for fetching collaborators
-url = f"https://api.github.com/repos/{owner}/{repo}/collaborators"
+url = f"https://api.github.com/repos/{owner}/{repo}/contributors"
 
 # Headers with the personal access token for authentication
 headers = {
@@ -26,13 +26,14 @@ response = requests.get(url, headers=headers)
 if response.status_code == 200:
     collaborators = response.json()
     
-    # Extract required attributes from each collaborator
+    # Extract required attributes from each collaborator, excluding github-actions[bot]
     collaborators_data = [
         {
             "login": collaborator["login"],
             "avatar_url": collaborator["avatar_url"]
         }
         for collaborator in collaborators
+        if collaborator["login"] != "github-actions[bot]"
     ]
 
     # Ensure the directory exists
