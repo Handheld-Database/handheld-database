@@ -1,0 +1,3 @@
+## Overview
+
+This version of Quake II differs from the other releases by replacing most of the levels with new ones. Some of the levels have familiar themes or even re-create the original ones closely; however, new stages are dominant, tending to be significantly shorter than those of the PC version. This release also features additional graphical effects, such as lighting during gunfire. Multiplayer for up to four participants is included.

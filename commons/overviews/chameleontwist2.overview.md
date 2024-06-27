@@ -1,0 +1,3 @@
+## Overview
+
+After finding his way back home from his first adventure, Davy decides to relax with his friends. However, while playing on the see-saw, a huge rabbit falls from the sky, sending Davy's head long into the sky. So once again, using his long tounge to attack enemies and grab on to distant ledges, Davy must find his way home from the land in the sky. For this second adventure, you can choose from 4 different Chameleons, Davy and friends Linda, Fred and Jack. And as well as using his tongue, Davy can also use a parasol to float across large gaps.

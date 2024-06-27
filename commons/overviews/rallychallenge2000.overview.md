@@ -1,0 +1,3 @@
+## Overview
+
+Rally Challenge 2000 is a racing game for the N64 and features 9 courses in different countries around the world, licensed cars including Subaru Impreza, Mitsubishi Lancer Evolution, Toyota Corolla, etc. and with each car having its own strengths and weaknesses, car damage, various weather conditions and 4 modes.* Arcade - you must simply select one of the 3 difficulty settings, one of the available cars and compete with the other 8 CPU players for the first place. Each difficulty setting has 3 races and the place you manage to get at the end of each race is carried on to the next one. Car damage does not apply in this mode.

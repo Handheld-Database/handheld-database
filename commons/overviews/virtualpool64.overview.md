@@ -1,0 +1,3 @@
+## Overview
+
+Virtual Pool 64 is a pool simulation game and is a continuation of the Virtual Pool series. It has nine different pool games to play. They are eight-ball, nine-ball, three-ball, six-ball, ten-ball, straight pool, one-pocket, bank pool and rotation. In addition, eight ball has three separate rules you can play under, American bar rules, British rules and APA league rules. You can choose to play in a standard match, a tournament of up to 16 players, freestyle, which allows you to play without rules or Shark Skins, which is a combination of three-ball, six-ball and nine-ball.

@@ -1,0 +1,3 @@
+## Overview
+
+In Deadly Arts the player can fight as a range of characters from around the globe in training, one-on-one and tournament modes. The goal for the player is to defeat each fighter, to progress through the ranks until everyone has been beaten. Each fighter has a set of basic moves and special moves to use. Along with two-player options, it is also possible to create a new fighter and train him or her up to the elite level.

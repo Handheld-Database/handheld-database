@@ -1,0 +1,3 @@
+## Overview
+
+Take control of a collection of the latest Volkswagen "Beetle 2.0" models (from street type to off-road designs) and race across varying road types that will test your speed and endurance (each track taking up to 4 minutes from one end to the other). Find shortcuts or use nitro boosts to get to the end first in order to move on to the next track. If the computer AI is too easy for you, you can race against a friend in two-player race mode. Up to 4 people can also play a special Battle Mode challenge, with added abilities including weapons (from mines and rockets to magical elements) while trying to collect the flag and reach the exit.

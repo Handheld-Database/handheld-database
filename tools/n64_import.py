@@ -1,7 +1,44 @@
+from bs4 import BeautifulSoup
 import csv, argparse, os, json, re, requests
 from PIL import Image
 from io import BytesIO
+from igdb.wrapper import IGDBWrapper
 
+def get_game_url(game_name, platform):
+    search_url = f"https://www.mobygames.com/search/?q={game_name}"
+    response = requests.get(search_url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    table = soup.find('table', class_='table mb')
+    if table:
+        rows = table.find_all('tr')
+        for row in rows:
+            game_link_tag = row.find('a', href=True)
+            game_name_tag = row.find('b').find('a')
+            if game_name_tag and game_name.lower() in game_name_tag.get_text(strip=True).lower():
+                platform_tags = row.find_all('small')
+                for platform_tag in platform_tags:
+                    if platform in platform_tag.get_text(strip=True):
+                        game_link = game_link_tag['href']
+                        return game_link
+    
+    return None
+
+def get_game_description(game_url):
+    response = requests.get(game_url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    description_div = soup.find('div', id='description-text')
+    if description_div:
+        paragraphs = description_div.find_all('p')
+        description_parts = []
+        for p in paragraphs:
+            parts = []
+            for content in p.contents:
+                parts.append(content.get_text(strip=True))
+            description_parts.append(' '.join(parts))
+        description = ' '.join(description_parts)
+        return description.strip()
 
 # Function to normalize input string by removing extra spaces and non-word characters
 def normalize_string(input_string):
@@ -51,7 +88,7 @@ def create_game(platform_name, system_name, game_name, rank, observations):
         with open(game_json_path, 'w') as f:
             json.dump(attributes, f, indent=4)
 
-    MARKDOWN = f'''# {game_name} \n\n%game_orverview%\n\n## Execution information\n\n'''
+    MARKDOWN = f'''# {game_name} \n\n%game_overview%\n\n## Execution information\n\n'''
     
     # Create Markdown file for the game
     game_md_path = os.path.join(game_dir, f'{normalize_game_name}.md')
@@ -167,9 +204,12 @@ with open(csv_file_path, 'r') as csvfile:
         game_name = extract_game_name(row[0])
         observations = [
             f"**ParaLLEl (2.0-rc2 a03fdcba)**: {row[1] if len(row[1]) > 1 else 'Not tested'}",
-            f"**Dynarec/Gln64**: {row[2] if len(row[2]) > 1 else 'Not tested'}",
-            f"**Mupen64Plus GLES2 (2.5 ab8134a)**: {row[3] if len(row[3]) > 1 else 'Not tested'}",
-            f"**Pure/HLE**: {row[4] if len(row[4]) > 1 else 'Not tested'}"
+            f"
+**Dynarec/Gln64**: {row[2] if len(row[2]) > 1 else 'Not tested'}",
+            f"
+**Mupen64Plus GLES2 (2.5 ab8134a)**: {row[3] if len(row[3]) > 1 else 'Not tested'}",
+            f"
+**Pure/HLE**: {row[4] if len(row[4]) > 1 else 'Not tested'}"
         ]
         observations = [obs for obs in observations if obs]  # Remove empty observations
 
@@ -190,6 +230,7 @@ with open(csv_file_path, 'r') as csvfile:
 
         icon_url = ""
         cover_url = ""
+        normalize_game_name = normalize_string_2(game_name)
 
         if game_id is not None:
             image_urls = fetch_steamgriddb_game_urls(steam_grid_api_key, game_id)
@@ -200,12 +241,28 @@ with open(csv_file_path, 'r') as csvfile:
         game_folder = os.path.join("commons", "images", "games")
         os.makedirs(game_folder, exist_ok=True)
         if cover_url:
-            cover_save_path = os.path.join(game_folder, f'{normalize_string_2(game_name)}.cover.webp')
+            cover_save_path = os.path.join(game_folder, f'{normalize_game_name}.cover.webp')
             download_and_convert_image(cover_url, cover_save_path)
         if icon_url:
-            icon_save_path = os.path.join(game_folder, f'{normalize_string_2(game_name)}.icon.webp')
+            icon_save_path = os.path.join(game_folder, f'{normalize_game_name}.icon.webp')
             download_and_convert_image(icon_url, icon_save_path)
 
+        game_url = get_game_url(game_name, "Nintendo 64")
+        if game_url:
+            print(f"Game URL: {game_url}")
+            game_description = get_game_description(game_url)
+            if game_description:
+                print("Game Description:")
+                print(game_description)
+                MD_OVERVIEW = f"## Overview\n\n{game_description}"
+                game_md_path = os.path.join("commons", "overviews", f'{normalize_game_name}.overview.md')
+                if not os.path.exists(game_md_path):
+                    with open(game_md_path, 'w') as f:
+                        f.write(MD_OVERVIEW)
+            else:
+                print("Description not found.")
+        else:
+            print("Game not found on Nintendo 64 platform.")
             
         # Create the game with parsed data
         create_game("tsp", "n64", game_name, rank, observations)

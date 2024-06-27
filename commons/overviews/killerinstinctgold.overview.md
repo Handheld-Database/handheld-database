@@ -1,0 +1,3 @@
+## Overview
+
+Killer Instinct Gold is an updated version of Killer Instinct 2 . The gameplay includes all of the fighters, moves (and new ones such as auto doubles to gain free hits in combos) and stages (including the three newest inclusions to the fighter line-up, Maya, Kim Wu and Tusk) plus new game modes in the Nintendo 64 version such as Team, Team Elimination, 5 speed levels and a complete training mode helping you to learn the many moves, combos and special attacks for each fighter.
