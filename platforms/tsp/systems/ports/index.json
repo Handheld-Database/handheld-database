@@ -9,6 +9,11 @@
             "name": "Grand Theft Auto III",
             "key": "grandtheftauto3",
             "rank": "GOLD"
+        },
+        {
+            "name": "grandtheftautovc",
+            "key": "grandtheftautovc",
+            "rank": "PLATINUM"
         }
     ]
 }
