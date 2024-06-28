@@ -8,12 +8,32 @@
         {
             "name": "Grand Theft Auto III",
             "key": "grandtheftauto3",
-            "rank": "GOLD"
+            "rank": "PLATINUM"
         },
         {
             "name": "Grand Theft Auto: Vice City",
             "key": "grandtheftautovc",
             "rank": "PLATINUM"
+        },
+        {
+            "name": "revolt",
+            "key": "revolt",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "blossomtales2",
+            "key": "blossomtales2",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "halflife",
+            "key": "halflife",
+            "rank": "GOLD"
+        },
+        {
+            "name": "stardewvalley",
+            "key": "stardewvalley",
+            "rank": "GOLD"
         }
     ]
 }
