@@ -1,0 +1,3 @@
+## Overview
+
+In WCW Mayhem you can wrestle as more than 50 of your favorite WCW wrestlers in all 12 of the company's pay-per-view sets and their three major television programs, "Nitro", "Thunder" and "Saturday Night". Fights can occur in the ring, or you can take the match out to the backstage area. The game also includes a create a wrestler mode to bring your own grapplers to the ring and a feature to unlock pay-per view events with the use of special codes (this feature was dropped after only three months). Running commentary by WCW's main announcer Tony Schiavone and (PlayStation version only) Bobby "The Brain" Heenan lend an air of authenticity to the presentation of the game.

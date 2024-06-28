@@ -1,0 +1,3 @@
+## Overview
+
+The sequel to Cruis'n World both in the arcades and on Nintendo 64, Cruis'n Exotica lets you race against the computer or up to three other opponents in a variety of cars and locales. Game mechanics follow arcade rules, with turbos to accelerate to (and raise) maximum speed, and any deviation off of the track bumping you right back on it. Cars range from sportcars to more esoteric vehicles such as trucks, minis, and police vehicles. Tracks model real localities (Alaska, India, Korea, etc.) and eventually branch out into fantasy worlds (Atlantis, Amazon, Mars).

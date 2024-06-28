@@ -1,0 +1,3 @@
+## Overview
+
+Take control of your favourite WCW wrestler and battle it out in the ring. The 16 wrestlers (to start) in the game include such greats as Kevin Nash, Buff Bagwell and Hollywood Hulk Hogan. Based on WCW's flagship television program, "WCW Monday Nitro", this arcade-style game puts you (or a partner) in a button-mashing brawl featuring many of WCW's most popular stars and their signature maneuvers. There are single and tag match options for one or two players and a single-player tournament mode, where the player must battle through a series of matches to become a champion. As you progress, you can unlock new characters to take to the ring, including more WCW wrestlers and personnel, as well as fictional characters and THQ staff members.

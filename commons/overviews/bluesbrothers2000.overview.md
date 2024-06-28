@@ -1,0 +1,3 @@
+## Overview
+
+This platformer with a Blues Brothers theme loosely follows the plot of the film. You have to escape the prison and get the band back together in order to participate to the "Battle of the Bands" competition. You can accomplish that by jumping over obstacles, beating a lot of people and collecting coins, notes, wrenches, keys and what not in four levels: Prison, Chicago, Graveyard & Swamp. After each level you will free one member of the band. Additionally, the game designers threw in some rhythm-based action: sometimes you have to press the right buttons at the right time in order to proceed. The game features multiplayer, but you only get to play the rhythm mini-game.

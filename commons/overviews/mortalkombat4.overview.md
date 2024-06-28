@@ -1,0 +1,3 @@
+## Overview
+
+Mortal Kombat 4 is 1 vs 1 fighting game, similar to the other Mortal Kombat games , but this is first game in series with 3D characters models. The player can choose from 15 different fighters at the start (and several unlockables later on). Many fighters from earlier games in the series make a comeback (like Scorpion, Sub Zero, Liu Kang, Sonya Blade, Johnny Cage etc.) while other new fighters join in, like Shinook (who is the main evil character in this game), Fujin, Jarek, and Kai. Goro returns as a boss Gameplay is very typical for a Mortal Kombat game, but has several new features - for example characters can use weapons in a fight (not only as a special move) or avoid attacks in the 3D environment.

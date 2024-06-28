@@ -1,0 +1,3 @@
+## Overview
+
+The sequel to Tony Hawk's Pro Skater adds many new tricks, while retaining those from the original, and a complete roster of the greatest skaters worldwide. Among the new tricks is the "manual", which allows the player character to balance on two wheels. There are also more options for scoring high-trick combos. Trick combinations can also be edited and customized. It is possible to visit some of the most popular skate parks in the world, or create own areas and share them with other players. Players can also create their own skaters, with a choice of clothing and official skateboards.

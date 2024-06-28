@@ -1,0 +1,3 @@
+## Overview
+
+NBA Jam 2000 is a basketball game with the official NBA license. Besides the updated teams and graphics, the main addition to its predecessor is the new action-oriented Jam mode. It makes away with all the rules and has two-on-two matches. After three strikes in a row, the ball is set on fire and can be used to perform special moves. The simulation mode is mostly the same as before and allows to play a whole season (optionally with basic management options which concentrate on trading athletes), a custom season, play-offs, shoot-out or exhibition matches. Other options are a basic editor to create a new athlete and training. During the matches, the player directly controls the athletes.

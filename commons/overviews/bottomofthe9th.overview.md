@@ -1,0 +1,3 @@
+## Overview
+
+Play Exhibition and Season modes as your favorite team from the Major League Baseball. 300 real-life players, complete with a full list of stats, are included in this combination of simulation and arcade-style baseball. Along with the usual assortment of playing options, you can also play some scenario simulations: each scenario is based on a real situation occured in the MLB. For example, hit a home run with the last ball of the match, or stop a team from scoring in the final inning to complete a scenario. Traning and support for 2-player gaming are also available.

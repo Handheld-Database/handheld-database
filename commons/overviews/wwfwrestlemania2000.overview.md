@@ -1,0 +1,3 @@
+## Overview
+
+WWF Wrestlemania 2000 is THQ 's first WWF licensed game after making two games based on WCW . The gameplay is similar to that of WCW/NWO Revenge , adding new features such as cage matches, custom entrances, and the possibility to create and customize player's own wrestlers. The game features more than fifty real WWF stars, as well as the option for sixteen custom wrestlers. All the wrestlers come with their real-life theme music, entrance videos (made into slide shows) and entrance performances. Another addition is the "Road to Wrestlemania" mode, an enhanced tournament where players can challenge for any number of belts and be challenged by other wrestlers in a twelve-month journey that finally leads to Wrestlemania 2000 itself.

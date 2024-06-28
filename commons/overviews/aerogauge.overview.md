@@ -1,0 +1,3 @@
+## Overview
+
+In the tradition of F-Zero and Wipeout , AeroGauge is a sci-fi racer that pits you and a friend in a fast-paced race to the finish through futuristic tracks, riding and competing with crafts that act more like planes than racing machines as they skim many metres above the ground. Play solo through the grand prix, or beat down your best times in the time trial mode. Each track features a number of twists and turns, whether it be racing upside down or vertically, with a number of obstacles in your path. There's no weapons, though, it's just you and the open road ahead.

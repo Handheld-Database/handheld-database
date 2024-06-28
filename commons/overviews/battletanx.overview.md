@@ -1,0 +1,3 @@
+## Overview
+
+BattleTanx is a mission-based tank shooter game set in the post-apocalyptic future. The player can fight through single-player campaign levels based in U.S. cities against multitudes of gangs with their own tanks and heavy firepower. The game has a large multiplayer component, allowing up to four players at once, with or without teams, AI opponents, and in several gameplay styles, including a standard deathmatch and a capture-the-flag style game.
