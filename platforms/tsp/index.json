@@ -25,6 +25,10 @@
         {
             "name": "Nintendo 64",
             "key": "n64"
+        },
+        {
+            "name": "Playstation Portable",
+            "key": "psp"
         }
     ]
 }
