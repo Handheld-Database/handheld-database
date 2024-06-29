@@ -5,6 +5,8 @@
 ## Execution information
 
 **Tester**: u/cobaltonreddit
+
 **Backend**: Vulkan
+
 **Resolution**: 1x
 **Notes**: Runs at 30fps

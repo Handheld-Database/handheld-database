@@ -204,8 +204,10 @@ with open(csv_file_path, 'r') as csvfile:
         game_name = extract_game_name(row[0])
         observations = [
             f"**Tester**: {row[1] if len(row[1]) > 1 else 'Not tested'}",
-            f"**Backend**: {row[3] if len(row[3]) > 1 else 'Not tested'}",
-            f"**Resolution**: {row[2] if len(row[2]) > 1 else 'Not tested'}",
+            f"
+**Backend**: {row[3] if len(row[3]) > 1 else 'Not tested'}",
+            f"
+**Resolution**: {row[2] if len(row[2]) > 1 else 'Not tested'}",
             f"**Notes**: {row[5]}" if len(row[5]) > 0 else None
 
         ]

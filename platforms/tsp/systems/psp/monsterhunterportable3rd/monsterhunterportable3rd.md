@@ -5,5 +5,7 @@
 ## Execution information
 
 **Tester**: u/shiori-yamazaki
+
 **Backend**: OpenGL
+
 **Resolution**: 2x
