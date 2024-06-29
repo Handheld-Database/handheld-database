@@ -36,38 +36,38 @@
             "rank": "GOLD"
         },
         {
-            "name": "yarntown",
+            "name": "Yarn Town",
             "key": "yarntown",
             "rank": "GARBAGE"
         },
         {
-            "name": "littlerunmo",
+            "name": "Little Runmo",
             "key": "littlerunmo",
             "rank": "PLATINUM"
         },
         {
-            "name": "raptor",
+            "name": "Raptor",
             "key": "raptor",
             "rank": "PLATINUM"
         },
         {
-            "name": "spelltower",
+            "name": "Spell Tower",
             "key": "spelltower",
             "rank": "GOLD"
         },
         {
-            "name": "spellsling",
+            "name": "Spell Sling",
             "key": "spellsling",
             "rank": "PLATINUM"
         },
         {
-            "name": "oceansheart",
+            "name": "Oceans Heart",
             "key": "oceansheart",
             "rank": "PLATINUM"
         },
         {
-            "name": "returntocastlewolfeinstin",
-            "key": "returntocastlewolfeinstin",
+            "name": "Return to Castle Wolfeinstein",
+            "key": "returntocastlewolfeinstein",
             "rank": "PLATINUM"
         }
     ]
