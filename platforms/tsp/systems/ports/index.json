@@ -34,6 +34,41 @@
             "name": "Stardew Valley",
             "key": "stardewvalley",
             "rank": "GOLD"
+        },
+        {
+            "name": "yarntown",
+            "key": "yarntown",
+            "rank": "GARBAGE"
+        },
+        {
+            "name": "littlerunmo",
+            "key": "littlerunmo",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "raptor",
+            "key": "raptor",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "spelltower",
+            "key": "spelltower",
+            "rank": "GOLD"
+        },
+        {
+            "name": "spellsling",
+            "key": "spellsling",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "oceansheart",
+            "key": "oceansheart",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "returntocastlewolfeinstin",
+            "key": "returntocastlewolfeinstin",
+            "rank": "PLATINUM"
         }
     ]
 }
