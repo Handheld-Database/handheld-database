@@ -1,0 +1,3 @@
+## Overview
+
+Once again, the brave knight Arthur is called into action to face the Dark Lord in order to rescue the princess. The fourth title in the series, Arthur must make numerous ghouls and monsters on his quest to save Princess Prin Prin before her life is taken by the newest Dark Lord's evil plan. Possessing the familiar moves that Arthur is known for, he must go throughout numerous levels in this latest 2D quest with new 3D rendered elements.  New abilities and upgrades allow Arthur a new set of moves to face this difficult platformer, and Warp Keys allow Arthur to go back and revisit completed worlds in order to find more secrets and weapons.  Ever present are the classic cast of zombies, the shape-changing magicians, and the infamous Red Devil.

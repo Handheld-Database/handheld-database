@@ -1,0 +1,3 @@
+## Overview
+
+Ao no Kiseki is a sequel to The Legend of Heroes: Zero no Kiseki and continues the story of Lloyd Bannings, Elie MacDowel, Tio Plate and Randy Orlando, leading characters we got to know in the previous game. The game continues the next chapter in Crossbell State while introducing new menace which will lead the protagonists on a whole new adventure, meeting new characters and visiting new places. Game 3D isometric bird's eye view perspective is unaltered while gameplay itself has some new features, especially the new burst battle system. The game also features climate change such as morning, evening, or rain. Some quests are even tied to the current climate. At recreational areas game offers several mini-games such as casino games or block variants.

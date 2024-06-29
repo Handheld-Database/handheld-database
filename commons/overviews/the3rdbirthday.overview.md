@@ -1,0 +1,3 @@
+## Overview
+
+The third game in Parasite Eve series which puts you in a role of Aya Brea, not a NYPD cop anymore, but a member of CTI (Counter Twisted Organization), an organization fighting the new type of enemy branded as Twisted that suddenly came into picture. Unlike in the first two games, game is 3D with no static background and uses over-the-shoulder camera. Aya has a new special ability that allows her to transfer her soul to other allies on the battlefield, called Overdrive, which allows her to take control over friendly NPCs.

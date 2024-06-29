@@ -1,0 +1,3 @@
+## Overview
+
+Coded Arms is a first-person shooter game for the PSP. You play as a future hacker, who uses technologies to jack his brain into computer networks. The entire game takes place in a virtual reality world inside a computer network. This world was created as a combat simulator for an alien invasion. Even though the program was canceled, it kept running and growing inside the network. You infiltrate the world to neutralize it. The game offers six sectors to explore, each containing several sub-sections. Each of them has a good selection of different types of weapons you can collect during the levels. Coded Arms also uses The Matrix-style effects. There are three multiplayer types with support up to four players: Deathmatch, Keep the Mark and Last Man Standing.

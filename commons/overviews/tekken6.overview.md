@@ -1,0 +1,7 @@
+## Overview
+
+This is the sixth incarnation of the long running fighting game series.
+After winning the last King of Iron Fist tournament and taking over Mishima Zaibatsu, Jin Kazama started to develop into a tyrant and turns Mishima Zaibatsu into a superpower, severs all links with other nations and goes to war with them.
+To end this war, Lars Alexandersson, a soldier in the Tekken Force, starts a rebellion and brings about the end of Mishima Zaibatsu. The gameplay of Tekken 6 runs along the same lines of previous Tekkens. Players start by picking their character, who they will use throughout the King of Iron Fist tournament. In each round of the tournament, the first combatant to reach two K.O.'s is declared winner, although this can be extended to five. If neither player is victorious by the time the round timer reaches zero, whoever has the most health will be declared the winner.
+Tekken 6 come with gameplay enhancements that include improved character customization and a new feature called "Rage" that improves the damage a player can do when their health gets below a certain point.
+There are also six new playable characters. Multiplayer features standard fights, which can be played online through Xbox LIVE and PSN.

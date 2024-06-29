@@ -1,0 +1,3 @@
+## Overview
+
+This enhanced version of Disgaea 2: Cursed Memories includes a whole new cast of characters and features from other games in the franchise, namely from Disgaea 3: Absence of Justice , an 'Axel Mode' storyline, new monsters and more powerful spells. Being on PSP, it also has various DLC available. Like in previous PSP versions of the Disgaea series , it includes Music and Data Shops. The Steam port has an updated UI, keyboard and mouse support, and has three new to west playable characters: Dark Eclair, Gig, and Miabel.
