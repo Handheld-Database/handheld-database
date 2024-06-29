@@ -113,9 +113,9 @@ def create_game(platform_name, system_name, game_name):
     attributes = {}
 
     # Prompt user for game attributes
-    attributes["name"] = normalize_string(game_name)
+    attributes["name"] = game_name
     attributes["key"] = normalize_string_2(game_name)
-    attributes["rank"] = scan_input("Enter the rank (GOLD, SILVER, BRONZE & GARBAGE): ")
+    attributes["rank"] = scan_input("Enter the rank (PLATINUM, GOLD, SILVER, BRONZE & GARBAGE): ")
 
     # Create json and md files for the game
     game_json_path = os.path.join(game_dir, f'{normalize_game_name}.json')
