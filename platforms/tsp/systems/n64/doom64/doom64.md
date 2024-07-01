@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Great
 
 **Recommended Core config**: RA ParaLLEl Dynarec/Gln64
+
 **Notes**: Game is natively very dark, maxing brightness slider in menu is recommended

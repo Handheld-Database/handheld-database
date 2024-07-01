@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, no audio, leaked alpha
 
 **RA Mupen Dynarec/HLE**: Loads, Runs 2x speed
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

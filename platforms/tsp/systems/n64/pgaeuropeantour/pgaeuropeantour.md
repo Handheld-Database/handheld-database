@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, UI, Minor FPS, Slow load
 
 **RA Mupen Dynarec/HLE**: Ok, UI, Minor FPS, Slow load
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

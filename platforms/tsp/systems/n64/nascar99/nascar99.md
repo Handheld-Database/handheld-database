@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, UI, Menu, Texture, Slow load
 
 **RA Mupen Dynarec/HLE**: Good, Slow load
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

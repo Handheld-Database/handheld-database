@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, res
 
 **RA Mupen Dynarec/HLE**: Loads, hangs.
+
+**Recommended Core config**: paraLLEl Dynarec/Gln64

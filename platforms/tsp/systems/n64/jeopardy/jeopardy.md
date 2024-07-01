@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Doesn’t respond to controls
 
 **RA Mupen Dynarec/HLE**: Doesn’t respond to controls
+
+**Recommended Core config**: None

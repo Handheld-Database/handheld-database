@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Crash
 
 **RA Mupen Dynarec/HLE**: Crash
+
+**Recommended Core config**: RA Mupen Pure/HLE

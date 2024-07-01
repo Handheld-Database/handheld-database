@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Ok, textures, unstable FPS, text, menu lag*
 
 **Recommended Core config**: Not tested
+
 **Notes**: Gameplay would be Bronze rating. Menu feels like its running at 2FPS despite reporting higher.

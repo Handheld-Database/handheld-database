@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Ok, Unstable FPS
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: FPS evens out once in gameplay

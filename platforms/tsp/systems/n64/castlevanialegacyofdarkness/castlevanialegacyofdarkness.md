@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Ok, Res, Texture, Unstable FPS
 
 **Recommended Core config**: RA ParaLLEl Dynarec/Rice
+
 **Notes**: Low Res mode recommended.

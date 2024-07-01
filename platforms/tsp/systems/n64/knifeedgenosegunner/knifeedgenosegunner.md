@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Ok, Plays too fast
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Possiblity of 30fps cheat/hack?

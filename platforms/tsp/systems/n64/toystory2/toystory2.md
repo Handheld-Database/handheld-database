@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, Z-Buffer
 
 **RA Mupen Dynarec/HLE**: Great
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

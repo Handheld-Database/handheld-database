@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Crash
 
 **Recommended Core config**: RA ParaLLEl Dynarec/Rice
+
 **Notes**: Constant flickering but otherwise playable w/ rice gfx

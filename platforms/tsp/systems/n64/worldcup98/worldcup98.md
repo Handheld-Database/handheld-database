@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, Menu glitched, Low FPS Slowdown
 
 **RA Mupen Dynarec/HLE**: Ok, Menu Glitched, Unstable FPS
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Flickering
 
 **RA Mupen Dynarec/HLE**: Good, slight seizure
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

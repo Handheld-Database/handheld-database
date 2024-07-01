@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, res, ui, unstable FPS
 
 **RA Mupen Dynarec/HLE**: Good res
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

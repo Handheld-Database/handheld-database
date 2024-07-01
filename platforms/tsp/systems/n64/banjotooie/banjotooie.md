@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Low FPS Slowdown
 
 **RA Mupen Dynarec/HLE**: Invisible Textures, Low FPS Slowdown
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

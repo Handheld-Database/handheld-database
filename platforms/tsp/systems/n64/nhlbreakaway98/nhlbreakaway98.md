@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Great
 
 **RA Mupen Dynarec/HLE**: Crash
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

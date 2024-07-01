@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, resolution streched
 
 **RA Mupen Dynarec/HLE**: Good res, invisible textures
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

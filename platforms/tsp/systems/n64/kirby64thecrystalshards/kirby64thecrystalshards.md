@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Loads, Crashes later in game.
 
 **Recommended Core config**: RA Mupen Pure/HLE
+
 **Notes**: Mupen/Pure seems most stable but experienced crashes a few levels in with Mupen/Dynarec

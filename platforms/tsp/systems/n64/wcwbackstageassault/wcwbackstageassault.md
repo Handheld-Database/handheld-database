@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Heavy gfx glitch, crash
 
 **RA Mupen Dynarec/HLE**: Crash
+
+**Recommended Core config**: None

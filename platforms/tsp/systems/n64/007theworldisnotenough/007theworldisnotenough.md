@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Z-Buffer
 
 **RA Mupen Dynarec/HLE**: Invisible Textures
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

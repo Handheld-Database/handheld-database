@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Minor FPS, Z-Buffer
 
 **RA Mupen Dynarec/HLE**: Heavy gfx glitch
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

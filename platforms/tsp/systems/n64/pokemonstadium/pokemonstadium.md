@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Good, UI, texture, Minor FPS
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Unsure if transfer pack works, doesn’t appear in menu where it should.

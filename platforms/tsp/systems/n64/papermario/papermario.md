@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, Crash before gameplay
 
 **RA Mupen Dynarec/HLE**: Loads, Crash before gameplay
+
+**Recommended Core config**: RA Mupen Pure/HLE

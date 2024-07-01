@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, texture, Minor FPS
 
 **RA Mupen Dynarec/HLE**: Hangs on load
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

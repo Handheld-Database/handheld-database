@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Good, texture, seizure
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Arena banners strobe rapidly otherwise game plays fine.

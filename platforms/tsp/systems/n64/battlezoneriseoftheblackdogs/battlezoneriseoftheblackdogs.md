@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Texture, Flickering
 
 **RA Mupen Dynarec/HLE**: Ok, Camera issues
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

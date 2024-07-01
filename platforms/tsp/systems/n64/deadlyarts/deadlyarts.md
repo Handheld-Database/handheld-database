@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, Layers, Unstable FPS
 
 **RA Mupen Dynarec/HLE**: Loads, texture, Low FPS Slowdown
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Loads, hangs
 
 **Recommended Core config**: RA ParaLLEl Dynarec/Rice
+
 **Notes**: Player select and pause menu flicker, some minigames fail to load.

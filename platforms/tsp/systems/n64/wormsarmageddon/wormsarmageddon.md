@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Low FPS Slowdown, Hangs System
 
 **RA Mupen Dynarec/HLE**: Ok, Unstable FPS
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

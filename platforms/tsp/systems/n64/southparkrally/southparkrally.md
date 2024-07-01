@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, Seizure, Texture, Minor FPS
 
 **RA Mupen Dynarec/HLE**: Loads, Low FPS Slowdown, Draw limit issues
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Res
 
 **RA Mupen Dynarec/HLE**: Good, Res
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

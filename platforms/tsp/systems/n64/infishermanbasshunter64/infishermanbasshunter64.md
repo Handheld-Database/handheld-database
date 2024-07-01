@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Ok, res, seizure
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Plays fine but underwater camera flickers rapidly

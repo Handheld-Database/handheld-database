@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Good, Minor FPS, Menu Lag
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Noticed crashing when standing on certain points on earlier playthroughs, out of the way areas hard to test for.

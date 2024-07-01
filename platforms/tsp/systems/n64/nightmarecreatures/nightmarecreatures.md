@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, Low FPS Slowdown
 
 **RA Mupen Dynarec/HLE**: Heavy gfx glitch
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

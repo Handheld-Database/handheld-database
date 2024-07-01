@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Great
 
 **RA Mupen Dynarec/HLE**: Good, Sprite
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, invisible texture
 
 **RA Mupen Dynarec/HLE**: Ok, invisible texture
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Ok, menu, texture, seizure, Unstable FPS
 
 **Recommended Core config**: RA ParaLLEl Dynarec/Rice
+
 **Notes**: Arena banners strobe rapidly otherwise game plays fine.

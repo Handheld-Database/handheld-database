@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, Invisible texture, UI, Slow Loading
 
 **RA Mupen Dynarec/HLE**: Ok, Invisible texture, Slow Loading
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

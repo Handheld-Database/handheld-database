@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, Z-buffer
 
 **RA Mupen Dynarec/HLE**: Good, Minor FPS
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

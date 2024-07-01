@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Skybox
 
 **RA Mupen Dynarec/HLE**: Good, Texture, No Audio
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

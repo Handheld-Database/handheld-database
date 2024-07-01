@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, Res, Heavy lag in menus
 
 **RA Mupen Dynarec/HLE**: Hangs on load
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

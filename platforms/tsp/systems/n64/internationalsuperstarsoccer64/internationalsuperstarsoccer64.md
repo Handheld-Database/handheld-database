@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, text, texture, menu lag, Z-Buffer
 
 **RA Mupen Dynarec/HLE**: Ok, Menu Lag, Shadows
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

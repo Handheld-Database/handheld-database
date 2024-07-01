@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Good, Res, Lighting
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Requires Rumble Pack P1. Cannot have Memory Pack in P2-4. Set per game override and reset.

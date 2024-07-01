@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, Crash
 
 **RA Mupen Dynarec/HLE**: Loads, Crash
+
+**Recommended Core config**: None

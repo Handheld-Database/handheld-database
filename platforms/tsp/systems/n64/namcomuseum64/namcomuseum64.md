@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Heavy Gfx Issues
 
 **RA Mupen Dynarec/HLE**: Hangs on load
+
+**Recommended Core config**: None

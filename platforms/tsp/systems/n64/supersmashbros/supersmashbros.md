@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Good, Minor FPS
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Lags heavier depending on amount of players. Solo/1v1 Is pretty stable, 2v2 stutters more

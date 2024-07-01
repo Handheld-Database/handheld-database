@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, res, text, menu lag
 
 **RA Mupen Dynarec/HLE**: Good, res, menu lag
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

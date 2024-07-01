@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, Hangs
 
 **RA Mupen Dynarec/HLE**: Loads, Hangs
+
+**Recommended Core config**: None

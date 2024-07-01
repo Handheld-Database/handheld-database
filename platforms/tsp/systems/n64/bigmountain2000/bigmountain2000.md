@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Great
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Minor UI flickering. Native CRT dithering?

@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, Heavy gfx glitch, Unstable FPS
 
 **RA Mupen Dynarec/HLE**: Ok, UI, Unstable FPS
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

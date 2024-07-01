@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Ok, Unstable FPS
 
 **Recommended Core config**: RA Mupen Dynarec/HLE
+
 **Notes**: Reports it runs fine with Rom v1.0 on stock, still seeing 30% frame loss when more than 4 cars are visible.

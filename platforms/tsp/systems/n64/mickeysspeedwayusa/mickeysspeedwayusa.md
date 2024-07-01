@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Crash
 
 **RA Mupen Dynarec/HLE**: Good Minor FPS
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

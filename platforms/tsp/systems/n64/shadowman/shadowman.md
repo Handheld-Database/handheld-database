@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Z-Buffer, Minor FPS, Slow loads
 
 **RA Mupen Dynarec/HLE**: Ok, Unstable FPS, slow loads
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

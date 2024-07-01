@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, severe video issues
 
 **RA Mupen Dynarec/HLE**: Loads, severe video issues
+
+**Recommended Core config**: None

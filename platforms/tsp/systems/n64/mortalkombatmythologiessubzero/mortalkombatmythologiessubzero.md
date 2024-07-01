@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Text
 
 **RA Mupen Dynarec/HLE**: Ok, Renders upsidedown
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, Menu seizure, Unstable FPS
 
 **RA Mupen Dynarec/HLE**: Loads, Menu seizure, Low FPS Slowdown
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

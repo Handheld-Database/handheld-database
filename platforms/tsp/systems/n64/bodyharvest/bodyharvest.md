@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, Z-buffer, Unstable FPS
 
 **RA Mupen Dynarec/HLE**: Ok, Z-buffer, Unstable FPS
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

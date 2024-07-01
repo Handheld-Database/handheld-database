@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Ok, Res, Texture, Camera
 
 **RA Mupen Dynarec/HLE**: Ok, Res, Texture, Camera
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

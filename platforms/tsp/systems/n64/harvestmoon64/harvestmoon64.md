@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Heavy gfx glitch
 
 **RA Mupen Dynarec/HLE**: Good, UI
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

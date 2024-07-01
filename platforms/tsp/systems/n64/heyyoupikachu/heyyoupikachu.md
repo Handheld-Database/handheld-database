@@ -15,4 +15,5 @@
 **RA Mupen Dynarec/HLE**: Not tested
 
 **Recommended Core config**: None
+
 **Notes**: Requires Microphone, Unsupported on current cores?

@@ -208,7 +208,7 @@ with open(csv_file_path, 'r') as csvfile:
             f"\n**RA Mupen Pure/HLE**: {row[4] if len(row[4]) > 1 else 'Not tested'}",
             f"\n**RA ParaLLEl Dynarec/Rice**: {row[5] if len(row[5]) > 1 else 'Not tested'}",
             f"\n**RA Mupen Dynarec/HLE**: {row[6] if len(row[6]) > 1 else 'Not tested'}",
-            F"\n**Recommended Core config**: {row[2] if len(row[2]) > 1 else 'Not tested'}"
+            F"\n**Recommended Core config**: {row[2] if len(row[2]) > 1 else 'Not tested'}",
             f"\n**Notes**: {row[7]}" if len(row[7]) > 0 else None,
         ]
         observations = [obs for obs in observations if obs]  # Remove empty observations

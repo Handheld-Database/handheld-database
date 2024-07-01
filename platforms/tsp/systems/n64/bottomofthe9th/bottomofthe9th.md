@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Res, Slow Load, Minor FPS
 
 **RA Mupen Dynarec/HLE**: Low FPS Slowdown
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

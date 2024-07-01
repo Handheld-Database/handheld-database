@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Good, Menu Lags, Minor FPS
 
 **RA Mupen Dynarec/HLE**: Good, Menu Lags
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64

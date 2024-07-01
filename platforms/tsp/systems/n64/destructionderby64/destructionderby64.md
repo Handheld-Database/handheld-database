@@ -13,3 +13,5 @@
 **RA ParaLLEl Dynarec/Rice**: Loads, Sprite, Low FPS Slowdown
 
 **RA Mupen Dynarec/HLE**: Loads, Low FPS Slowdown
+
+**Recommended Core config**: None
