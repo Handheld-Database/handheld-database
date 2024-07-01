@@ -4,10 +4,15 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Ok, seizure
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Ok, res, seizure
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Loads, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Ok, res, seizure
+
+**RA Mupen Dynarec/HLE**: Ok, res, seizure
+
+**Recommended Core config**: RA Mupen Dynarec/HLE
+**Notes**: Plays fine but underwater camera flickers rapidly

@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Draw limit issues
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Draw limit issues
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Draw limit issues
+**RA Mupen Pure/HLE**: Loads, Low FPS Slowdown, Draw limit issues
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Ok, Seizure, Texture, Minor FPS
+
+**RA Mupen Dynarec/HLE**: Loads, Low FPS Slowdown, Draw limit issues

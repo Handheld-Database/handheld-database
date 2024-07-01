@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Great
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Great
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Good
+**RA Mupen Pure/HLE**: Good, Minor FPS
 
-**Pure/HLE**: ParaLLEl is faster
+**RA ParaLLEl Dynarec/Rice**: Good, Text
+
+**RA Mupen Dynarec/HLE**: Great

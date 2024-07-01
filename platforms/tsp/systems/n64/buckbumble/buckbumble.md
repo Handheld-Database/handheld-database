@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Good, non-standard resolution issues
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Good, Res
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Good, non-standard resolution issues
+**RA Mupen Pure/HLE**: Good, res
 
-**Pure/HLE**: Not tested
+**RA ParaLLEl Dynarec/Rice**: Good, res
+
+**RA Mupen Dynarec/HLE**: Good, res

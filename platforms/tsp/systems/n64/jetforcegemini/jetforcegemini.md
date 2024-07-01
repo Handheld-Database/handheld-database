@@ -4,10 +4,15 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Loads, unplayable sprite glitches
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Loads, unplayable sprite glitches
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads seizure
+**RA Mupen Pure/HLE**: Loads, Seizure, Unstable FPS
 
-**Pure/HLE**: High FPS but unstable
+**RA ParaLLEl Dynarec/Rice**: Loads, Seizure, FPS is good
+
+**RA Mupen Dynarec/HLE**: Crash
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice
+**Notes**: Constant flickering but otherwise playable w/ rice gfx

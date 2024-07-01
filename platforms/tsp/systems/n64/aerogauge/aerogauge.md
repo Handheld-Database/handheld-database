@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Good, gfx glitch shadows
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: 30
+**RA ParaLLEl Dynarec/Gln64**: Good, res, shadows
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Great
+**RA Mupen Pure/HLE**: Good, Res
 
-**Pure/HLE**: Not tested
+**RA ParaLLEl Dynarec/Rice**: Good, Res
+
+**RA Mupen Dynarec/HLE**: Good, Res

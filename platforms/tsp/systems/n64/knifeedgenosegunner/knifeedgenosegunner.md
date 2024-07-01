@@ -4,10 +4,15 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Good, minor gfx
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Ok, minor gfx, plays too fast
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Loads, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Ok, Menu, UI, Plays too fast
+
+**RA Mupen Dynarec/HLE**: Ok, Plays too fast
+
+**Recommended Core config**: RA Mupen Dynarec/HLE
+**Notes**: Possiblity of 30fps cheat/hack?

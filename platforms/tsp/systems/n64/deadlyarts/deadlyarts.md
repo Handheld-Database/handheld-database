@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Loads, gfx glitch layers displayed out of order
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Unstable FPS
+**RA ParaLLEl Dynarec/Gln64**: Loads, Layers, Unstable FPS
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads, texture glitch
+**RA Mupen Pure/HLE**: Loads, Texture, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Loads, Layers, Unstable FPS
+
+**RA Mupen Dynarec/HLE**: Loads, texture, Low FPS Slowdown

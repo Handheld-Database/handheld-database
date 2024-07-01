@@ -4,10 +4,15 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Crash
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Crash
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Ok, texture issue, no mic
+**RA Mupen Pure/HLE**: Ok, Texture, Mic, Unstable FPS
 
-**Pure/HLE**: High FPS but unstable
+**RA ParaLLEl Dynarec/Rice**: Not tested
+
+**RA Mupen Dynarec/HLE**: Not tested
+
+**Recommended Core config**: None
+**Notes**: Requires Microphone, Unsupported on current cores?

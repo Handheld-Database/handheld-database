@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Ok, extreme texture issues
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Stable FPS
+**RA ParaLLEl Dynarec/Gln64**: Ok, extreme texture issues
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Good, texture
+**RA Mupen Pure/HLE**: Good, texture, Low FPS in menu
 
-**Pure/HLE**: Low FPS in menu
+**RA ParaLLEl Dynarec/Rice**: Great
+
+**RA Mupen Dynarec/HLE**: Good, Sprite

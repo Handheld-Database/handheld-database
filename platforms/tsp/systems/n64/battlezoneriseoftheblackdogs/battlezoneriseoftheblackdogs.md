@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Loads, heavy gfx glitch
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: 60
+**RA ParaLLEl Dynarec/Gln64**: Loads, heavy gfx glitch
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Ok, Unstable FPS
 
-**Pure/HLE**: Audio Stutter, 30fps
+**RA ParaLLEl Dynarec/Rice**: Good, Texture, Flickering
+
+**RA Mupen Dynarec/HLE**: Ok, Camera issues

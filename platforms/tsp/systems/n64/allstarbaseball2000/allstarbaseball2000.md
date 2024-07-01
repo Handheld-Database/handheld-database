@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Ok, gfx glitch corrupted sprite
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: FPS dips but not stuttering
+**RA ParaLLEl Dynarec/Gln64**: Ok, Unstable FPS
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Hangs on load
+**RA Mupen Pure/HLE**: Hangs on load
 
-**Pure/HLE**: Not tested
+**RA ParaLLEl Dynarec/Rice**: Ok, Texture, Slow Load, Unstable FPS
+
+**RA Mupen Dynarec/HLE**: Hangs on load

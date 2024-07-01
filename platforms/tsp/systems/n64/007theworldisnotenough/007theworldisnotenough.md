@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Great
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Good, Z-Buffer
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads, invisible textures
+**RA Mupen Pure/HLE**: Invisible textures, Low FPS stuttering
 
-**Pure/HLE**: Low FPS stuttering
+**RA ParaLLEl Dynarec/Rice**: Good, Z-Buffer
+
+**RA Mupen Dynarec/HLE**: Invisible Textures

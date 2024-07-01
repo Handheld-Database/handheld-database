@@ -4,10 +4,12 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Good, UI, Skybox glitched
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Unstable FPS
+**RA ParaLLEl Dynarec/Gln64**: Good, UI, Skybox glitched, Minor FPS
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Ok
+**RA Mupen Pure/HLE**: Ok, Unstable FPS
 
-**Pure/HLE**: Low FPS
+**RA ParaLLEl Dynarec/Rice**: Ok, UI, Unstable FPS
+
+**RA Mupen Dynarec/HLE**: Good, Res
