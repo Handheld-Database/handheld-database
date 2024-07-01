@@ -68,7 +68,7 @@ Run the script with the appropriate command to create platforms, systems, and ga
   ```bash
   python tools/new_file.py new platform myplatform
 
-- Create a new game, TrimUI Smart Pro(TSP) example with multiple word game name:
+- Create a new game, TrimUI Smart Pro(TSP) PORTs example with multiple words game name:
   ```bash
   python tools/new_file.py new tsp ports 'game name goes here'
 
