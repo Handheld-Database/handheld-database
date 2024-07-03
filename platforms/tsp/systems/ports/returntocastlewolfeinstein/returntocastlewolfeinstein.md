@@ -7,6 +7,8 @@
 While testing it, this game let me change the settings ingame and did not crash while I did that. So you an change the settings, turn on FPS counter, etc...
 Portmaster page of the game: [here](https://portmaster.games/detail.html?name=iortcw)
 
+**Tester**: meeeaCH
+
 **ATTENTION** the game won't run on the proper resolution, you need to run the game once. After that you need to modify the **wolfconfig.cfg** file.
 **Resolution change steps:**
 1. After you run the game once.
@@ -26,6 +28,15 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=io
 7. Eject the SD card to safely remove it and put it back in your device.
 8. Run the game once.
 9. Follow the steps in the **"Resolution change step"**.
+
+**CrossMix-OS installation:**
+1. Open Portmaster and navigate to **"All Ports"**.
+2. Look for **Return to Castle Wolfenstein** and install it.
+3. Close Portmaster, power off your device and connect your SD card to your PC.
+4. You need to add your own **pak0.pk3**, **sp_pak1.pk3**, **sp_pak2.pk3**, **sp_pak3.pk3** and **sp_pak4.pk3** to the **"./Data/ports/iortcw/main/"** folder.
+5. Eject the SD card to safely remove it and put it back in your device.
+6. Run the game once.
+7. Follow the steps in the **"Resolution change step"**.
 
 **Tomato OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
