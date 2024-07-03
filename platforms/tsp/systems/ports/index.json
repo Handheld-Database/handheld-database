@@ -69,6 +69,11 @@
             "name": "Return to Castle Wolfeinstein",
             "key": "returntocastlewolfeinstein",
             "rank": "PLATINUM"
+        },
+        {
+            "name": "Alien vs predator",
+            "key": "alienvspredator",
+            "rank": "GOLD"
         }
     ]
 }

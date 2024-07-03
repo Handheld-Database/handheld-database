@@ -16,6 +16,14 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=bl
 7. Eject the SD card to safely remove it and put it back in your device.
 8. Have fun!
 
+**CrossMix-OS installation:**
+1. Open Portmaster and navigate to **"All Ports"**.
+2. Look for **Blossom Tales II** and install it.
+3. Close Portmaster, power off your device and connect your SD card to your PC.
+4. Copy all files from your **Blossom Tales II: The Minotaur Prince** installation to **"./Data/ports/blossomtales2/"** folder and replace everything it wants to.
+5. Eject the SD card to safely remove it and put it back in your device.
+6. Have fun!
+
 **Tomato OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
 2. Look for **Blossom Tales II** and install it.
