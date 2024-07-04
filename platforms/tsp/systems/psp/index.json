@@ -419,6 +419,21 @@
             "name": "LEGO Harry Potter: Years 1-4",
             "key": "legoharrypotteryears14",
             "rank": "PLATINUM"
+        },
+        {
+            "name": "LittleBigPlanet",
+            "key": "littlebigplanet",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Dragon Ball Z Shin Budokai",
+            "key": "dragonballzshinbudokai",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Prince of Persia: Revelations",
+            "key": "princeofpersiarevelations",
+            "rank": "SILVER"
         }
     ]
 }
