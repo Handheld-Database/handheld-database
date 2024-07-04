@@ -4,10 +4,16 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Good, texture, seizure
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Good, texture, seizure
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Good, texture, seizure
+**RA Mupen Pure/HLE**: Good, texture, seizure
 
-**Pure/HLE**: Not tested
+**RA ParaLLEl Dynarec/Rice**: Good, texture, seizure
+
+**RA Mupen Dynarec/HLE**: Good, texture, seizure
+
+**Recommended Core config**: RA Mupen Dynarec/HLE
+
+**Notes**: Arena banners strobe rapidly otherwise game plays fine.

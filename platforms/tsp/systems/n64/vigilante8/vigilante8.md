@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Loads, sprites, texture, seizure
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: High FPS but slowdown
+**RA ParaLLEl Dynarec/Gln64**: Loads, sprites, texture, seizure, Slowdown
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Loads, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Loads, sprites, texture, seizure, Slowdown
+
+**RA Mupen Dynarec/HLE**: Loads, Low FPS Slowdown
+
+**Recommended Core config**: None

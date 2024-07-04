@@ -4,10 +4,16 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Ok, textures
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Slowdown
+**RA ParaLLEl Dynarec/Gln64**: Ok, textures, Unstable FPS
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Loads, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Ok, textures, Unstable FPS
+
+**RA Mupen Dynarec/HLE**: Good, Minor FPS
+
+**Recommended Core config**: RA Mupen Dynarec/HLE
+
+**Notes**: Lags heavier depending on amount of players. Solo/1v1 Is pretty stable, 2v2 stutters more

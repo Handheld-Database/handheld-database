@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Ok, texture render out of order
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Good, Z-Buffer, Slow Load
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Loads, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Good, Z-Buffer, Slow Load
+
+**RA Mupen Dynarec/HLE**: Good, Slow Load, Minor FPS
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

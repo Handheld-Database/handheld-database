@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Ok, texture flickering/seizure warning
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Ok, texture flickering/seizure warning
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Great
+**RA Mupen Pure/HLE**: Ok, Unstable FPS
 
-**Pure/HLE**: Not tested
+**RA ParaLLEl Dynarec/Rice**: Good res, Minor FPS
+
+**RA Mupen Dynarec/HLE**: Ok, Unstable FPS
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

@@ -201,15 +201,15 @@ with open(csv_file_path, 'r') as csvfile:
     for row in csvreader:
         if len(row) == 0:
             continue
-        game_name = extract_game_name(row[0])
+        game_name = extract_game_name(row[1])
         observations = [
-            f"**ParaLLEl (2.0-rc2 a03fdcba)**: {row[1] if len(row[1]) > 1 else 'Not tested'}",
-            f"
-**Dynarec/Gln64**: {row[2] if len(row[2]) > 1 else 'Not tested'}",
-            f"
-**Mupen64Plus GLES2 (2.5 ab8134a)**: {row[3] if len(row[3]) > 1 else 'Not tested'}",
-            f"
-**Pure/HLE**: {row[4] if len(row[4]) > 1 else 'Not tested'}"
+            f"### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode"
+            f"\n\n**RA ParaLLEl Dynarec/Gln64**: {row[3] if len(row[3]) > 1 else 'Not tested'}",
+            f"\n**RA Mupen Pure/HLE**: {row[4] if len(row[4]) > 1 else 'Not tested'}",
+            f"\n**RA ParaLLEl Dynarec/Rice**: {row[5] if len(row[5]) > 1 else 'Not tested'}",
+            f"\n**RA Mupen Dynarec/HLE**: {row[6] if len(row[6]) > 1 else 'Not tested'}",
+            F"\n**Recommended Core config**: {row[2] if len(row[2]) > 1 else 'Not tested'}",
+            f"\n**Notes**: {row[7]}" if len(row[7]) > 0 else None,
         ]
         observations = [obs for obs in observations if obs]  # Remove empty observations
 
@@ -218,13 +218,17 @@ with open(csv_file_path, 'r') as csvfile:
         game_id = fetch_steamgriddb_game_id(steam_grid_api_key, game_name)
 
         # Determine rank
-        rank = "GARBAGE"
-        if "Great" in row[1] or "Great" in row[2] or "Great" in row[3]:
+        rank = "FAULTY"
+        if "P" in row[0]:
+            rank = "PLATINUM"
+        elif "G" in row[0]:
             rank = "GOLD"
-        elif "Good" in row[1] or "Good" in row[2] or "Good" in row[3]:
+        elif "S" in row[0]:
             rank = "SILVER"
-        elif "Ok" in row[1] or "Ok" in row[2] or "Ok" in row[3]:
+        elif "B" in row[0]:
             rank = "BRONZE"
+        elif "F" in row[0]:
+            rank = "FAULTY"
 
         print(steam_grid_api_key, game_id)
 

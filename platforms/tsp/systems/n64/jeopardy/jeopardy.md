@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Doesn’t respond to controls
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Doesn’t respond to controls
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Doesn’t respond to controls
+**RA Mupen Pure/HLE**: Doesn’t respond to controls
 
-**Pure/HLE**: Not tested
+**RA ParaLLEl Dynarec/Rice**: Doesn’t respond to controls
+
+**RA Mupen Dynarec/HLE**: Doesn’t respond to controls
+
+**Recommended Core config**: None

@@ -120,7 +120,7 @@ Banners should be provided in the dimensions of 1050x380 pixels to ensure clarit
 - **Gameplay**: Inconsistent, with more frequent and noticeable FPS drops and occasional stuttering.
 - **Load**: Slow loading, with the possibility of crashes or issues that affect usability.
 
-## GARBAGE
+## FAULTY
 - **Graphics**: Poor, with severe glitches and visual issues that hinder gameplay.
 - **Gameplay**: Very unstable, with constant FPS drops and severe stuttering, compromising playability.
 - **Load**: Significant loading problems, including frequent crashes and glitches that impede proper use.

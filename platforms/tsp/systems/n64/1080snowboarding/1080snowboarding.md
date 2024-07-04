@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Heavy framedips on load, gfx glitch texture melt
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: 30
+**RA ParaLLEl Dynarec/Gln64**: Good, Slow Loading, Textures
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Low FPS Slowdown
 
-**Pure/HLE**: Low FPS stuttering
+**RA ParaLLEl Dynarec/Rice**: Good, Loading, Texture
+
+**RA Mupen Dynarec/HLE**: Good, Texture
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Loads, Guide/Directional Indicator invisible
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Loads, UI
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Good, FPS stutter on loads
+**RA Mupen Pure/HLE**: Good, FPS stutter on loads
 
-**Pure/HLE**: Not tested
+**RA ParaLLEl Dynarec/Rice**: Loads, UI
+
+**RA Mupen Dynarec/HLE**: Great
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

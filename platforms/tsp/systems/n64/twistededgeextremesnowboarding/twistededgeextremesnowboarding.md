@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Good, textures, shadows
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Unstable FPS
+**RA ParaLLEl Dynarec/Gln64**: Good, textures, shadows, Minor FPS
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads, no audio
+**RA Mupen Pure/HLE**: Loads, no audio, Low FPS Slowdown
 
-**Pure/HLE**: Slowdown
+**RA ParaLLEl Dynarec/Rice**: Good, Skybox
+
+**RA Mupen Dynarec/HLE**: Good, Texture, No Audio
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Rice

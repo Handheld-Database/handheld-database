@@ -4,10 +4,16 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Ok, could not get rumble pack to detect
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Good, Res, Lighting
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Good, requires rumble pack core option, res issues
+**RA Mupen Pure/HLE**: Good, Res, Lighting
 
-**Pure/HLE**: Not tested
+**RA ParaLLEl Dynarec/Rice**: Good, Res, Lighting
+
+**RA Mupen Dynarec/HLE**: Good, Res, Lighting
+
+**Recommended Core config**: RA Mupen Dynarec/HLE
+
+**Notes**: Requires Rumble Pack P1. Cannot have Memory Pack in P2-4. Set per game override and reset.

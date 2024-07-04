@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Good, texture
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Ok, Invisible texture, texture, Slow Loading
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Ok, invisible texture
+**RA Mupen Pure/HLE**: Ok, Texture, Unstable FPS
 
-**Pure/HLE**: Unstable FPS
+**RA ParaLLEl Dynarec/Rice**: Ok, Invisible texture, UI, Slow Loading
+
+**RA Mupen Dynarec/HLE**: Ok, Invisible texture, Slow Loading
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

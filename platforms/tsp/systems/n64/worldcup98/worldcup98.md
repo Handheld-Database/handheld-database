@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Menu glitched
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Gln64**: Loads, Menu glitched, Low FPS Slowdown
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Menu glitched
+**RA Mupen Pure/HLE**: Loads, Menu glitched, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Loads, Menu glitched, Low FPS Slowdown
+
+**RA Mupen Dynarec/HLE**: Ok, Menu Glitched, Unstable FPS
+
+**Recommended Core config**: RA Mupen Dynarec/HLE

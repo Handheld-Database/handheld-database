@@ -4,10 +4,16 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Great, game is dark (not a bug)
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Great
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Loads, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Great
+
+**RA Mupen Dynarec/HLE**: Great
+
+**Recommended Core config**: RA ParaLLEl Dynarec/Gln64
+
+**Notes**: Game is natively very dark, maxing brightness slider in menu is recommended

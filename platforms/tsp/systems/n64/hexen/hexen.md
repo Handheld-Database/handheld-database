@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Loads, hangs, render issue
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Gln64**: Loads, res, hangs, render issue, Low FPS Slowdown
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads, hangs
+**RA Mupen Pure/HLE**: Loads, res, Hangs, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Loads, res, hangs, render issue, Low FPS Slowdown
+
+**RA Mupen Dynarec/HLE**: Loads, res, Hangs, Low FPS Slowdown
+
+**Recommended Core config**: None

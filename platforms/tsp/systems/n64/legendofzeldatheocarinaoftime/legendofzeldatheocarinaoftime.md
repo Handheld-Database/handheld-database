@@ -4,10 +4,16 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Good, texture, shadows, UI
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Good, texture, shadows, UI, Minor FPS, Menu Lag
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads
+**RA Mupen Pure/HLE**: Loads, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS Slowdown
+**RA ParaLLEl Dynarec/Rice**: Ok, Unstable FPS, Menu Lags
+
+**RA Mupen Dynarec/HLE**: Good, Minor FPS, Menu Lag
+
+**Recommended Core config**: RA Mupen Dynarec/HLE
+
+**Notes**: Noticed crashing when standing on certain points on earlier playthroughs, out of the way areas hard to test for.

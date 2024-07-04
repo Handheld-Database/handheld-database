@@ -4,10 +4,14 @@
 
 ## Execution information
 
-**ParaLLEl (2.0-rc2 a03fdcba)**: Loads, severe video issues
+### Tested on RA 1.18.0 Crossmix 1.1.0 Performance mode
 
-**Dynarec/Gln64**: Not tested
+**RA ParaLLEl Dynarec/Gln64**: Loads, severe video issues
 
-**Mupen64Plus GLES2 (2.5 ab8134a)**: Loads, severe video issues
+**RA Mupen Pure/HLE**: Severe video issues, Low FPS Slowdown
 
-**Pure/HLE**: Low FPS stuttering
+**RA ParaLLEl Dynarec/Rice**: Loads, severe video issues
+
+**RA Mupen Dynarec/HLE**: Loads, severe video issues
+
+**Recommended Core config**: None
