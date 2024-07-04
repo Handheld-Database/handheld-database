@@ -6,6 +6,8 @@
 
 Portmaster page of the game: [here](https://portmaster.games/detail.html?name=blossomtales2)
 
+**Tester**: meeeaCH
+
 **Stock OS installation:**
 1. Download the file from Portmaster. It's a zip file.
 2. Extract the downloaded zip and open the folder.

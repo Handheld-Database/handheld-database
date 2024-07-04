@@ -128,6 +128,12 @@ def create_game(platform_name, system_name, game_name):
         with open(game_md_path, 'w') as f:
             f.write(f'# {game_name}\n\nDetailed description of the game.')
 
+    # Create overview file (.md) for the added game.
+    game_overview_path = os.path.join('commons','overviews', f'{normalize_game_name}.overview.md')
+    if not os.path.exists(game_overview_path):
+        with open(game_overview_path, 'w') as f:
+            f.write(f'# {game_name}\n\nDetailed overview of the game.\n\n# KEY INFORMATION')
+
     update_games_list(normalize_platform_name, normalize_system_name, attributes)
 
 # Function to update the list of platforms in the main index.json
