@@ -434,6 +434,26 @@
             "name": "Prince of Persia: Revelations",
             "key": "princeofpersiarevelations",
             "rank": "SILVER"
+        },
+        {
+            "name": "Lego Indiana Jones 2: The Adventure Continues",
+            "key": "legoindianajones2theadventurecontinues",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Lego Star Wars II: The Original Trilogy",
+            "key": "legostarwarsiitheoriginaltrilogy",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Lego Pirates of the Caribbean: The Video Game",
+            "key": "legopiratesofthecaribbeanthevideogame",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Lego Star Wars III: The Clone Wars",
+            "key": "legostarwarsiiitheclonewars",
+            "rank": "SILVER"
         }
     ]
 }

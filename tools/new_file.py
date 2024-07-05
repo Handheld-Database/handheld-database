@@ -122,17 +122,29 @@ def create_game(platform_name, system_name, game_name):
     if not os.path.exists(game_json_path):
         with open(game_json_path, 'w') as f:
             json.dump(attributes, f, indent=4)
+
+    # Giving the user a message, if the game is in the database already.
+    else:
+        print("This game is already in the database, please search for it, if you want to add to it.")
     
     game_md_path = os.path.join(game_dir, f'{normalize_game_name}.md')
+    # Differentiate between consoles and ports
     if not os.path.exists(game_md_path):
-        with open(game_md_path, 'w') as f:
-            f.write(f'# {game_name}\n\nDetailed description of the game.')
+        # If the game is NOT a port
+        if not normalize_system_name == 'ports':
+            with open(game_md_path, 'w') as f:
+                f.write(f'## {game_name}\n\n%game_overview%\n\n# Execution information\n**Tester**:\n**Backend**:\n**Resolution**:\n**Frameskip**:\n**Autoframeskip**:')
+        else:
+        # if the game is a port
+            with open(game_md_path, 'w') as f:
+                f.write(f'## {game_name}\n\n%game_overview%\n\n# Installation\n**Tester**:\nGive instructions about the installation on the OS you used.\n\n# Troubleshoot\n Delete this if not needed.')
+
 
     # Create overview file (.md) for the added game.
     game_overview_path = os.path.join('commons','overviews', f'{normalize_game_name}.overview.md')
     if not os.path.exists(game_overview_path):
         with open(game_overview_path, 'w') as f:
-            f.write(f'# {game_name}\n\nDetailed overview of the game.\n\n# KEY INFORMATION')
+            f.write(f'## {game_name}\n\nDetailed overview of the game. \n\n# KEY INFORMATION\n\n- **Developer**:\n- **Publisher**:\n- **Platforms**:\n- **Release Date**:\n- **Genre**:\n- **Modes**:\n\n# Source of information\n FOR EXAMPLE: WIKIPEDIA: [LINK](LINK TO THE SOURCE)')
 
     update_games_list(normalize_platform_name, normalize_system_name, attributes)
 
