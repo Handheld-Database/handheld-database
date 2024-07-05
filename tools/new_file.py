@@ -1,4 +1,5 @@
-import json, os, sys, re
+import argparse
+import sys
 
 # Function to get user input and strip leading/trailing whitespace
 def scan_input(prompt):
@@ -175,11 +176,14 @@ def update_games_list(platform_name, system_name, attributes):
 
     with open(games_list_path, 'w') as f:
         json.dump(data, f, indent=4)
+from helpers.games import create_game
+from helpers.platforms import create_platform
+from helpers.systems import create_system
 
 # Function to display help text for using the script
 def display_help():
     help_text = """
-    Usage: python script.py [command] [arguments]
+    Usage: python script.py [command] [arguments] [--steamgrid-key your_api_key]
     
     Commands:
     new platform [platform_name]            Create a new platform
@@ -191,50 +195,54 @@ def display_help():
     python script.py new platform myplatform
     python script.py new system myplatform mysystem
     python script.py new game myplatform mysystem mygame
+    python script.py new platform myplatform --steamgrid-key myapikey
+    python script.py new system myplatform mysystem --steamgrid-key myapikey
+    python script.py new game myplatform mysystem mygame --steamgrid-key myapikey
     """
     print(help_text)
 
 # Main function to handle command line arguments and execute corresponding actions
 def main():
-    if len(sys.argv) < 2:
+    parser = argparse.ArgumentParser(description="Game management script")
+    parser.add_argument('command', choices=['new', 'help'], help='Command to execute')
+    parser.add_argument('entity', nargs='?', choices=['platform', 'system', 'game'], help='Entity type')
+    parser.add_argument('names', nargs='*', help='Names for the entity')
+    parser.add_argument('--steamgrid-key', help='API key for authentication')
+
+    args = parser.parse_args()
+
+    if args.command == 'help':
         display_help()
-        sys.exit(1)
-    
-    action = sys.argv[1]
-    
-    if action == 'new':
-        if len(sys.argv) < 4:
+    elif args.command == 'new':
+        if not args.entity or not args.names:
             display_help()
             sys.exit(1)
-        entity = sys.argv[2]
-        if entity == 'platform':
-            if len(sys.argv) != 4:
+
+        api_key = args.steamgrid_key
+
+        if args.entity == 'platform':
+            if len(args.names) != 1:
                 display_help()
                 sys.exit(1)
-            platform_name = sys.argv[3]
+            platform_name = args.names[0]
             create_platform(platform_name)
-        elif entity == 'system':
-            if len(sys.argv) != 5:
+        elif args.entity == 'system':
+            if len(args.names) != 2:
                 display_help()
                 sys.exit(1)
-            platform_name = sys.argv[3]
-            system_name = sys.argv[4]
+            platform_name, system_name = args.names
             create_system(platform_name, system_name)
-        elif entity == 'game':
-            if len(sys.argv) != 6:
+        elif args.entity == 'game':
+            if len(args.names) != 3:
                 display_help()
                 sys.exit(1)
-            platform_name = sys.argv[3]
-            system_name = sys.argv[4]
-            game_name = sys.argv[5]
-            create_game(platform_name, system_name, game_name)
+            platform_name, system_name, game_name = args.names
+            create_game(platform_name, system_name, game_name, api_key)
         else:
             print("Unknown entity type. Use 'platform', 'system', or 'game'.")
             display_help()
-    elif action == 'help':
-        display_help()
     else:
-        print("Unknown action. Use 'new' or 'help'.")
+        print("Unknown command. Use 'new' or 'help'.")
         display_help()
 
 if __name__ == '__main__':
