@@ -218,6 +218,7 @@ def main():
             display_help()
             sys.exit(1)
 
+        
         api_key = args.steamgrid_key
 
         if args.entity == 'platform':

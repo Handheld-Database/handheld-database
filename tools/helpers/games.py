@@ -6,7 +6,7 @@ from helpers.scraper import get_game_description
 from helpers.steamgrid import SteamGridDB
 from helpers.strings import normalize_string_lower
 
-def create_game(platform_name, system_name, game_name, api_key):
+def create_game(platform_name, system_name, game_name, api_key=None):
     """
     Creates a directory structure and necessary files for a game under the specified platform and system.
 
@@ -25,7 +25,8 @@ def create_game(platform_name, system_name, game_name, api_key):
     attributes = gather_game_attributes(game_name)
     
     # Fetch game description and add to attributes
-    description = get_game_description(game_name, platform_name)
+    platform_moby = scan_input("Enter the platform name (PSP, Nintendo 64, check https://www.mobygames.com/platform/): ")
+    description = get_game_description(game_name, platform_moby)
     attributes['description'] = description
 
     # Fetch game image URLs and download images
@@ -35,7 +36,6 @@ def create_game(platform_name, system_name, game_name, api_key):
             download_game_images(image_urls.get('cover'), image_urls.get('icon'), normalized_game_name)
 
     create_game_files(game_dir, normalized_game_name, game_name, attributes)
-
     update_games_list(normalized_platform_name, normalized_system_name, attributes)
 
 def gather_game_attributes(game_name):
@@ -95,7 +95,7 @@ def create_markdown_file(game_dir, normalized_game_name, game_name):
     game_md_path = os.path.join(game_dir, f'{normalized_game_name}.md')
     if not os.path.exists(game_md_path):
         with open(game_md_path, 'w') as f:
-            f.write(f'# {game_name}\n\nDetailed description of the game.')
+            f.write(f'# {game_name} Overview \n\n%game_overview%\n\n## Execution information\n\n**Tester**:\n\n')
 
 def create_overview_file(normalized_game_name, game_name, description):
     """

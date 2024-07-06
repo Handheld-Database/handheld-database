@@ -43,6 +43,7 @@ def get_game_description(game_name, platform):
     str: The description of the game if found, an empty string otherwise.
     """
     game_url = _get_game_url(game_name, platform)
+    print(game_name, platform, game_url)
     response = requests.get(game_url)
     soup = BeautifulSoup(response.text, 'html.parser')
     
