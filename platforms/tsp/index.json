@@ -29,6 +29,10 @@
         {
             "name": "Playstation Portable",
             "key": "psp"
+        },
+        {
+            "name": "SEGA Saturn",
+            "key": "saturn"
         }
     ]
 }

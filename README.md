@@ -49,6 +49,10 @@ This script helps you manage platforms, systems, and games by creating and updat
 - OS module
 - SYS module
 - RE module
+- BeautifulSoup module
+- PIL module
+
+`pip install -r requirements.txt`
 
 ## Usage
 
@@ -61,16 +65,35 @@ Run the script with the appropriate command to create platforms, systems, and ga
 - `new game [platform_name] [system_name] [game_name]`: Create a new game under a specified platform and system.
 - `help`: Display the help message.
 
+### Optional Arguments
+
+- `--steamgrid-key [your_api_key]`: Provide the API key for authentication.
+
 ### Examples
 
 - Create a new platform:
 
   ```bash
   python tools/new_file.py new platform myplatform
+  ```
 
-- Create a new game, TrimUI Smart Pro(TSP) PORTs example with multiple words game name:
+- Create a new system:
+
   ```bash
-  python tools/new_file.py new tsp ports 'game name goes here'
+  python tools/new_file.py new system myplatform mysystem
+  ```
+
+- Create a new game:
+
+  ```bash
+  python tools/new_file.py new game myplatform mysystem mygame
+  ```
+
+- Create a new game with images auto-fetch:
+
+  ```bash
+  python tools/new_file.py new game myplatform mysystem mygame --steamgrid-key myapikey
+  ```
 
 ## Commit Guidelines
 - Write clear, concise commit messages.
