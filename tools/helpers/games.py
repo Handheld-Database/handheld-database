@@ -5,6 +5,7 @@ from helpers.os import scan_input
 from helpers.scraper import get_game_description
 from helpers.steamgrid import SteamGridDB
 from helpers.strings import normalize_string_lower
+from helpers.templates import generate_game_templates_md
 
 def create_game(platform_name, system_name, game_name, api_key=None):
     """
@@ -27,15 +28,14 @@ def create_game(platform_name, system_name, game_name, api_key=None):
     # Fetch game description and add to attributes
     platform_moby = scan_input("Enter the platform name (PSP, Nintendo 64, check https://www.mobygames.com/platform/): ")
     description = get_game_description(game_name, platform_moby)
-    attributes['description'] = description
 
     # Fetch game image URLs and download images
     if(api_key):
         image_urls = SteamGridDB(api_key).get_game_image_urls(game_name)
         if image_urls:
-            download_game_images(image_urls.get('cover'), image_urls.get('icon'), normalized_game_name)
+            download_game_images(image_urls.get('rectangular'), image_urls.get('square'), normalized_game_name)
 
-    create_game_files(game_dir, normalized_game_name, game_name, attributes)
+    create_game_files(game_dir, normalized_game_name, game_name, attributes, description)
     update_games_list(normalized_platform_name, normalized_system_name, attributes)
 
 def gather_game_attributes(game_name):
@@ -55,7 +55,7 @@ def gather_game_attributes(game_name):
     }
     return attributes
 
-def create_game_files(game_dir, normalized_game_name, game_name, attributes):
+def create_game_files(game_dir, normalized_game_name, game_name, attributes, description):
     """
     Creates the necessary JSON and Markdown files for the game.
 
@@ -67,7 +67,7 @@ def create_game_files(game_dir, normalized_game_name, game_name, attributes):
     """
     create_json_file(game_dir, normalized_game_name, attributes)
     create_markdown_file(game_dir, normalized_game_name, game_name)
-    create_overview_file(normalized_game_name, game_name, attributes['description'])
+    create_overview_file(normalized_game_name, game_name, description)
 
 def create_json_file(game_dir, normalized_game_name, attributes):
     """
@@ -83,7 +83,7 @@ def create_json_file(game_dir, normalized_game_name, attributes):
         with open(game_json_path, 'w') as f:
             json.dump(attributes, f, indent=4)
 
-def create_markdown_file(game_dir, normalized_game_name, game_name):
+def create_markdown_file(game_dir, game_name, system_name):
     """
     Creates a Markdown file for the game.
 
@@ -92,10 +92,12 @@ def create_markdown_file(game_dir, normalized_game_name, game_name):
     normalized_game_name (str): The normalized game name.
     game_name (str): The name of the game.
     """
+    normalized_game_name = normalize_string_lower(game_name)
     game_md_path = os.path.join(game_dir, f'{normalized_game_name}.md')
     if not os.path.exists(game_md_path):
         with open(game_md_path, 'w') as f:
-            f.write(f'# {game_name} Overview \n\n%game_overview%\n\n## Execution information\n\n**Tester**:\n\n')
+            game_template = generate_game_templates_md(game_name, system_name)
+            f.write(game_template)
 
 def create_overview_file(normalized_game_name, game_name, description):
     """
