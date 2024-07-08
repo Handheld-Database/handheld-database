@@ -7,6 +7,7 @@ from helpers.steamgrid import SteamGridDB
 from helpers.strings import normalize_string_lower
 from helpers.templates import generate_game_templates_md
 
+
 def create_game(platform_name, system_name, game_name, api_key=None):
     """
     Creates a directory structure and necessary files for a game under the specified platform and system.
@@ -91,7 +92,7 @@ def create_json_file(game_dir, normalized_game_name, attributes):
     game_json_path = os.path.join(game_dir, f'{normalized_game_name}.json')
     if not os.path.exists(game_json_path):
         with open(game_json_path, 'w') as f:
-            json.dump(attributes, f, indent=4)
+            json.dump(attributes, f, indent=4)       
 
 def create_markdown_file(game_dir, game_name, system_name):
     """
@@ -107,6 +108,7 @@ def create_markdown_file(game_dir, game_name, system_name):
         with open(game_md_path, 'w') as f:
             game_template = generate_game_templates_md(game_name, normalize_string_lower(system_name))
             f.write(game_template)
+   
 
 def create_overview_file(normalized_game_name, game_name, description):
     """
@@ -120,7 +122,7 @@ def create_overview_file(normalized_game_name, game_name, description):
     game_overview_path = os.path.join('commons', 'overviews', f'{normalized_game_name}.overview.md')
     if not os.path.exists(game_overview_path):
         with open(game_overview_path, 'w') as f:
-            f.write(f'# {game_name}\n\n{description}\n\n# KEY INFORMATION')
+            f.write(f'## Overview\n\n{description}\n\n# KEY INFORMATION\n\n- **Developer**:\n- **Publisher**:\n- **Platforms**:\n- **Release Date**:\n- **Genre**:\n- **Modes**:\n\n# Source of information\n FOR EXAMPLE: WIKIPEDIA: [LINK](LINK TO THE SOURCE)')
 
 def update_games_list(platform_name, system_name, attributes):
     """
@@ -133,8 +135,31 @@ def update_games_list(platform_name, system_name, attributes):
     """
     games_list = load_games_list(platform_name, system_name)
     game_entry = {key: attributes[key] for key in ["name", "key", "rank"]}
-    games_list.append(game_entry)
-    save_games_list(platform_name, system_name, games_list)
+    
+    # Update the index.js based on if the key is already in the database.
+    match in_list(attributes["key"], games_list):
+        # Giving the user a message, if the game is in the database already.
+        case 1:
+            print("-------------------------------------------------------------------------------------------")
+            print("|  This game is already in the database, please search for it, if you want to add to it.  |")
+            print("-------------------------------------------------------------------------------------------")
+        # Updating the index.js if the game isn't in it.
+        case 0:
+            games_list.append(game_entry)
+            save_games_list(platform_name, system_name, games_list)
+            print()
+            print("|--->  " + attributes["name"] + " added to " + system_name + " in " + platform_name + "  <---|")
+            print()
+        case _:
+            print()
+    
+
+# Checks if the game is already in the database
+def in_list(gameKey, list):
+    for item in list:
+        if item["key"] == gameKey:
+            return 1
+    return 0
 
 def load_games_list(platform_name, system_name):
     """

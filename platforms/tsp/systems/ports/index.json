@@ -73,7 +73,12 @@
         {
             "name": "Alien vs Predator",
             "key": "alienvspredator",
-            "rank": "GOLD"
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Doom 3",
+            "key": "doom3",
+            "rank": "FAULTY"
         }
     ]
 }

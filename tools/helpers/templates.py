@@ -12,10 +12,14 @@ def generate_game_templates_md(game_name, normalized_system_name):
             "## {game_name}\n\n%game_overview%\n\n# Installation\n"
             "**Tester**:\nGive instructions about the installation on the OS you used.\n\n"
             "# Troubleshoot\nDelete this if not needed."
+        ),
+        "psp": (
+            "## {game_name}\n\n%game_overview%\n\n# Execution information\n\n"
+            "**Tester**:\n**Backend**:\n**Resolution**:\n**Frameskip**:\n**Autoframeskip**:\n**Note**:"
         )
     }
 
-    print("normalized_system_name", normalized_system_name)
+    #print("normalized_system_name", normalized_system_name)
     # Choose the template based on the system name
     template = templates.get(normalized_system_name, templates['default'])
 

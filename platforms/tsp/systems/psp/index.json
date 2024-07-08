@@ -454,6 +454,61 @@
             "name": "Lego Star Wars III: The Clone Wars",
             "key": "legostarwarsiiitheclonewars",
             "rank": "SILVER"
+        },
+        {
+            "name": "Lego Harry Potter: Years 5\u20137",
+            "key": "legoharrypotteryears57",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Call of Duty: Roads to Victory",
+            "key": "callofdutyroadstovictory",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Dante's Inferno",
+            "key": "dantesinferno",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Star Wars: The Force Unleashed",
+            "key": "starwarstheforceunleashed",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Resistance: Retribution",
+            "key": "resistanceretribution",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "SOCOM U.S. Navy SEALs: Fireteam Bravo",
+            "key": "socomusnavysealsfireteambravo",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Prince of Persia: Rival Swords",
+            "key": "princeofpersiarivalswords",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Midnight Club 3: Dub Edition",
+            "key": "midnightclub3dubedition",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Medal of Honor: Heroes",
+            "key": "medalofhonorheroes",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Medal of Honor: Heroes 2",
+            "key": "medalofhonorheroes2",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Brothers in Arms: D-Day",
+            "key": "brothersinarmsdday",
+            "rank": "BRONZE"
         }
     ]
 }
