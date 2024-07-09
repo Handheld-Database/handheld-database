@@ -5,6 +5,12 @@
             "image": "platforms/tsp.webp",
             "database_key": "tsp",
             "system": "Linux"
+        },
+        {
+            "name": "R36S",
+            "database_key": "r36s",
+            "manufacturer": "-",
+            "system": "Open source Linux system"
         }
     ]
 }

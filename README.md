@@ -52,7 +52,7 @@ This script helps you manage platforms, systems, and games by creating and updat
 - BeautifulSoup module
 - PIL module
 
-`pip install -r requirements.txt`
+`pip install -r tools/requirements.txt`
 
 ## Usage
 
