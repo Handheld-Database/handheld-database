@@ -19,7 +19,7 @@ def generate_game_templates_md(game_name, normalized_system_name):
         ),
         "nds": (
             "## {game_name}\n\n%game_overview%\n\n# Execution information\n\n"
-            "**Tester**:\n**High-Reslution 3D**:\n**Frame Skip Type**:\n**Frame Skip Value**:\n**Note**:"
+            "**Tester**:\n**High-Resolution 3D**:\n**Frame Skip Type**:\n**Frame Skip Value**:\n**Note**:"
         )
     }
 

@@ -14,8 +14,8 @@
     "storage": "8GB (expandable via microSD)",
     "media": "Digital download",
     "connectivity": [
-      "Wi-Fi",
-      "USB-C"
+        "Wi-Fi",
+        "USB-C"
     ],
     "systems": [
         {
@@ -33,6 +33,10 @@
         {
             "name": "SEGA Saturn",
             "key": "saturn"
+        },
+        {
+            "name": "Nintendo DS",
+            "key": "nds"
         }
     ]
 }

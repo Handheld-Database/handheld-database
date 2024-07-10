@@ -1,7 +1,7 @@
 {
     "name": "R36S",
     "database_key": "r36s",
-    "manufacturer": "-",
+    "manufacturer": "Shenzhen YL Electronics Co., Ltd.",
     "screen_size": "3.5 inches",
     "resolution": "640 x 480 pixels",
     "battery_life": "about 3 hours, depends on the emulator you play on",
@@ -15,12 +15,20 @@
     "media": "Digital download",
     "connectivity": [
         "2 USB-C",
-        " 3.5 Jack"
+        "3.5 Jack"
     ],
     "systems": [
         {
-            "name": "Name",
-            "key": "key"
+            "name": "Nintendo DS",
+            "key": "nds"
+        },
+        {
+            "name": "Playstation Portable",
+            "key": "psp"
+        },
+        {
+            "name": "Portmaster",
+            "key": "ports"
         }
     ]
 }
