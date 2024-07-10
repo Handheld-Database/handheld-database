@@ -1,0 +1,19 @@
+{
+    "games": [
+        {
+            "name": "Mario Party DS",
+            "key": "mariopartyds",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Sonic Colors",
+            "key": "soniccolors",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Mario & Luigi: Partners in Time",
+            "key": "marioluigipartnersintime",
+            "rank": "PLATINUM"
+        }
+    ]
+}

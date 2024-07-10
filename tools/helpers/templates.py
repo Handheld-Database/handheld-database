@@ -16,6 +16,10 @@ def generate_game_templates_md(game_name, normalized_system_name):
         "psp": (
             "## {game_name}\n\n%game_overview%\n\n# Execution information\n\n"
             "**Tester**:\n**Backend**:\n**Resolution**:\n**Frameskip**:\n**Autoframeskip**:\n**Note**:"
+        ),
+        "nds": (
+            "## {game_name}\n\n%game_overview%\n\n# Execution information\n\n"
+            "**Tester**:\n**High-Resolution 3D**:\n**Frame Skip Type**:\n**Frame Skip Value**:\n**Note**:"
         )
     }
 

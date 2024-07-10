@@ -44,15 +44,16 @@ def create_platform(platform_name_arg):
             json.dump(attributes, f, indent=4)
     
     # Update the list of platforms in the main index.json
-    update_platforms_list(attributes)
+    update_platforms_list(attributes, platform_name)
 
 # Function to update the list of platforms in the main index.json
-def update_platforms_list(attributes):
+def update_platforms_list(attributes, platform_name):
     """
     Updates the main index.json file to include the newly created platform.
 
     Parameters:
     attributes (dict): The attributes of the newly created platform.
+    platform_name: normalized platform name, for setting the image path
     """
     platforms_list = []
     
@@ -69,6 +70,7 @@ def update_platforms_list(attributes):
     platform_entry = {
         "name": attributes["name"],
         "database_key": attributes["database_key"],
+        "image": ("platforms/"+ platform_name + ".webp"),
         "manufacturer": attributes.get("manufacturer", ""),
         "system": attributes.get("system", "")
     }

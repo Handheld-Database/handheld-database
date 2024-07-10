@@ -14,7 +14,7 @@ This port requires the 2001 version of the game. NOT the Definitive Edition. Bot
 3. Connect your SD card to your PC.
 4. Copy the **"Grand Theft Auto 3.sh"** file to **"./Roms/Ports/"** folder on your SD card.
 5. Copy the **"gta3"** folder to **"./ports/"** folder on your SD card.
-6. Copy your download **"Grand Theft Auto 3"** game files to **"./ports/gta3/"** folder on your SD card, replace what it wants to.
+6. Copy your download **"Grand Theft Auto 3"** game files to **"./Roms/ports/gta3/"** folder on your SD card, replace what it wants to.
 7. Eject the SD card to safely remove it and put it back in your device.
 8. Have fun!
 

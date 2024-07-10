@@ -1,0 +1,34 @@
+{
+    "name": "R36S",
+    "database_key": "r36s",
+    "manufacturer": "Shenzhen YL Electronics Co., Ltd.",
+    "screen_size": "3.5 inches",
+    "resolution": "640 x 480 pixels",
+    "battery_life": "about 3 hours, depends on the emulator you play on",
+    "weight": "249g",
+    "system": "Open source Linux system",
+    "cpu": "RK3326 ARM 64bit quad core Cortex-A35 CPU 1.5GHz",
+    "gpu": "Mali-G31MP2 520MHz",
+    "ram": "1GB DDR3L",
+    "arch": "aarch64",
+    "storage": "microsSD only, 16G-256G",
+    "media": "Digital download",
+    "connectivity": [
+        "2 USB-C",
+        "3.5 Jack"
+    ],
+    "systems": [
+        {
+            "name": "Nintendo DS",
+            "key": "nds"
+        },
+        {
+            "name": "Playstation Portable",
+            "key": "psp"
+        },
+        {
+            "name": "Portmaster",
+            "key": "ports"
+        }
+    ]
+}
