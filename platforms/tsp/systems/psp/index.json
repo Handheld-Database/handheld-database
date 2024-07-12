@@ -509,6 +509,26 @@
             "name": "Brothers in Arms: D-Day",
             "key": "brothersinarmsdday",
             "rank": "BRONZE"
+        },
+        {
+            "name": "FIFA 14",
+            "key": "fifa14",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Pro Evolution Soccer 2014",
+            "key": "proevolutionsoccer2014",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Crash of the Titans",
+            "key": "crashofthetitans",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "The Sims 2",
+            "key": "thesims2",
+            "rank": "GOLD"
         }
     ]
 }

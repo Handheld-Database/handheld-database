@@ -1,4 +1,14 @@
 {
-    "name": "nds",
-    "games": []
+    "games": [
+        {
+            "name": "Digimon World DS",
+            "key": "digimonworldds",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Lego Batman: The Videogame",
+            "key": "legobatmanthevideogame",
+            "rank": "SILVER"
+        }
+    ]
 }
