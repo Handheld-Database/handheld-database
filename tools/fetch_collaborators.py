@@ -8,7 +8,7 @@ if not token:
     raise EnvironmentError("GITHUB_TOKEN environment variable not set")
 
 # Replace these with your repository details
-owner = "ogregorio"
+owner = "Handheld-Database"
 repo = "handheld-database"
 
 # GitHub API URL for fetching collaborators
