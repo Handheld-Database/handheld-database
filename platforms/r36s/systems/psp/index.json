@@ -1,4 +1,24 @@
 {
-    "name": "psp",
-    "games": []
+    "games": [
+        {
+            "name": "Burnout Legends",
+            "key": "burnoutlegends",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Dragon Ball Z: Shin Budokai",
+            "key": "dragonballzshinbudokai",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Dragon Ball Z: Shin Budokai - Another Road",
+            "key": "dragonballzshinbudokaianotherroad",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Dragon Ball Z: Tenkaichi Tag Team",
+            "key": "dragonballztenkaichitagteam",
+            "rank": "BRONZE"
+        }
+    ]
 }
