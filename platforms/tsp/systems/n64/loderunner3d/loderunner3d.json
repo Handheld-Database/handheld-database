@@ -1,5 +1,9 @@
 {
     "name": "Lode Runner 3D",
     "key": "loderunner3d",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

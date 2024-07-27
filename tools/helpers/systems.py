@@ -1,7 +1,6 @@
 import json
 import os, sys
 from helpers.os import scan_input
-
 # Function to create a new system under a specified platform
 def create_system(platform_name, system_name):
     """
@@ -26,7 +25,6 @@ def create_system(platform_name, system_name):
     
     # Updating the list of systems in platforms/myplatform/index.js
     update_system_list(platform_name, system_name)
-
 
 # Funtion to update the system list for the platform
 def update_system_list(platform_name, system_name_as_key):

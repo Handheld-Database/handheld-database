@@ -1,5 +1,9 @@
 {
     "name": "Starshot  Space Circus Fever",
     "key": "starshotspacecircusfever",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

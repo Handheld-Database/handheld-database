@@ -1,5 +1,9 @@
 {
     "name": "Earthworm Jim 3D",
     "key": "earthwormjim3d",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

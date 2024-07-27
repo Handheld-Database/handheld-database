@@ -1,5 +1,9 @@
 {
     "name": "Jet Force Gemini",
     "key": "jetforcegemini",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

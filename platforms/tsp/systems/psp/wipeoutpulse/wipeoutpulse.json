@@ -1,5 +1,9 @@
 {
     "name": "WipEout Pulse",
     "key": "wipeoutpulse",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

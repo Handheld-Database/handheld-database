@@ -1,5 +1,9 @@
 {
     "name": "The Sims 2",
     "key": "thesims2",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

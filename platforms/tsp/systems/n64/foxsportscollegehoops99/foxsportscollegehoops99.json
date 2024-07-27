@@ -1,5 +1,9 @@
 {
     "name": "Fox Sports College Hoops 99",
     "key": "foxsportscollegehoops99",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Madden NFL 99",
     "key": "maddennfl99",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

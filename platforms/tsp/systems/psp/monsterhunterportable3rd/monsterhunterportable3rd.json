@@ -1,5 +1,9 @@
 {
     "name": "Monster Hunter Portable 3rd",
     "key": "monsterhunterportable3rd",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "shiori-yamazaki"
+    ]
 }

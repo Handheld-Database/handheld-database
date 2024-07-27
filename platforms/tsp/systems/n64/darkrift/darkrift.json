@@ -1,5 +1,9 @@
 {
     "name": "Dark Rift",
     "key": "darkrift",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

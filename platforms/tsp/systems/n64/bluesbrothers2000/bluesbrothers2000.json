@@ -1,5 +1,9 @@
 {
     "name": "Blues Brothers 2000",
     "key": "bluesbrothers2000",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

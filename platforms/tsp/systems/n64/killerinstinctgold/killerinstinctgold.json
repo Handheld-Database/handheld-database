@@ -1,5 +1,9 @@
 {
     "name": "Killer Instinct Gold",
     "key": "killerinstinctgold",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

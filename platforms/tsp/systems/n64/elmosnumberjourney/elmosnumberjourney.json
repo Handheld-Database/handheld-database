@@ -1,5 +1,9 @@
 {
     "name": "Elmos Number Journey",
     "key": "elmosnumberjourney",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

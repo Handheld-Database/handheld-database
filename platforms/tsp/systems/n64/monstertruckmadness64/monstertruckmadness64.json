@@ -1,5 +1,9 @@
 {
     "name": "Monster Truck Madness 64",
     "key": "monstertruckmadness64",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

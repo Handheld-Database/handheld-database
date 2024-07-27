@@ -1,5 +1,9 @@
 {
     "name": "God of War Ghost of Sparta",
     "key": "godofwarghostofsparta",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

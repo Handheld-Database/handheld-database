@@ -1,5 +1,9 @@
 {
     "name": "AllStar Baseball 2001",
     "key": "allstarbaseball2001",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

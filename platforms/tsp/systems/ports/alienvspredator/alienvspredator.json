@@ -1,5 +1,9 @@
 {
     "name": "Alien vs Predator",
     "key": "alienvspredator",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "meeeaCH"
+    ]
 }

@@ -1,5 +1,9 @@
 {
-    "name": "Dante's Inferno",
+    "name": "Dantes Inferno",
     "key": "dantesinferno",
-    "rank": "BRONZE"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "throw_away_turday"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Jak and Daxter The Lost Frontier",
     "key": "jakanddaxterthelostfrontier",
-    "rank": "SILVER"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

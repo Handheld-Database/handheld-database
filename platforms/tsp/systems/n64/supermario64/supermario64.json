@@ -1,5 +1,9 @@
 {
     "name": "Super Mario 64",
     "key": "supermario64",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

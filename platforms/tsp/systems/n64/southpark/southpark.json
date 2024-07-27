@@ -1,5 +1,9 @@
 {
     "name": "South Park",
     "key": "southpark",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

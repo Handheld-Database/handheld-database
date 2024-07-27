@@ -1,5 +1,9 @@
 {
     "name": "San Francisco Rush  Extreme Racing",
     "key": "sanfranciscorushextremeracing",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
-    "name": "Midnight Club 3: Dub Edition",
+    "name": "Midnight Club 3 Dub Edition",
     "key": "midnightclub3dubedition",
-    "rank": "BRONZE"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

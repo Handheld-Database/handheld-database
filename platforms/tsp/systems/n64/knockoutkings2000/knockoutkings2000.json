@@ -1,5 +1,9 @@
 {
     "name": "Knockout Kings 2000",
     "key": "knockoutkings2000",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

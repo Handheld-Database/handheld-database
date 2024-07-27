@@ -1,5 +1,9 @@
 {
     "name": "San Francisco Rush 2049",
     "key": "sanfranciscorush2049",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

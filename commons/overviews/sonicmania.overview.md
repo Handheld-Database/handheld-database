@@ -1,8 +1,7 @@
 ## Overview
 
 **Sonic Mania** is a platform game developed by **Christian Whitehead**, **Headcannon**, and **PagodaWest Games** in collaboration with **Sega**. It celebrates the classic side-scrolling Sonic games from the early 1990s and introduces new levels, bosses, and gameplay mechanics while maintaining the original series' aesthetic and feel.
-
-## Key Information
+##Key Information
 
 - **Developer**: Christian Whitehead, Headcannon, PagodaWest Games
 - **Publisher**: Sega

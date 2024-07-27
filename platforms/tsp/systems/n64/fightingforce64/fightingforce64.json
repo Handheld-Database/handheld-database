@@ -1,5 +1,9 @@
 {
     "name": "Fighting Force 64",
     "key": "fightingforce64",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

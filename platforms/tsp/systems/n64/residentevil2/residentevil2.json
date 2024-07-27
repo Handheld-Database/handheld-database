@@ -1,5 +1,9 @@
 {
     "name": "Resident Evil 2",
     "key": "residentevil2",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

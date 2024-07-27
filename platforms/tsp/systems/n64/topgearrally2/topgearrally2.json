@@ -1,5 +1,9 @@
 {
     "name": "Top Gear Rally 2",
     "key": "topgearrally2",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

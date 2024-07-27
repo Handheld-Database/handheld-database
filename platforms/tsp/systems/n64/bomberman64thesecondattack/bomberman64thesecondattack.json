@@ -1,5 +1,9 @@
 {
     "name": "Bomberman 64  The Second Attack",
     "key": "bomberman64thesecondattack",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

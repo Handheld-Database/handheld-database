@@ -1,5 +1,9 @@
 {
     "name": "Robotron 64",
     "key": "robotron64",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

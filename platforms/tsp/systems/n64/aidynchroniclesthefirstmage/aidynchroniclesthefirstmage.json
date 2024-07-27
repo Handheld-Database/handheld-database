@@ -1,5 +1,9 @@
 {
     "name": "Aidyn Chronicles  The First Mage",
     "key": "aidynchroniclesthefirstmage",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

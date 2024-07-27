@@ -1,5 +1,9 @@
 {
     "name": "Tom Clancys Rainbow Six",
     "key": "tomclancysrainbowsix",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

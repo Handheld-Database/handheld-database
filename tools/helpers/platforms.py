@@ -3,7 +3,6 @@ import os
 
 from helpers.os import scan_array_input, scan_input
 from helpers.strings import normalize_string, normalize_string_lower
-
 # Function to create a new platform
 def create_platform(platform_name_arg):
     """
@@ -45,7 +44,6 @@ def create_platform(platform_name_arg):
     
     # Update the list of platforms in the main index.json
     update_platforms_list(attributes, platform_name)
-
 # Function to update the list of platforms in the main index.json
 def update_platforms_list(attributes, platform_name):
     """

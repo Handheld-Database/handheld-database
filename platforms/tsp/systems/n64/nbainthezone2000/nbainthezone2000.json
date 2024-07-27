@@ -1,5 +1,9 @@
 {
     "name": "NBA In the Zone 2000",
     "key": "nbainthezone2000",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

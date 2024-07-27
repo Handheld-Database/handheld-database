@@ -1,5 +1,9 @@
 {
     "name": "Jeremy McGrath Supercross 2000",
     "key": "jeremymcgrathsupercross2000",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

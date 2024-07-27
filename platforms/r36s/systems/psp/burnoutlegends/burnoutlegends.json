@@ -1,5 +1,9 @@
 {
     "name": "Burnout Legends",
     "key": "burnoutlegends",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "meeeaCH"
+    ]
 }

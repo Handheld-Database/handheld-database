@@ -1,5 +1,9 @@
 {
     "name": "Duck Dodgers Starring Daffy Duck",
     "key": "duckdodgersstarringdaffyduck",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

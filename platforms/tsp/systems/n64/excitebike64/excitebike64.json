@@ -1,5 +1,9 @@
 {
     "name": "Excitebike 64",
     "key": "excitebike64",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

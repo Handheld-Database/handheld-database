@@ -1,5 +1,9 @@
 {
     "name": "California Speed",
     "key": "californiaspeed",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Nuclear Strike 64",
     "key": "nuclearstrike64",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

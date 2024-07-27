@@ -1,5 +1,9 @@
 {
     "name": "Star Wars Episode I  Battle for Naboo",
     "key": "starwarsepisodeibattlefornaboo",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Tetrisphere",
     "key": "tetrisphere",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

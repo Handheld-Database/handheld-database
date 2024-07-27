@@ -1,5 +1,9 @@
 {
     "name": "Forsaken 64",
     "key": "forsaken64",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

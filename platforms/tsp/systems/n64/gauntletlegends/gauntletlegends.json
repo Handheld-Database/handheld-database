@@ -1,5 +1,9 @@
 {
     "name": "Gauntlet Legends",
     "key": "gauntletlegends",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Road Rash 64",
     "key": "roadrash64",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

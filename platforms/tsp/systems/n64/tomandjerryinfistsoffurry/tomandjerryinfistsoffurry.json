@@ -1,5 +1,9 @@
 {
     "name": "Tom and Jerry in Fists of Furry",
     "key": "tomandjerryinfistsoffurry",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

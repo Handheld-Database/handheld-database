@@ -1,5 +1,9 @@
 {
     "name": "Blossom Tales 2",
     "key": "blossomtales2",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "meeeaCH"
+    ]
 }

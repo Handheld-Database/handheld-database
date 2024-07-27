@@ -1,5 +1,9 @@
 {
     "name": "Return to Castle Wolfeinstin",
     "key": "returntocastlewolfeinstein",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "meeeaCH"
+    ]
 }

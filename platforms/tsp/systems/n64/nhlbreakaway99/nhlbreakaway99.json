@@ -1,5 +1,9 @@
 {
     "name": "NHL Breakaway 99",
     "key": "nhlbreakaway99",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

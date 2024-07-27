@@ -1,5 +1,9 @@
 {
     "name": "Vigilante 8",
     "key": "vigilante8",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

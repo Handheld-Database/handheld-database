@@ -1,5 +1,9 @@
 {
     "name": "Army Men  Sarges Heroes 2",
     "key": "armymensargesheroes2",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

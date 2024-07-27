@@ -1,5 +1,9 @@
 {
     "name": "Doom 3",
     "key": "doom3",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "meeeaCH"
+    ]
 }

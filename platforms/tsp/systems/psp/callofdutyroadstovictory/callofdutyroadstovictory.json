@@ -1,5 +1,9 @@
 {
-    "name": "Call of Duty: Roads to Victory",
+    "name": "Call of Duty Roads to Victory",
     "key": "callofdutyroadstovictory",
-    "rank": "SILVER"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

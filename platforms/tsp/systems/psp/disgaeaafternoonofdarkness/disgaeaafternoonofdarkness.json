@@ -1,5 +1,9 @@
 {
     "name": "Disgaea Afternoon of Darkness",
     "key": "disgaeaafternoonofdarkness",
-    "rank": "PLATINUM"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "LatinWizard"
+    ]
 }

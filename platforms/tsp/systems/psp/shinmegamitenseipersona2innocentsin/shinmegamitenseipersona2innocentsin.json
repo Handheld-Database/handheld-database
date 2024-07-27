@@ -1,5 +1,9 @@
 {
     "name": "Shin Megami Tensei Persona 2 Innocent Sin",
     "key": "shinmegamitenseipersona2innocentsin",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "LatinWizard"
+    ]
 }

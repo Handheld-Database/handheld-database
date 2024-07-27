@@ -1,5 +1,9 @@
 {
     "name": "The 3rd Birthday",
     "key": "the3rdbirthday",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "LatinWizard"
+    ]
 }

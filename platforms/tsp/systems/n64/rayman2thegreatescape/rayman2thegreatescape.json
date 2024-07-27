@@ -1,5 +1,9 @@
 {
     "name": "Rayman 2  The Great Escape",
     "key": "rayman2thegreatescape",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

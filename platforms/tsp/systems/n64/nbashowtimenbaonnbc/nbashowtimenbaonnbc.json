@@ -1,5 +1,9 @@
 {
     "name": "NBA Showtime  NBA on NBC",
     "key": "nbashowtimenbaonnbc",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

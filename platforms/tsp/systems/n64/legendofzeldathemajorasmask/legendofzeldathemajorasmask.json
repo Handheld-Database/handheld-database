@@ -1,5 +1,9 @@
 {
     "name": "Legend of Zelda The  Majoras Mask",
     "key": "legendofzeldathemajorasmask",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

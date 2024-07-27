@@ -1,5 +1,9 @@
 {
     "name": "Vigilante 8  2nd Offense",
     "key": "vigilante82ndoffense",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "VRally Edition 99",
     "key": "vrallyedition99",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

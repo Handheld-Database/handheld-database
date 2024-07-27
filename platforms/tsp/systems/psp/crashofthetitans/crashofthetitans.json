@@ -1,5 +1,9 @@
 {
     "name": "Crash of the Titans",
     "key": "crashofthetitans",
-    "rank": "BRONZE"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

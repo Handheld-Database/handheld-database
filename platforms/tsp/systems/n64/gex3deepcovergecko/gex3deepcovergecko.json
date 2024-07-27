@@ -1,5 +1,9 @@
 {
     "name": "Gex 3  Deep Cover Gecko",
     "key": "gex3deepcovergecko",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

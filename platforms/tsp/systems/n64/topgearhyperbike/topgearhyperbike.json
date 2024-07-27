@@ -1,5 +1,9 @@
 {
     "name": "Top Gear Hyper Bike",
     "key": "topgearhyperbike",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

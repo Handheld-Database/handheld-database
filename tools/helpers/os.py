@@ -10,7 +10,6 @@ def scan_input(prompt):
     str: The user's input with leading and trailing whitespace removed.
     """
     return input(prompt).strip()
-
 # Function to get array input from user, split by ';', and strip whitespace
 def scan_array_input(prompt):
     """

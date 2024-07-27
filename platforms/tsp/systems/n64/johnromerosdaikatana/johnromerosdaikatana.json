@@ -1,5 +1,9 @@
 {
     "name": "John Romeros Daikatana",
     "key": "johnromerosdaikatana",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

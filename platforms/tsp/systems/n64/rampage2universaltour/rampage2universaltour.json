@@ -1,5 +1,9 @@
 {
     "name": "Rampage 2  Universal Tour",
     "key": "rampage2universaltour",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

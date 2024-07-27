@@ -1,5 +1,9 @@
 {
     "name": "Gun Showdown",
     "key": "gunshowdown",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "laxsu19"
+    ]
 }

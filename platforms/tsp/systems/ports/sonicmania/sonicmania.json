@@ -1,4 +1,9 @@
 {
     "name": "Sonic Mania",
-    "rank": "GOLD"
+    "key": "sonicmania",
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobalt"
+    ]
 }

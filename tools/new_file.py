@@ -2,7 +2,6 @@ import argparse, sys
 from helpers.games import create_game
 from helpers.platforms import create_platform
 from helpers.systems import create_system
-
 # Function to display help text for using the script
 def display_help():
     help_text = """
@@ -23,7 +22,6 @@ def display_help():
     python script.py new game myplatform mysystem mygame --steamgrid-key myapikey
     """
     print(help_text)
-
 # Main function to handle command line arguments and execute corresponding actions
 def main():
     parser = argparse.ArgumentParser(description="Game management script")

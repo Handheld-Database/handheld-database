@@ -1,5 +1,9 @@
 {
     "name": "Grand Theft Auto 3",
     "key": "grandtheftauto3",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "meeeaCH"
+    ]
 }

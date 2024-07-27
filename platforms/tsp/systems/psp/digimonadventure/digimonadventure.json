@@ -1,5 +1,9 @@
 {
     "name": "Digimon Adventure",
     "key": "digimonadventure",
-    "rank": "SILVER"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

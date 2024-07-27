@@ -1,5 +1,9 @@
 {
     "name": "Carmageddon 64",
     "key": "carmageddon64",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

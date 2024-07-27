@@ -1,5 +1,9 @@
 {
     "name": "007  The World is Not Enough",
     "key": "007theworldisnotenough",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

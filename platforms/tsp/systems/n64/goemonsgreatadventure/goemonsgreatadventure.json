@@ -1,5 +1,9 @@
 {
     "name": "Goemons Great Adventure",
     "key": "goemonsgreatadventure",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

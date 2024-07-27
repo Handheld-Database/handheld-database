@@ -1,5 +1,9 @@
 {
     "name": "Mia Hamm Soccer 64",
     "key": "miahammsoccer64",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

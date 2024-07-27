@@ -1,5 +1,9 @@
 {
     "name": "Conkers Bad Fur Day",
     "key": "conkersbadfurday",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

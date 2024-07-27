@@ -1,5 +1,9 @@
 {
     "name": "Triple Play 2000",
     "key": "tripleplay2000",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "IL2 Sturmovik Birds of Prey",
     "key": "il2sturmovikbirdsofprey",
-    "rank": "GOLD"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

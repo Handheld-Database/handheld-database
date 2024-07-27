@@ -1,5 +1,9 @@
 {
     "name": "Waialae Country Club  True Golf Classics",
     "key": "waialaecountryclubtruegolfclassics",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

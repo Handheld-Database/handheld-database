@@ -1,5 +1,9 @@
 {
     "name": "Tekken 6",
     "key": "tekken6",
-    "rank": "GOLD"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

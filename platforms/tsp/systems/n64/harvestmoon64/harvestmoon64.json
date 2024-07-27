@@ -1,5 +1,9 @@
 {
     "name": "Harvest Moon 64",
     "key": "harvestmoon64",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

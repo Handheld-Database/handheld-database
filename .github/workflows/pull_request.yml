@@ -30,7 +30,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run the script
+    - name: Fetch Collaborators
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
@@ -45,6 +45,22 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add commons/collaborators/collaborators.json
         git commit -m 'Update collaborators.json' || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Index Games
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python tools/index_games.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m 'Indexed games' || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

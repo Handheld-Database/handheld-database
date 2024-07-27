@@ -5,13 +5,11 @@ from helpers.images import download_game_images
 from helpers.scraper import get_game_description
 from helpers.steamgrid import SteamGridDB
 from helpers.strings import extract_game_name, normalize_string_lower
-
 # Argument parser setup
 parser = argparse.ArgumentParser(description='Process a CSV file of game data.')
 parser.add_argument('csv_file', type=str, help='The path to the CSV file to process.')
 parser.add_argument('steamgrid_key', type=str, help='The Steamgriddb API key.')
 args = parser.parse_args()
-
 # Read CSV data from file
 csv_file_path = args.csv_file
 steam_grid_api_key = args.steamgrid_key

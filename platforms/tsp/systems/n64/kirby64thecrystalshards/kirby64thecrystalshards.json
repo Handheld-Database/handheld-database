@@ -1,5 +1,9 @@
 {
     "name": "Kirby 64  The Crystal Shards",
     "key": "kirby64thecrystalshards",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

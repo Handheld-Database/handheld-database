@@ -1,5 +1,9 @@
 {
     "name": "Legend of Zelda The  Ocarina of Time",
     "key": "legendofzeldatheocarinaoftime",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

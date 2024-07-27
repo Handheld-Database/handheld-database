@@ -1,5 +1,9 @@
 {
     "name": "International Superstar Soccer 64",
     "key": "internationalsuperstarsoccer64",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

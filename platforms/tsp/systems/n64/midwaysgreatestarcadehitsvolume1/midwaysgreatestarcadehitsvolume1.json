@@ -1,5 +1,9 @@
 {
     "name": "Midways Greatest Arcade Hits Volume 1",
     "key": "midwaysgreatestarcadehitsvolume1",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

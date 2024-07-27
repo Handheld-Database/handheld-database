@@ -1,5 +1,9 @@
 {
     "name": "Turok 2  Seeds of Evil",
     "key": "turok2seedsofevil",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

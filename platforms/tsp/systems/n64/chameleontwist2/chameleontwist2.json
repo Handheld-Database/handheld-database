@@ -1,5 +1,9 @@
 {
     "name": "Chameleon Twist 2",
     "key": "chameleontwist2",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Spell Tower",
     "key": "spelltower",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "meeeaCH"
+    ]
 }

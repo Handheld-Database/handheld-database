@@ -1,5 +1,9 @@
 {
     "name": "International Superstar Soccer 2000",
     "key": "internationalsuperstarsoccer2000",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

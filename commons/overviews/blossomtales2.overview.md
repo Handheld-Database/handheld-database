@@ -7,8 +7,7 @@ Grandpa's latest tale takes you on a journey through haunted forests, pirate sho
 
 Enjoy a "story within a story" as Grandpa narrates exciting moments throughout Lily's incredible adventure.
 Will you help Lily defeat the Minotaur King and save her brother?
-
-## Key Information
+##Key Information
 
 - **Developer**: Castle Pixel, LLC
 - **Publisher**: Playtonic Friends

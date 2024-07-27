@@ -1,5 +1,9 @@
 {
     "name": "Ms PacMan  Maze Madness",
     "key": "mspacmanmazemadness",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

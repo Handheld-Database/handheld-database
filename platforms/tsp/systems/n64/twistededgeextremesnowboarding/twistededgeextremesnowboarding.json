@@ -1,5 +1,9 @@
 {
     "name": "Twisted Edge Extreme Snowboarding",
     "key": "twistededgeextremesnowboarding",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

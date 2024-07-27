@@ -1,5 +1,9 @@
 {
     "name": "Automobili Lamborghini",
     "key": "automobililamborghini",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

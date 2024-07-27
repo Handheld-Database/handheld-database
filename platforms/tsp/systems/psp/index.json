@@ -6,6 +6,21 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "007 From Russia with Love",
+            "key": "007fromrussiawithlove",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "7th Dragon 2020",
+            "key": "7thdragon2020",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "7th Dragon 2020II",
+            "key": "7thdragon2020ii",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "Ace Combat Joint Assault",
             "key": "acecombatjointassault",
             "rank": "PLATINUM"
@@ -61,9 +76,19 @@
             "rank": "GOLD"
         },
         {
+            "name": "Boku wa Koukuu Kanseikan Airport Hero Kankuu",
+            "key": "bokuwakoukuukanseikanairportherokankuu",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "Bomberman",
             "key": "bomberman",
             "rank": "PLATINUM"
+        },
+        {
+            "name": "Brave Story New Traveller",
+            "key": "bravestorynewtraveller",
+            "rank": "GOLD"
         },
         {
             "name": "Burnout Dominator",
@@ -74,6 +99,11 @@
             "name": "Burnout Legends",
             "key": "burnoutlegends",
             "rank": "PLATINUM"
+        },
+        {
+            "name": "Call of Duty Roads to Victory",
+            "key": "callofdutyroadstovictory",
+            "rank": "GOLD"
         },
         {
             "name": "Clock Zero Shuuen no Ichibyou",
@@ -96,6 +126,16 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "Crash Mind over Mutant",
+            "key": "crashmindovermutant",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Crash of the Titans",
+            "key": "crashofthetitans",
+            "rank": "GOLD"
+        },
+        {
             "name": "Crimson Gem Saga",
             "key": "crimsongemsaga",
             "rank": "PLATINUM"
@@ -116,6 +156,11 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "Dantes Inferno",
+            "key": "dantesinferno",
+            "rank": "GOLD"
+        },
+        {
             "name": "Daxter",
             "key": "daxter",
             "rank": "PLATINUM"
@@ -128,12 +173,12 @@
         {
             "name": "Digimon Adventure",
             "key": "digimonadventure",
-            "rank": "SILVER"
+            "rank": "PLATINUM"
         },
         {
             "name": "Disgaea Afternoon of Darkness",
             "key": "disgaeaafternoonofdarkness",
-            "rank": "PLATINUM"
+            "rank": "SILVER"
         },
         {
             "name": "Disgaea 2 Dark Hero Days",
@@ -161,9 +206,24 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "Enkaku sousa Shinjitsu e no 23nichikan",
+            "key": "enkakusousashinjitsueno23nichikan",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "FIFA Street 2",
             "key": "fifastreet2",
             "rank": "PLATINUM"
+        },
+        {
+            "name": "Final Fantasy Tactics The War of the Lions",
+            "key": "finalfantasytacticsthewarofthelions",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Final Fantasy Type0",
+            "key": "finalfantasytype0",
+            "rank": "SILVER"
         },
         {
             "name": "Gitaroo Man Lives",
@@ -181,9 +241,14 @@
             "rank": "GOLD"
         },
         {
+            "name": "Gods Eater Burst",
+            "key": "godseaterburst",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "Gran Turismo",
             "key": "granturismo",
-            "rank": "SILVER"
+            "rank": "PLATINUM"
         },
         {
             "name": "Grand Theft Auto Vice City Stories",
@@ -198,7 +263,7 @@
         {
             "name": "Guilty Gear XX Accent Core Plus",
             "key": "guiltygearxxaccentcoreplus",
-            "rank": "GOLD"
+            "rank": "PLATINUM"
         },
         {
             "name": "Gun Showdown",
@@ -211,9 +276,14 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "Hexyz Force",
+            "key": "hexyzforce",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "IL2 Sturmovik Birds of Prey",
             "key": "il2sturmovikbirdsofprey",
-            "rank": "GOLD"
+            "rank": "PLATINUM"
         },
         {
             "name": "Initial D Street Stage",
@@ -221,23 +291,23 @@
             "rank": "PLATINUM"
         },
         {
-            "name": "Hexyz Force",
-            "key": "hexyzforce",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Kamen Rider Super Climax Heroes",
-            "key": "kamenridersuperclimaxheroes",
-            "rank": "PLATINUM"
-        },
-        {
             "name": "Jak and Daxter The Lost Frontier",
             "key": "jakanddaxterthelostfrontier",
-            "rank": "SILVER"
+            "rank": "FAULTY"
         },
         {
             "name": "Jeanne DArc",
             "key": "jeannedarc",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Juiced 2  Hot Import Nights",
+            "key": "juiced2hotimportnights",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Kamen Rider Super Climax Heroes",
+            "key": "kamenridersuperclimaxheroes",
             "rank": "PLATINUM"
         },
         {
@@ -249,6 +319,11 @@
             "name": "LEGO Indiana Jones The Original Adventures",
             "key": "legoindianajonestheoriginaladventures",
             "rank": "SILVER"
+        },
+        {
+            "name": "LittleBigPlanet",
+            "key": "littlebigplanet",
+            "rank": "PLATINUM"
         },
         {
             "name": "LocoRoco",
@@ -271,6 +346,11 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "Metal Gear Solid Peace Walker",
+            "key": "metalgearsolidpeacewalker",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "Metal Slug XX",
             "key": "metalslugxx",
             "rank": "PLATINUM"
@@ -279,6 +359,11 @@
             "name": "Midnight Club LA Remix",
             "key": "midnightclublaremix",
             "rank": "SILVER"
+        },
+        {
+            "name": "Midnight Club 3 Dub Edition",
+            "key": "midnightclub3dubedition",
+            "rank": "GOLD"
         },
         {
             "name": "MLB 11 The Show",
@@ -306,6 +391,11 @@
             "rank": "GOLD"
         },
         {
+            "name": "Mystery Dungeon Shiren the Wanderer 4 Plus The Eye of God and the Devils Navel",
+            "key": "mysterydungeonshirenthewanderer4plustheeyeofgodandthedevilsnavel",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "Need for Speed Most Wanted 510",
             "key": "needforspeedmostwanted510",
             "rank": "PLATINUM"
@@ -316,14 +406,29 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "OutRun 2006 Coast 2 Coast",
+            "key": "outrun2006coast2coast",
+            "rank": "GOLD"
+        },
+        {
             "name": "PacMan World Rally",
             "key": "pacmanworldrally",
             "rank": "PLATINUM"
         },
         {
-            "name": "Ratchet and Clank Size Matters",
-            "key": "ratchetandclanksizematters",
+            "name": "Persona 2 Eternal Punishment",
+            "key": "persona2eternalpunishment",
             "rank": "GOLD"
+        },
+        {
+            "name": "Phantasy Star Portable 2",
+            "key": "phantasystarportable2",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Ratchet  Clank Size Matters",
+            "key": "ratchetclanksizematters",
+            "rank": "PLATINUM"
         },
         {
             "name": "Ridge Racer",
@@ -333,11 +438,6 @@
         {
             "name": "Shin Megami Tensei Persona",
             "key": "shinmegamitenseipersona",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Shin Megami Tensei Persona 2 Eternal Punishment",
-            "key": "shinmegamitenseipersona2eternalpunishment",
             "rank": "PLATINUM"
         },
         {
@@ -366,6 +466,11 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "Star Wars The Force Unleashed",
+            "key": "starwarstheforceunleashed",
+            "rank": "GOLD"
+        },
+        {
             "name": "Street Fighter Alpha 3 Max",
             "key": "streetfighteralpha3max",
             "rank": "PLATINUM"
@@ -378,12 +483,12 @@
         {
             "name": "Tekken 6",
             "key": "tekken6",
-            "rank": "GOLD"
+            "rank": "PLATINUM"
         },
         {
             "name": "Test Drive Unlimited",
             "key": "testdriveunlimited",
-            "rank": "GOLD"
+            "rank": "PLATINUM"
         },
         {
             "name": "The 3rd Birthday",
@@ -393,6 +498,16 @@
         {
             "name": "The Legend of Heroes Trails to Azure",
             "key": "thelegendofheroestrailstoazure",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "The Sims 2",
+            "key": "thesims2",
+            "rank": "GOLD"
+        },
+        {
+            "name": "The Sims 2 Pets",
+            "key": "thesims2pets",
             "rank": "PLATINUM"
         },
         {
@@ -406,6 +521,11 @@
             "rank": "GOLD"
         },
         {
+            "name": "Viewtiful Joe Red Hot Rumble",
+            "key": "viewtifuljoeredhotrumble",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "WipEout Pulse",
             "key": "wipeoutpulse",
             "rank": "GOLD"
@@ -413,121 +533,6 @@
         {
             "name": "WipEout Pure",
             "key": "wipeoutpure",
-            "rank": "GOLD"
-        },
-        {
-            "name": "LEGO Harry Potter: Years 1-4",
-            "key": "legoharrypotteryears14",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "LittleBigPlanet",
-            "key": "littlebigplanet",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Dragon Ball Z Shin Budokai",
-            "key": "dragonballzshinbudokai",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Prince of Persia: Revelations",
-            "key": "princeofpersiarevelations",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Lego Indiana Jones 2: The Adventure Continues",
-            "key": "legoindianajones2theadventurecontinues",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Lego Star Wars II: The Original Trilogy",
-            "key": "legostarwarsiitheoriginaltrilogy",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Lego Pirates of the Caribbean: The Video Game",
-            "key": "legopiratesofthecaribbeanthevideogame",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Lego Star Wars III: The Clone Wars",
-            "key": "legostarwarsiiitheclonewars",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Lego Harry Potter: Years 5\u20137",
-            "key": "legoharrypotteryears57",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Call of Duty: Roads to Victory",
-            "key": "callofdutyroadstovictory",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Dante's Inferno",
-            "key": "dantesinferno",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Star Wars: The Force Unleashed",
-            "key": "starwarstheforceunleashed",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Resistance: Retribution",
-            "key": "resistanceretribution",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "SOCOM U.S. Navy SEALs: Fireteam Bravo",
-            "key": "socomusnavysealsfireteambravo",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Prince of Persia: Rival Swords",
-            "key": "princeofpersiarivalswords",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Midnight Club 3: Dub Edition",
-            "key": "midnightclub3dubedition",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Medal of Honor: Heroes",
-            "key": "medalofhonorheroes",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Medal of Honor: Heroes 2",
-            "key": "medalofhonorheroes2",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Brothers in Arms: D-Day",
-            "key": "brothersinarmsdday",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "FIFA 14",
-            "key": "fifa14",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Pro Evolution Soccer 2014",
-            "key": "proevolutionsoccer2014",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Crash of the Titans",
-            "key": "crashofthetitans",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "The Sims 2",
-            "key": "thesims2",
             "rank": "GOLD"
         }
     ]

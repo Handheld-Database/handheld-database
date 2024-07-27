@@ -1,5 +1,9 @@
 {
     "name": "Shin Megami Tensei Persona 3 Portable",
     "key": "shinmegamitenseipersona3portable",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

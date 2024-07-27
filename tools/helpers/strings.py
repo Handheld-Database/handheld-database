@@ -1,5 +1,4 @@
 import re
-
 # Function to normalize input string by removing extra spaces and non-word characters
 def normalize_string(input_string):
     """
@@ -18,7 +17,6 @@ def normalize_string(input_string):
     # Remove leading/trailing spaces
     normalized_string = normalized_string.strip()
     return normalized_string
-
 # Function to normalize input string by removing all spaces, non-word characters and converting to lower case
 def normalize_string_lower(input_string):
     """

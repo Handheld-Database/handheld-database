@@ -1,5 +1,9 @@
 {
     "name": "LEGO Indiana Jones The Original Adventures",
     "key": "legoindianajonestheoriginaladventures",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "LatinWizard"
+    ]
 }

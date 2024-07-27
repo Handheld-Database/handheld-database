@@ -1,5 +1,9 @@
 {
     "name": "Tony Hawks Pro Skater 2",
     "key": "tonyhawksproskater2",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "BustAMove 99",
     "key": "bustamove99",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

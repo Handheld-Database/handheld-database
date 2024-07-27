@@ -1,5 +1,9 @@
 {
     "name": "Hot Wheels Turbo Racing",
     "key": "hotwheelsturboracing",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

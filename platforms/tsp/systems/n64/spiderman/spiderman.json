@@ -1,5 +1,9 @@
 {
     "name": "SpiderMan",
     "key": "spiderman",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

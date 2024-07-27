@@ -1,5 +1,9 @@
 {
     "name": "Xena Warrior Princess  The Talisman of Fate",
     "key": "xenawarriorprincessthetalismanoffate",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

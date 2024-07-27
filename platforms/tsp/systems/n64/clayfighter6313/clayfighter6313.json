@@ -1,5 +1,9 @@
 {
     "name": "Clay Fighter 63 13",
     "key": "clayfighter6313",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

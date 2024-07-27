@@ -1,5 +1,9 @@
 {
     "name": "Ridge Racer",
     "key": "ridgeracer",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "tomato6333"
+    ]
 }

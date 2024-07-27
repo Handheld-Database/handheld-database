@@ -1,5 +1,9 @@
 {
     "name": "Bassmasters 2000",
     "key": "bassmasters2000",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

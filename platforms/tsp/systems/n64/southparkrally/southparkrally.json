@@ -1,5 +1,9 @@
 {
     "name": "South Park Rally",
     "key": "southparkrally",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

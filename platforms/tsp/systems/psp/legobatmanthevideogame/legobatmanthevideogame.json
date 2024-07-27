@@ -1,5 +1,9 @@
 {
     "name": "LEGO Batman The Videogame",
     "key": "legobatmanthevideogame",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "LatinWizard"
+    ]
 }

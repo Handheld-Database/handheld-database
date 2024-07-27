@@ -1,5 +1,9 @@
 {
     "name": "Stardew Valley",
     "key": "stardewvalley",
-    "rank": "GOLD"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "meeeaCH"
+    ]
 }

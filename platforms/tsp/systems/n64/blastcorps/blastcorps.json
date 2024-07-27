@@ -1,5 +1,9 @@
 {
     "name": "Blast Corps",
     "key": "blastcorps",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

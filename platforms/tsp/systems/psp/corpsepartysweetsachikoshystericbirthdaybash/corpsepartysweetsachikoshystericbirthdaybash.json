@@ -1,5 +1,9 @@
 {
     "name": "Corpse Party Sweet Sachikos Hysteric Birthday Bash",
     "key": "corpsepartysweetsachikoshystericbirthdaybash",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "LatinWizard"
+    ]
 }

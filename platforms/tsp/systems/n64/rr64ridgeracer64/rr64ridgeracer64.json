@@ -1,5 +1,9 @@
 {
     "name": "RR64  Ridge Racer 64",
     "key": "rr64ridgeracer64",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

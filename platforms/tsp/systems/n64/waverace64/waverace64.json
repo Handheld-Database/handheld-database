@@ -1,5 +1,9 @@
 {
     "name": "Wave Race 64",
     "key": "waverace64",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

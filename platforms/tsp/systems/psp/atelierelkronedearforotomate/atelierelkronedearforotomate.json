@@ -1,5 +1,9 @@
 {
     "name": "Atelier Elkrone Dear for Otomate",
     "key": "atelierelkronedearforotomate",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "LatinWizard"
+    ]
 }

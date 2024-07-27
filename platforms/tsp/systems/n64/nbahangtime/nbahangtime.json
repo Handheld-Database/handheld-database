@@ -1,5 +1,9 @@
 {
     "name": "NBA Hangtime",
     "key": "nbahangtime",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "The Legend of Heroes Trails to Azure",
     "key": "thelegendofheroestrailstoazure",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "LatinWizard"
+    ]
 }

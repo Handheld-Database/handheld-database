@@ -1,5 +1,9 @@
 {
     "name": "Golden Nugget 64",
     "key": "goldennugget64",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

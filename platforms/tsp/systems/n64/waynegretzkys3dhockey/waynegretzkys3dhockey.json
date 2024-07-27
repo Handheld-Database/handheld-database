@@ -1,5 +1,9 @@
 {
     "name": "Wayne Gretzkys 3D Hockey",
     "key": "waynegretzkys3dhockey",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

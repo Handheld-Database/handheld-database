@@ -1,5 +1,9 @@
 {
     "name": "ATV Offroad Fury Pro",
     "key": "atvoffroadfurypro",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

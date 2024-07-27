@@ -1,5 +1,9 @@
 {
     "name": "F1 Pole Position 64",
     "key": "f1poleposition64",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

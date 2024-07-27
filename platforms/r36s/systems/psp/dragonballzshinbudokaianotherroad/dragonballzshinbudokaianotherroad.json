@@ -1,5 +1,9 @@
 {
     "name": "Dragon Ball Z: Shin Budokai - Another Road",
     "key": "dragonballzshinbudokaianotherroad",
-    "rank": "SILVER"
+    "rank_numeric": 3.0,
+    "rank": "SILVER",
+    "testers": [
+        "meeeaCH"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "FIFA  Road to World Cup 98",
     "key": "fifaroadtoworldcup98",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Digimon World DS",
     "key": "digimonworldds",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "meeeaCH"
+    ]
 }

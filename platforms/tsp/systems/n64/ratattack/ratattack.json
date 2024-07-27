@@ -1,5 +1,9 @@
 {
     "name": "Rat Attack",
     "key": "ratattack",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

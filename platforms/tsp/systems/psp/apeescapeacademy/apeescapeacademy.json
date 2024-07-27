@@ -1,5 +1,9 @@
 {
     "name": "Ape Escape Academy",
     "key": "apeescapeacademy",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Turok  Rage Wars",
     "key": "turokragewars",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

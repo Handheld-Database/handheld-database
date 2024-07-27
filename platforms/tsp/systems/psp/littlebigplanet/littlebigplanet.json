@@ -1,5 +1,9 @@
 {
     "name": "LittleBigPlanet",
     "key": "littlebigplanet",
-    "rank": "GOLD"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

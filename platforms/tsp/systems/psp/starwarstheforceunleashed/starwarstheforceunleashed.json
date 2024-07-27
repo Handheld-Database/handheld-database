@@ -1,5 +1,9 @@
 {
-    "name": "Star Wars: The Force Unleashed",
+    "name": "Star Wars The Force Unleashed",
     "key": "starwarstheforceunleashed",
-    "rank": "BRONZE"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

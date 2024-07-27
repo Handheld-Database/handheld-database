@@ -1,5 +1,9 @@
 {
     "name": "Ready 2 Rumble Boxing",
     "key": "ready2rumbleboxing",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

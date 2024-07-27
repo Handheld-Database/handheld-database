@@ -1,5 +1,9 @@
 {
     "name": "Sonic Rivals 2",
     "key": "sonicrivals2",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

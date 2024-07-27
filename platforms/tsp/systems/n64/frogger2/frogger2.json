@@ -1,5 +1,9 @@
 {
     "name": "Frogger 2",
     "key": "frogger2",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

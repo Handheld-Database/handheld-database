@@ -1,5 +1,9 @@
 {
     "name": "Need for Speed Most Wanted 510",
     "key": "needforspeedmostwanted510",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Quake II",
     "key": "quakeii",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Disneys Donald Duck  Goin Quackers",
     "key": "disneysdonaldduckgoinquackers",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

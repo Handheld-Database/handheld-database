@@ -1,5 +1,9 @@
 {
     "name": "Initial D Street Stage",
     "key": "initialdstreetstage",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "CTrig85art"
+    ]
 }

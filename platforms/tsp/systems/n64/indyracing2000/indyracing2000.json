@@ -1,5 +1,9 @@
 {
     "name": "Indy Racing 2000",
     "key": "indyracing2000",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

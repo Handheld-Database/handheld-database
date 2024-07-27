@@ -1,5 +1,9 @@
 {
     "name": "Shadowgate 64  Trials Of The Four Towers",
     "key": "shadowgate64trialsofthefourtowers",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

@@ -1,5 +1,9 @@
 {
     "name": "Bottom of the 9th",
     "key": "bottomofthe9th",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

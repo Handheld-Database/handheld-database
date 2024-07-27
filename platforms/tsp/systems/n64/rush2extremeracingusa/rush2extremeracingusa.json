@@ -1,5 +1,9 @@
 {
     "name": "Rush 2  Extreme Racing USA",
     "key": "rush2extremeracingusa",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

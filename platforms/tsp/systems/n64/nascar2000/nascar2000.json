@@ -1,5 +1,9 @@
 {
     "name": "NASCAR 2000",
     "key": "nascar2000",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

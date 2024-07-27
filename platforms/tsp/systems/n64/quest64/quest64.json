@@ -1,5 +1,9 @@
 {
     "name": "Quest 64",
     "key": "quest64",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

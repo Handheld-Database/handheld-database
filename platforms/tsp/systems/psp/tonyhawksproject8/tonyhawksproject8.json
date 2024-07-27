@@ -1,5 +1,9 @@
 {
     "name": "Tony Hawks Project 8",
     "key": "tonyhawksproject8",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

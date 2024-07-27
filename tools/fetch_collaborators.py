@@ -1,25 +1,20 @@
 import requests
 import json
 import os
-
 # Load the GitHub token from the environment variable
 token = os.getenv("GITHUB_TOKEN")
 if not token:
     raise EnvironmentError("GITHUB_TOKEN environment variable not set")
-
 # Replace these with your repository details
 owner = "Handheld-Database"
 repo = "handheld-database"
-
 # GitHub API URL for fetching collaborators
 url = f"https://api.github.com/repos/{owner}/{repo}/contributors"
-
 # Headers with the personal access token for authentication
 headers = {
     "Authorization": f"token {token}",
     "Accept": "application/vnd.github.v3+json"
 }
-
 # Fetch the list of collaborators
 response = requests.get(url, headers=headers)
 

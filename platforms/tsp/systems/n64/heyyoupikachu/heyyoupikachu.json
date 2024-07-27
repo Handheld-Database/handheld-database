@@ -1,5 +1,9 @@
 {
     "name": "Hey You Pikachu",
     "key": "heyyoupikachu",
-    "rank": "FAULTY"
+    "rank_numeric": 1.0,
+    "rank": "FAULTY",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

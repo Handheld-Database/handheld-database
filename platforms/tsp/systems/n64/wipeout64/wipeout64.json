@@ -1,5 +1,9 @@
 {
     "name": "Wipeout 64",
     "key": "wipeout64",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }

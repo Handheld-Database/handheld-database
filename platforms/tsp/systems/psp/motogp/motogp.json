@@ -1,5 +1,9 @@
 {
     "name": "Moto GP",
     "key": "motogp",
-    "rank": "GOLD"
+    "rank_numeric": 4.0,
+    "rank": "GOLD",
+    "testers": [
+        "cobaltonreddit"
+    ]
 }

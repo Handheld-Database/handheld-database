@@ -1,5 +1,9 @@
 {
     "name": "Street Fighter Alpha 3 Max",
     "key": "streetfighteralpha3max",
-    "rank": "PLATINUM"
+    "rank_numeric": 5.0,
+    "rank": "PLATINUM",
+    "testers": [
+        "0nyxprimal"
+    ]
 }

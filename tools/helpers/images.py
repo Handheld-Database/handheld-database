@@ -2,7 +2,6 @@ from io import BytesIO
 import os
 import requests
 from PIL import Image
-
 # Function to download and convert images
 def _download_and_convert_image(image_url, save_path):
     """
@@ -22,7 +21,6 @@ def _download_and_convert_image(image_url, save_path):
         image.save(save_path, 'WEBP', quality=70)
     else:
         print(f"Failed to download image from {image_url}")
-
 # Function to download game cover and icon images
 def download_game_images(cover_url, icon_url, normalize_game_name):
     """

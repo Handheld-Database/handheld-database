@@ -1,5 +1,9 @@
 {
     "name": "Fighter Destiny 2",
     "key": "fighterdestiny2",
-    "rank": "BRONZE"
+    "rank_numeric": 2.0,
+    "rank": "BRONZE",
+    "testers": [
+        "JeepThatGoesBoom"
+    ]
 }
