@@ -1,7 +1,12 @@
 ## Execution information
 
+
 **Tester**: LatinWizard
+
 **Rank**: GOLD
+
 **Backend**: OpenGL
+
 **Resolution**: 2x
+
 **Notes**: 2x AF

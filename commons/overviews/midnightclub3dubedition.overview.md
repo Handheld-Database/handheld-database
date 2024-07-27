@@ -1,5 +1,6 @@
 ## Overview
 
+
 **Midnight Club 3: Dub Edition** is a 2005 racing video game developed by Rockstar San Diego and published by Rockstar Games. It is the third installment in the Midnight Club series. Like previous installments in the series, the game is an arcade-style racer and focuses on wild, high-speed racing, rather than realistic physics and driving. The name is derived from a partnership between Rockstar and DUB Magazine, which features heavily in the game in the form of DUB-sponsored races and DUB-customized vehicles as prizes....
 # KEY INFORMATION
 

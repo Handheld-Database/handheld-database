@@ -1,5 +1,6 @@
 ## Overview
 
+
 **SOCOM U.S. Navy SEALs: Fireteam Bravo** is a tactical shooter video game developed by Zipper Interactive and published by Sony Computer Entertainment for PlayStation Portable. It is the first SOCOM U.S. Navy SEALs game in the Fireteam Bravo series. It has both online play (infrastructure mode) and PSP to PSP play (ad hoc). It is similar to the main series games.
 # KEY INFORMATION
 

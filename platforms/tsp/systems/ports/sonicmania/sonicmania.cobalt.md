@@ -1,6 +1,7 @@
 **Tester**: cobalt
+
 **Rank**: PLATINUM
-##Installation
+## Installation
 
 This port has been repacked to work out of the box with the Smart Pro (libtheora removed, settings modified for full widescreen)
 

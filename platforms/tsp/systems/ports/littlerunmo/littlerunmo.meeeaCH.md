@@ -1,12 +1,15 @@
 # Little Runmo
 
-##Installation
+## Installation
 
 This game does not require additional files.
 Portmaster page of the game: [here](https://portmaster.games/detail.html?name=littlerunmo)
 
+
 **Tester**: meeeaCH
+
 **Rank**: PLATINUM
+
 
 **Stock OS installation:**
 1. Download the file from Portmaster. It's a zip file.
@@ -18,12 +21,14 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=li
 7. Launch the game.
 8. Have fun!
 
+
 **CrossMix-OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
 2. Look for **Little Runmo** and install it.
 3. Close Portmaster.
 4. Launch the game.
 5. Have fun!
+
 
 **Tomato OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.

@@ -1,5 +1,6 @@
 ## Overview
 
+
 **Lego Pirates of the Caribbean: The Video Game** is a Lego-themed action-adventure video game developed by Traveller's Tales and published by Disney Interactive Studios. Released in May 2011, to coincide with the release of Pirates of the Caribbean: On Stranger Tides, the game is based on the Pirates of the Caribbean film series, and its storyline covers the first four films. The game is available on the Microsoft Windows, Mac OS X, Nintendo 3DS, Nintendo DS, PlayStation 3, PlayStation Portable, Wii, Xbox 360.
 
 # KEY INFORMATION

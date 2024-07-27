@@ -1,10 +1,13 @@
 ## Grand Theft Auto 3
 
 # Installation
+
 **Tester**: meeeaCH
+
 **Rank**: GOLD
 This port requires the 2001 version of the game. NOT the Definitive Edition. Both Steam and Rockstar Store versions should work.
 Portmaster page of the game: [here](https://portmaster.games/detail.html?name=gta3)
+
 
 **ArkOS manual install**:
 1. Go to the games Portmaster page, link above.
@@ -14,6 +17,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=gt
 5. Copy your download **"Grand Theft Auto 3"** game files to **"./ports/gta3/"** folder on your SD card, replace what it wants to.
 6. Eject the SD card to safely remove it and put it back in your device.
 7. Have fun!
+
 
 **ArkOS Portmaster install**:
 1. Get internet on the device: Connect your USB Wifi with an adapter to the device. Or connect your phone to the device with a USB adapter and chose USB Tethering on the phone.

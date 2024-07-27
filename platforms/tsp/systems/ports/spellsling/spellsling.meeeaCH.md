@@ -1,11 +1,14 @@
 # Spell Sling
 
-##Installation
+## Installation
 
 Portmaster page of the game: [here](https://portmaster.games/detail.html?name=spellsling)
 
+
 **Tester**: meeeaCH
+
 **Rank**: PLATINUM
+
 
 **Stock OS installation:**
 1. Download the file from Portmaster. It's a zip file.
@@ -18,6 +21,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=sp
 8. Launch the game.
 9. Have fun!
 
+
 **CrossMix-OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
 2. Look for **Spell Sling** and install it.
@@ -26,6 +30,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=sp
 4. Eject the SD card to safely remove it and put it back in your device.
 5. Launch the game.
 6. Have fun!
+
 
 **Tomato OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.

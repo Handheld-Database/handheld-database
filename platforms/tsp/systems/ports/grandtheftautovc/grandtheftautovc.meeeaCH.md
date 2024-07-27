@@ -1,10 +1,11 @@
 # Grand Theft Auto: Vice City
 
-##Installation
+## Installation
 
 This port requires the 2002 version of the game. NOT the Definitive Edition. Both Steam and Rockstar Store versions should work. Portmaster page of the game: [here](https://portmaster.games/detail.html?name=gtavc)
 
 **Tester**: meeeaCH
+
 **Rank**: PLATINUM
 
 **Stock OS installation:**
@@ -17,6 +18,7 @@ This port requires the 2002 version of the game. NOT the Definitive Edition. Bot
 7. Eject the SD card to safely remove it and put it back in your device.
 8. Have fun!
 
+
 **CrossMix-OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
 2. Look for Grand Theft Auto: Vice City and install it.
@@ -24,6 +26,7 @@ This port requires the 2002 version of the game. NOT the Definitive Edition. Bot
 4. Copy all files from your **Grand Theft Auto: Vice City** installation to **"./Data/ports/gtavc/"** folder and replace everything it wants to.
 5. Eject the SD card to safely remove it and put it back in your device.
 6. Have fun!
+
 
 **Tomato OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.

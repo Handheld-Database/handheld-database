@@ -1,11 +1,14 @@
 # Ocean's Heart
 
-##Installation
+## Installation
 
 Portmaster page of the game: [here](https://portmaster.games/detail.html?name=oceansheart)
 
+
 **Tester**: meeeaCH
+
 **Rank**: PLATINUM
+
 
 **Stock OS installation:**
 1. Download the file from Portmaster. It's a zip file.
@@ -18,6 +21,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=oc
 7. Launch the game.
 8. Have fun!
 
+
 **CrossMix-OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
 2. Look for **Ocean's Heart** and install it.
@@ -26,6 +30,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=oc
 5. Eject the SD card to safely remove it and put it back in your device.
 6. Launch the game.
 7. Have fun!
+
 
 **Tomato OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.

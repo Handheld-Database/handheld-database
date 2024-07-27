@@ -1,12 +1,16 @@
 # Yarntown
 
-##Installation
+## Installation
+
 
 **ATTENTION** the game runs fine in the main menu, but **very laggy while playing**.
 Portmaster page of the game: [here](https://portmaster.games/detail.html?name=yarntown)
 
+
 **Tester**: meeeaCH
+
 **Rank**: FAULTY
+
 
 **Stock OS installation:**
 1. Download the file from Portmaster. It's a zip file.
@@ -18,6 +22,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=ya
 7. Launch the game.
 8. Have fun!
 
+
 **CrossMix-OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
 2. Look for **Yarntown** and install it.
@@ -26,6 +31,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=ya
 4. Eject the SD card to safely remove it and put it back in your device.
 5. Launch the game.
 6. Have fun!
+
 
 **Tomato OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.

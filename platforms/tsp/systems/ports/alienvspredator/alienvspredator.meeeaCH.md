@@ -1,13 +1,17 @@
 # Alien vs Predator
 
 # Installation
+
 **Tester**: meeeaCH
+
 **Rank**: FAULTY
-##I wasn't able to make it run, on TSP.
+
+## I wasn't able to make it run, on TSP.
 
 Portmaster page of the game: [LINK](https://portmaster.games/detail.html?name=avp)
 
 **Attention** this game requers every copyied file to be lowercase.
+
 **CrossMix-OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
 2. Look for **Alien vs Predator** and install it.

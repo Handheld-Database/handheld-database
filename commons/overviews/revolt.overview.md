@@ -1,5 +1,6 @@
 ## Overview
 
+
 **Re-Volt** is a racing video game designed by **Paul Phippen** and **Simon Harrison**. It was developed by **Acclaim Studios London** and published by **Acclaim Entertainment for Microsoft Windows, Nintendo 64, PlayStation and Dreamcast. The premise of the game involves racing radio-controlled cars around environments like museums, steamships, construction sites and supermarkets. During a race the cars can collect random weapons to use to displace competitors. Cars and tracks were both unlocked through success in the game's tournament modes.
 ##Key Information
 

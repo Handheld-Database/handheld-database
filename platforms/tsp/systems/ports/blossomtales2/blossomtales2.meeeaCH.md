@@ -1,11 +1,14 @@
 # Blossom Tales II: The Minotaur Prince
 
-##Installation
+## Installation
 
 Portmaster page of the game: [here](https://portmaster.games/detail.html?name=blossomtales2)
 
+
 **Tester**: meeeaCH
+
 **Rank**: PLATINUM
+
 
 **Stock OS installation:**
 1. Download the file from Portmaster. It's a zip file.
@@ -17,6 +20,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=bl
 7. Eject the SD card to safely remove it and put it back in your device.
 8. Have fun!
 
+
 **CrossMix-OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
 2. Look for **Blossom Tales II** and install it.
@@ -24,6 +28,7 @@ Portmaster page of the game: [here](https://portmaster.games/detail.html?name=bl
 4. Copy all files from your **Blossom Tales II: The Minotaur Prince** installation to **"./Data/ports/blossomtales2/"** folder and replace everything it wants to.
 5. Eject the SD card to safely remove it and put it back in your device.
 6. Have fun!
+
 
 **Tomato OS installation:**
 1. Open Portmaster and navigate to **"All Ports"**.
