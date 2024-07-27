@@ -1,13 +1,13 @@
 {
     "games": [
         {
-            "name": "Mario & Luigi: Partners in Time",
-            "key": "marioluigipartnersintime",
+            "name": "Mario Party DS",
+            "key": "mariopartyds",
             "rank": "PLATINUM"
         },
         {
-            "name": "Mario Party DS",
-            "key": "mariopartyds",
+            "name": "Mario & Luigi: Partners in Time",
+            "key": "marioluigipartnersintime",
             "rank": "PLATINUM"
         },
         {
