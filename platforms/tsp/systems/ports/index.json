@@ -1,26 +1,6 @@
 {
     "games": [
         {
-            "name": "Alien vs Predator",
-            "key": "alienvspredator",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Blossom Tales 2",
-            "key": "blossomtales2",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Doom 3",
-            "key": "doom3",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Grand Theft Auto 3",
-            "key": "grandtheftauto3",
-            "rank": "PLATINUM"
-        },
-        {
             "name": "Grand Theft Auto: Vice City",
             "key": "grandtheftautovc",
             "rank": "PLATINUM"
@@ -29,6 +9,16 @@
             "name": "Half-Life",
             "key": "halflife",
             "rank": "GOLD"
+        },
+        {
+            "name": "Yarntown",
+            "key": "yarntown",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Blossom Tales 2",
+            "key": "blossomtales2",
+            "rank": "PLATINUM"
         },
         {
             "name": "Little Runmo",
@@ -41,13 +31,18 @@
             "rank": "PLATINUM"
         },
         {
-            "name": "Raptor",
-            "key": "raptor",
+            "name": "Spell Sling",
+            "key": "spellsling",
             "rank": "PLATINUM"
         },
         {
-            "name": "Return to Castle Wolfeinstin",
-            "key": "returntocastlewolfeinstein",
+            "name": "Stardew Valley",
+            "key": "stardewvalley",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Raptor",
+            "key": "raptor",
             "rank": "PLATINUM"
         },
         {
@@ -56,14 +51,14 @@
             "rank": "PLATINUM"
         },
         {
-            "name": "Sonic Mania",
-            "key": "sonicmania",
-            "rank": "PLATINUM"
+            "name": "Doom 3",
+            "key": "doom3",
+            "rank": "FAULTY"
         },
         {
-            "name": "Spell Sling",
-            "key": "spellsling",
-            "rank": "PLATINUM"
+            "name": "Alien vs Predator",
+            "key": "alienvspredator",
+            "rank": "FAULTY"
         },
         {
             "name": "Spell Tower",
@@ -71,14 +66,19 @@
             "rank": "GOLD"
         },
         {
-            "name": "Stardew Valley",
-            "key": "stardewvalley",
+            "name": "Sonic Mania",
+            "key": "sonicmania",
             "rank": "PLATINUM"
         },
         {
-            "name": "Yarntown",
-            "key": "yarntown",
-            "rank": "FAULTY"
+            "name": "Grand Theft Auto 3",
+            "key": "grandtheftauto3",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Return to Castle Wolfeinstin",
+            "key": "returntocastlewolfeinstein",
+            "rank": "PLATINUM"
         }
     ]
 }
