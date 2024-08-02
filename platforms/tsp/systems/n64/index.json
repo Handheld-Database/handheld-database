@@ -1,134 +1,9 @@
 {
     "games": [
         {
-            "name": "Monaco Grand Prix",
-            "key": "monacograndprix",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Monopoly",
-            "key": "monopoly",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Knockout Kings 2000",
-            "key": "knockoutkings2000",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Castlevania",
-            "key": "castlevania",
-            "rank": "GOLD"
-        },
-        {
-            "name": "WWF Attitude",
-            "key": "wwfattitude",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Armorines  Project SWARM",
-            "key": "armorinesprojectswarm",
+            "name": "NFL Quarterback Club 2000",
+            "key": "nflquarterbackclub2000",
             "rank": "BRONZE"
-        },
-        {
-            "name": "Aidyn Chronicles  The First Mage",
-            "key": "aidynchroniclesthefirstmage",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Duke Nukem  ZER0 H0UR",
-            "key": "dukenukemzer0h0ur",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Worms  Armageddon",
-            "key": "wormsarmageddon",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Chameleon Twist",
-            "key": "chameleontwist",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Ms PacMan  Maze Madness",
-            "key": "mspacmanmazemadness",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NBA In the Zone 2000",
-            "key": "nbainthezone2000",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Hydro Thunder",
-            "key": "hydrothunder",
-            "rank": "GOLD"
-        },
-        {
-            "name": "WCWnWo Revenge",
-            "key": "wcwnworevenge",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Pokemon Stadium 2",
-            "key": "pokemonstadium2",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Mario Golf",
-            "key": "mariogolf",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Mario Party 2",
-            "key": "marioparty2",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Wheel of Fortune",
-            "key": "wheeloffortune",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Snowboard Kids",
-            "key": "snowboardkids",
-            "rank": "GOLD"
-        },
-        {
-            "name": "BanjoKazooie",
-            "key": "banjokazooie",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Transformers  Beast Wars Transmetal",
-            "key": "transformersbeastwarstransmetal",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Indiana Jones and the Infernal Machine",
-            "key": "indianajonesandtheinfernalmachine",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Earthworm Jim 3D",
-            "key": "earthwormjim3d",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "ECW Hardcore Revolution",
-            "key": "ecwhardcorerevolution",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Jeopardy",
-            "key": "jeopardy",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Mario Tennis",
-            "key": "mariotennis",
-            "rank": "FAULTY"
         },
         {
             "name": "Nightmare Creatures",
@@ -136,278 +11,18 @@
             "rank": "FAULTY"
         },
         {
-            "name": "Stunt Racer 64",
-            "key": "stuntracer64",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Dual Heroes",
-            "key": "dualheroes",
-            "rank": "GOLD"
-        },
-        {
-            "name": "International Superstar Soccer 2000",
-            "key": "internationalsuperstarsoccer2000",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Ken Griffey Jrs Slugfest",
-            "key": "kengriffeyjrsslugfest",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Battlezone  Rise of the Black Dogs",
-            "key": "battlezoneriseoftheblackdogs",
-            "rank": "SILVER"
-        },
-        {
-            "name": "BustAMove 99",
-            "key": "bustamove99",
+            "name": "Magical Tetris Challenge",
+            "key": "magicaltetrischallenge",
             "rank": "PLATINUM"
         },
         {
-            "name": "Army Men  Sarges Heroes 2",
-            "key": "armymensargesheroes2",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "WCW Mayhem",
-            "key": "wcwmayhem",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NFL Blitz 2001",
-            "key": "nflblitz2001",
+            "name": "Harvest Moon 64",
+            "key": "harvestmoon64",
             "rank": "PLATINUM"
         },
         {
-            "name": "Star Wars Episode I  Battle for Naboo",
-            "key": "starwarsepisodeibattlefornaboo",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "MRC  Multi Racing Championship",
-            "key": "mrcmultiracingchampionship",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Pokemon Snap",
-            "key": "pokemonsnap",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Big Mountain 2000",
-            "key": "bigmountain2000",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Paper Mario",
-            "key": "papermario",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Duck Dodgers Starring Daffy Duck",
-            "key": "duckdodgersstarringdaffyduck",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Legend of Zelda The  Majoras Mask",
-            "key": "legendofzeldathemajorasmask",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Hot Wheels Turbo Racing",
-            "key": "hotwheelsturboracing",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Bottom of the 9th",
-            "key": "bottomofthe9th",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NFL Quarterback Club 99",
-            "key": "nflquarterbackclub99",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Rayman 2  The Great Escape",
-            "key": "rayman2thegreatescape",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Fox Sports College Hoops 99",
-            "key": "foxsportscollegehoops99",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Super Smash Bros",
-            "key": "supersmashbros",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Space Invaders",
-            "key": "spaceinvaders",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Elmos Letter Adventure",
-            "key": "elmosletteradventure",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Legend of Zelda The  Ocarina of Time",
-            "key": "legendofzeldatheocarinaoftime",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Nuclear Strike 64",
-            "key": "nuclearstrike64",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Bio FREAKS",
-            "key": "biofreaks",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Gauntlet Legends",
-            "key": "gauntletlegends",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Top Gear Hyper Bike",
-            "key": "topgearhyperbike",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Wayne Gretzkys 3D Hockey",
-            "key": "waynegretzkys3dhockey",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Fighter Destiny 2",
-            "key": "fighterdestiny2",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "BanjoTooie",
-            "key": "banjotooie",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Army Men  Sarges Heroes",
-            "key": "armymensargesheroes",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Tiggers Honey Hunt",
-            "key": "tiggershoneyhunt",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Pilotwings 64",
-            "key": "pilotwings64",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Batman Beyond  Return of the Joker",
-            "key": "batmanbeyondreturnofthejoker",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "South Park  Chefs Luv Shack",
-            "key": "southparkchefsluvshack",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Command  Conquer",
-            "key": "commandconquer",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Yoshis Story",
-            "key": "yoshisstory",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NFL Quarterback Club 2000",
-            "key": "nflquarterbackclub2000",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Polaris SnoCross",
-            "key": "polarissnocross",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Rat Attack",
-            "key": "ratattack",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Madden NFL 2001",
-            "key": "maddennfl2001",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Mario Kart 64",
-            "key": "mariokart64",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Snowboard Kids 2",
-            "key": "snowboardkids2",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "CyberTiger",
-            "key": "cybertiger",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Mission Impossible",
-            "key": "missionimpossible",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Mike Piazzas Strike Zone",
-            "key": "mikepiazzasstrikezone",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Destruction Derby 64",
-            "key": "destructionderby64",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Wetrix",
-            "key": "wetrix",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Toy Story 2",
-            "key": "toystory2",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "VRally Edition 99",
-            "key": "vrallyedition99",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NBA Hangtime",
-            "key": "nbahangtime",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Super Bowling 64",
-            "key": "superbowling64",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Rampage  World Tour",
-            "key": "rampageworldtour",
+            "name": "Wipeout 64",
+            "key": "wipeout64",
             "rank": "GOLD"
         },
         {
@@ -416,269 +31,9 @@
             "rank": "GOLD"
         },
         {
-            "name": "BustAMove 2  Arcade Edition",
-            "key": "bustamove2arcadeedition",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Bomberman 64",
-            "key": "bomberman64",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Hey You Pikachu",
-            "key": "heyyoupikachu",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Tonic Trouble",
-            "key": "tonictrouble",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Gex 64  Enter the Gecko",
-            "key": "gex64enterthegecko",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Hercules  The Legendary Journeys",
-            "key": "herculesthelegendaryjourneys",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Perfect Dark",
-            "key": "perfectdark",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Charlie Blasts Territory",
-            "key": "charlieblaststerritory",
-            "rank": "GOLD"
-        },
-        {
-            "name": "War Gods",
-            "key": "wargods",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Monster Truck Madness 64",
-            "key": "monstertruckmadness64",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Wayne Gretzkys 3D Hockey 98",
-            "key": "waynegretzkys3dhockey98",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Madden Football 64",
-            "key": "maddenfootball64",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Starshot  Space Circus Fever",
-            "key": "starshotspacecircusfever",
-            "rank": "SILVER"
-        },
-        {
-            "name": "San Francisco Rush 2049",
-            "key": "sanfranciscorush2049",
-            "rank": "SILVER"
-        },
-        {
-            "name": "NBA Showtime  NBA on NBC",
-            "key": "nbashowtimenbaonnbc",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Mortal Kombat 4",
-            "key": "mortalkombat4",
-            "rank": "GOLD"
-        },
-        {
-            "name": "RR64  Ridge Racer 64",
-            "key": "rr64ridgeracer64",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Robotron 64",
-            "key": "robotron64",
-            "rank": "GOLD"
-        },
-        {
             "name": "Quest 64",
             "key": "quest64",
             "rank": "GOLD"
-        },
-        {
-            "name": "Top Gear Rally",
-            "key": "topgearrally",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Turok 2  Seeds of Evil",
-            "key": "turok2seedsofevil",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Mia Hamm Soccer 64",
-            "key": "miahammsoccer64",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Fighters Destiny",
-            "key": "fightersdestiny",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Star Wars  Rogue Squadron",
-            "key": "starwarsroguesquadron",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "007  The World is Not Enough",
-            "key": "007theworldisnotenough",
-            "rank": "SILVER"
-        },
-        {
-            "name": "FIFA Soccer 64",
-            "key": "fifasoccer64",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Rocket  Robot on Wheels",
-            "key": "rocketrobotonwheels",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Tony Hawks Pro Skater",
-            "key": "tonyhawksproskater",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Dr Mario 64",
-            "key": "drmario64",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Killer Instinct Gold",
-            "key": "killerinstinctgold",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Automobili Lamborghini",
-            "key": "automobililamborghini",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Ogre Battle 64  Person of Lordly Caliber",
-            "key": "ogrebattle64personoflordlycaliber",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Rush 2  Extreme Racing USA",
-            "key": "rush2extremeracingusa",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Paperboy",
-            "key": "paperboy",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Donkey Kong 64",
-            "key": "donkeykong64",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Fighting Force 64",
-            "key": "fightingforce64",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "AllStar Baseball 2001",
-            "key": "allstarbaseball2001",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Buck Bumble",
-            "key": "buckbumble",
-            "rank": "GOLD"
-        },
-        {
-            "name": "AeroFighters Assault",
-            "key": "aerofightersassault",
-            "rank": "SILVER"
-        },
-        {
-            "name": "ExtremeG",
-            "key": "extremeg",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Clay Fighter  Sculptors Cut",
-            "key": "clayfightersculptorscut",
-            "rank": "GOLD"
-        },
-        {
-            "name": "FIFA  Road to World Cup 98",
-            "key": "fifaroadtoworldcup98",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "John Romeros Daikatana",
-            "key": "johnromerosdaikatana",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Xena Warrior Princess  The Talisman of Fate",
-            "key": "xenawarriorprincessthetalismanoffate",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Major League Baseball Featuring Ken Griffey Jr",
-            "key": "majorleaguebaseballfeaturingkengriffeyjr",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Elmos Number Journey",
-            "key": "elmosnumberjourney",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Micro Machines 64 Turbo",
-            "key": "micromachines64turbo",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Disneys Donald Duck  Goin Quackers",
-            "key": "disneysdonaldduckgoinquackers",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Triple Play 2000",
-            "key": "tripleplay2000",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "NBA In the Zone 99",
-            "key": "nbainthezone99",
-            "rank": "SILVER"
-        },
-        {
-            "name": "ODT",
-            "key": "odt",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NASCAR 99",
-            "key": "nascar99",
-            "rank": "SILVER"
-        },
-        {
-            "name": "World Cup 98",
-            "key": "worldcup98",
-            "rank": "BRONZE"
         },
         {
             "name": "Madden NFL 99",
@@ -686,199 +41,9 @@
             "rank": "BRONZE"
         },
         {
-            "name": "Knife Edge  Nose Gunner",
-            "key": "knifeedgenosegunner",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Cruisn Exotica",
-            "key": "cruisnexotica",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "GT 64  Championship Edition",
-            "key": "gt64championshipedition",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Rampage 2  Universal Tour",
-            "key": "rampage2universaltour",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "WCW Backstage Assault",
-            "key": "wcwbackstageassault",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Frogger 2",
-            "key": "frogger2",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Shadow Man",
-            "key": "shadowman",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Forsaken 64",
-            "key": "forsaken64",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "AllStar Baseball 2000",
-            "key": "allstarbaseball2000",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "NBA Jam 99",
-            "key": "nbajam99",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Blues Brothers 2000",
-            "key": "bluesbrothers2000",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Powerpuff Girls The  Chemical XTraction",
-            "key": "powerpuffgirlsthechemicalxtraction",
-            "rank": "GOLD"
-        },
-        {
-            "name": "1080 Snowboarding",
-            "key": "1080snowboarding",
-            "rank": "GOLD"
-        },
-        {
-            "name": "SCARS",
-            "key": "scars",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Iggys Reckin Balls",
-            "key": "iggysreckinballs",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Turok  Rage Wars",
-            "key": "turokragewars",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Rally Challenge 2000",
-            "key": "rallychallenge2000",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Mortal Kombat Mythologies  SubZero",
-            "key": "mortalkombatmythologiessubzero",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Tetrisphere",
-            "key": "tetrisphere",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "NBA In the Zone 98",
-            "key": "nbainthezone98",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Chopper Attack",
-            "key": "chopperattack",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Olympic Hockey Nagano 98",
-            "key": "olympichockeynagano98",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Power Rangers  Lightspeed Rescue",
-            "key": "powerrangerslightspeedrescue",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Excitebike 64",
-            "key": "excitebike64",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Super Mario 64",
-            "key": "supermario64",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NBA Courtside 2  Featuring Kobe Bryant",
-            "key": "nbacourtside2featuringkobebryant",
-            "rank": "SILVER"
-        },
-        {
-            "name": "AeroGauge",
-            "key": "aerogauge",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Glover",
-            "key": "glover",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Twisted Edge Extreme Snowboarding",
-            "key": "twistededgeextremesnowboarding",
-            "rank": "GOLD"
-        },
-        {
-            "name": "SpiderMan",
-            "key": "spiderman",
-            "rank": "SILVER"
-        },
-        {
-            "name": "ReVolt",
-            "key": "revolt",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Diddy Kong Racing",
-            "key": "diddykongracing",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Mace  The Dark Age",
-            "key": "macethedarkage",
-            "rank": "GOLD"
-        },
-        {
             "name": "Mario Party 3",
             "key": "marioparty3",
             "rank": "SILVER"
-        },
-        {
-            "name": "Resident Evil 2",
-            "key": "residentevil2",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "International Superstar Soccer 98",
-            "key": "internationalsuperstarsoccer98",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Turok  Dinosaur Hunter",
-            "key": "turokdinosaurhunter",
-            "rank": "GOLD"
-        },
-        {
-            "name": "PGA European Tour",
-            "key": "pgaeuropeantour",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Virtual Pool 64",
-            "key": "virtualpool64",
-            "rank": "GOLD"
         },
         {
             "name": "Gex 3  Deep Cover Gecko",
@@ -886,148 +51,13 @@
             "rank": "BRONZE"
         },
         {
-            "name": "ScoobyDoo  Classic Creep Capers",
-            "key": "scoobydooclassiccreepcapers",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Mega Man 64",
-            "key": "megaman64",
+            "name": "Star Wars  Shadows of the Empire",
+            "key": "starwarsshadowsoftheempire",
             "rank": "BRONZE"
         },
         {
-            "name": "Madden NFL 2000",
-            "key": "maddennfl2000",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "NFL Blitz 2000",
-            "key": "nflblitz2000",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Star Fox 64",
-            "key": "starfox64",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Tom Clancys Rainbow Six",
-            "key": "tomclancysrainbowsix",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Hybrid Heaven",
-            "key": "hybridheaven",
-            "rank": "GOLD"
-        },
-        {
-            "name": "South Park Rally",
-            "key": "southparkrally",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Deadly Arts",
-            "key": "deadlyarts",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Clay Fighter 63 13",
-            "key": "clayfighter6313",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Goemons Great Adventure",
-            "key": "goemonsgreatadventure",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Jet Force Gemini",
-            "key": "jetforcegemini",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "New Tetris The",
-            "key": "newtetristhe",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Pokemon Stadium",
-            "key": "pokemonstadium",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Doom 64",
-            "key": "doom64",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "FZERO X",
-            "key": "fzerox",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Razor Freestyle Scooter",
-            "key": "razorfreestylescooter",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "NBA Live 99",
-            "key": "nbalive99",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "All Star Tennis 99",
-            "key": "allstartennis99",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Disneys Tarzan",
-            "key": "disneystarzan",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Jeremy McGrath Supercross 2000",
-            "key": "jeremymcgrathsupercross2000",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Mortal Kombat Trilogy",
-            "key": "mortalkombattrilogy",
-            "rank": "GOLD"
-        },
-        {
-            "name": "BattleTanx",
-            "key": "battletanx",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Chameleon Twist 2",
-            "key": "chameleontwist2",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Wave Race 64",
-            "key": "waverace64",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Army Men  Air Combat",
-            "key": "armymenaircombat",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Cruisn USA",
-            "key": "cruisnusa",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "NHL 99",
-            "key": "nhl99",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "NFL Blitz",
-            "key": "nflblitz",
+            "name": "Brunswick Circuit Pro Bowling",
+            "key": "brunswickcircuitprobowling",
             "rank": "FAULTY"
         },
         {
@@ -1036,113 +66,98 @@
             "rank": "GOLD"
         },
         {
-            "name": "Star Wars Episode I  Racer",
-            "key": "starwarsepisodeiracer",
+            "name": "Star Wars Episode I  Battle for Naboo",
+            "key": "starwarsepisodeibattlefornaboo",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "007  The World is Not Enough",
+            "key": "007theworldisnotenough",
             "rank": "SILVER"
         },
         {
-            "name": "Bomberman Hero",
-            "key": "bombermanhero",
+            "name": "Gex 64  Enter the Gecko",
+            "key": "gex64enterthegecko",
             "rank": "PLATINUM"
         },
         {
-            "name": "FIFA 99",
-            "key": "fifa99",
+            "name": "New Tetris The",
+            "key": "newtetristhe",
+            "rank": "SILVER"
+        },
+        {
+            "name": "GoldenEye 007",
+            "key": "goldeneye007",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "BattleTanx  Global Assault",
+            "key": "battletanxglobalassault",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Hydro Thunder",
+            "key": "hydrothunder",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Chameleon Twist",
+            "key": "chameleontwist",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Mario Party 2",
+            "key": "marioparty2",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Excitebike 64",
+            "key": "excitebike64",
             "rank": "BRONZE"
         },
         {
-            "name": "WCW vs nWo  World Tour",
-            "key": "wcwvsnwoworldtour",
+            "name": "Vigilante 8  2nd Offense",
+            "key": "vigilante82ndoffense",
             "rank": "FAULTY"
         },
         {
-            "name": "Flying Dragon",
-            "key": "flyingdragon",
+            "name": "Duke Nukem  ZER0 H0UR",
+            "key": "dukenukemzer0h0ur",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Virtual Chess 64",
+            "key": "virtualchess64",
+            "rank": "GOLD"
+        },
+        {
+            "name": "International Superstar Soccer 2000",
+            "key": "internationalsuperstarsoccer2000",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Tiggers Honey Hunt",
+            "key": "tiggershoneyhunt",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "ScoobyDoo  Classic Creep Capers",
+            "key": "scoobydooclassiccreepcapers",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Fighter Destiny 2",
+            "key": "fighterdestiny2",
             "rank": "BRONZE"
         },
         {
-            "name": "WWF  War Zone",
-            "key": "wwfwarzone",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Ready 2 Rumble Boxing",
-            "key": "ready2rumbleboxing",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Supercross 2000",
-            "key": "supercross2000",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Body Harvest",
-            "key": "bodyharvest",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "California Speed",
-            "key": "californiaspeed",
+            "name": "Pilotwings 64",
+            "key": "pilotwings64",
             "rank": "SILVER"
         },
         {
-            "name": "Vigilante 8",
-            "key": "vigilante8",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Conkers Bad Fur Day",
-            "key": "conkersbadfurday",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "WWF WrestleMania 2000",
-            "key": "wwfwrestlemania2000",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Turok 3  Shadow of Oblivion",
-            "key": "turok3shadowofoblivion",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Bomberman 64  The Second Attack",
-            "key": "bomberman64thesecondattack",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Blast Corps",
-            "key": "blastcorps",
-            "rank": "SILVER"
-        },
-        {
-            "name": "NFL Quarterback Club 98",
-            "key": "nflquarterbackclub98",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Roadsters Trophy",
-            "key": "roadsterstrophy",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Quake II",
-            "key": "quakeii",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Quake 64",
-            "key": "quake64",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Tony Hawks Pro Skater 3",
-            "key": "tonyhawksproskater3",
-            "rank": "GOLD"
-        },
-        {
-            "name": "ExtremeG XG2",
-            "key": "extremegxg2",
+            "name": "Shadowgate 64  Trials Of The Four Towers",
+            "key": "shadowgate64trialsofthefourtowers",
             "rank": "BRONZE"
         },
         {
@@ -1151,58 +166,33 @@
             "rank": "FAULTY"
         },
         {
-            "name": "Kobe Bryants NBA Courtside",
-            "key": "kobebryantsnbacourtside",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "BattleTanx  Global Assault",
-            "key": "battletanxglobalassault",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Bugs Life A",
-            "key": "bugslifea",
+            "name": "NFL Blitz  Special Edition",
+            "key": "nflblitzspecialedition",
             "rank": "PLATINUM"
         },
         {
-            "name": "Tony Hawks Pro Skater 2",
-            "key": "tonyhawksproskater2",
+            "name": "FIFA Soccer 64",
+            "key": "fifasoccer64",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Bio FREAKS",
+            "key": "biofreaks",
             "rank": "GOLD"
         },
         {
-            "name": "Tom and Jerry in Fists of Furry",
-            "key": "tomandjerryinfistsoffurry",
-            "rank": "GOLD"
+            "name": "Madden NFL 2001",
+            "key": "maddennfl2001",
+            "rank": "BRONZE"
         },
         {
-            "name": "Rugrats in Paris  The Movie",
-            "key": "rugratsinparisthemovie",
+            "name": "California Speed",
+            "key": "californiaspeed",
             "rank": "SILVER"
         },
         {
-            "name": "AllStar Baseball 99",
-            "key": "allstarbaseball99",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Pokemon Puzzle League",
-            "key": "pokemonpuzzleleague",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Indy Racing 2000",
-            "key": "indyracing2000",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NHL Breakaway 99",
-            "key": "nhlbreakaway99",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "San Francisco Rush  Extreme Racing",
-            "key": "sanfranciscorushextremeracing",
+            "name": "NBA Hangtime",
+            "key": "nbahangtime",
             "rank": "FAULTY"
         },
         {
@@ -1211,73 +201,58 @@
             "rank": "PLATINUM"
         },
         {
-            "name": "Road Rash 64",
-            "key": "roadrash64",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Golden Nugget 64",
-            "key": "goldennugget64",
-            "rank": "GOLD"
-        },
-        {
-            "name": "InFisherman Bass Hunter 64",
-            "key": "infishermanbasshunter64",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Ready 2 Rumble Boxing  Round 2",
-            "key": "ready2rumbleboxinground2",
+            "name": "Elmos Number Journey",
+            "key": "elmosnumberjourney",
             "rank": "FAULTY"
         },
         {
-            "name": "Midways Greatest Arcade Hits Volume 1",
-            "key": "midwaysgreatestarcadehitsvolume1",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Mickeys Speedway USA",
-            "key": "mickeysspeedwayusa",
-            "rank": "GOLD"
-        },
-        {
-            "name": "World Driver Championship",
-            "key": "worlddriverchampionship",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "WCW Nitro",
-            "key": "wcwnitro",
+            "name": "F1 Pole Position 64",
+            "key": "f1poleposition64",
             "rank": "SILVER"
         },
         {
-            "name": "Brunswick Circuit Pro Bowling",
-            "key": "brunswickcircuitprobowling",
+            "name": "San Francisco Rush  Extreme Racing",
+            "key": "sanfranciscorushextremeracing",
             "rank": "FAULTY"
         },
         {
-            "name": "StarCraft 64",
-            "key": "starcraft64",
-            "rank": "PLATINUM"
+            "name": "NBA Jam 2000",
+            "key": "nbajam2000",
+            "rank": "FAULTY"
         },
         {
-            "name": "Off Road Challenge",
-            "key": "offroadchallenge",
+            "name": "NFL Blitz",
+            "key": "nflblitz",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Chameleon Twist 2",
+            "key": "chameleontwist2",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Mia Hamm Soccer 64",
+            "key": "miahammsoccer64",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Clay Fighter 63 13",
+            "key": "clayfighter6313",
             "rank": "SILVER"
         },
         {
-            "name": "Harvest Moon 64",
-            "key": "harvestmoon64",
-            "rank": "PLATINUM"
+            "name": "Bomberman 64",
+            "key": "bomberman64",
+            "rank": "FAULTY"
         },
         {
-            "name": "Milos Astro Lanes",
-            "key": "milosastrolanes",
-            "rank": "BRONZE"
+            "name": "Dual Heroes",
+            "key": "dualheroes",
+            "rank": "GOLD"
         },
         {
-            "name": "Bassmasters 2000",
-            "key": "bassmasters2000",
+            "name": "Twisted Edge Extreme Snowboarding",
+            "key": "twistededgeextremesnowboarding",
             "rank": "GOLD"
         },
         {
@@ -1286,33 +261,13 @@
             "rank": "BRONZE"
         },
         {
-            "name": "Top Gear Rally 2",
-            "key": "topgearrally2",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Superman",
-            "key": "superman",
+            "name": "Virtual Pool 64",
+            "key": "virtualpool64",
             "rank": "GOLD"
         },
         {
-            "name": "NHL Blades of Steel 99",
-            "key": "nhlbladesofsteel99",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "LEGO Racers",
-            "key": "legoracers",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Rugrats  Scavenger Hunt",
-            "key": "rugratsscavengerhunt",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "F1 World Grand Prix",
-            "key": "f1worldgrandprix",
+            "name": "Tony Hawks Pro Skater 3",
+            "key": "tonyhawksproskater3",
             "rank": "GOLD"
         },
         {
@@ -1321,94 +276,49 @@
             "rank": "FAULTY"
         },
         {
-            "name": "Hexen",
-            "key": "hexen",
+            "name": "Hercules  The Legendary Journeys",
+            "key": "herculesthelegendaryjourneys",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Space Invaders",
+            "key": "spaceinvaders",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Iggys Reckin Balls",
+            "key": "iggysreckinballs",
             "rank": "FAULTY"
         },
         {
-            "name": "Premier Manager 64",
-            "key": "premiermanager64",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Waialae Country Club  True Golf Classics",
-            "key": "waialaecountryclubtruegolfclassics",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Top Gear Overdrive",
-            "key": "topgearoverdrive",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Duke Nukem 64",
-            "key": "dukenukem64",
-            "rank": "SILVER"
-        },
-        {
-            "name": "NFL Quarterback Club 2001",
-            "key": "nflquarterbackclub2001",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "South Park",
-            "key": "southpark",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Wipeout 64",
-            "key": "wipeout64",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Star Wars  Shadows of the Empire",
-            "key": "starwarsshadowsoftheempire",
-            "rank": "BRONZE"
-        },
-        {
-            "name": "Nagano Winter Olympics 98",
-            "key": "naganowinterolympics98",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Lode Runner 3D",
-            "key": "loderunner3d",
-            "rank": "SILVER"
-        },
-        {
-            "name": "NHL Breakaway 98",
-            "key": "nhlbreakaway98",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Carmageddon 64",
-            "key": "carmageddon64",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "NASCAR 2000",
-            "key": "nascar2000",
+            "name": "Dr Mario 64",
+            "key": "drmario64",
             "rank": "FAULTY"
         },
         {
-            "name": "Star Soldier  Vanishing Earth",
-            "key": "starsoldiervanishingearth",
-            "rank": "SILVER"
+            "name": "Road Rash 64",
+            "key": "roadrash64",
+            "rank": "BRONZE"
         },
         {
-            "name": "Pokemon Snap Station",
-            "key": "pokemonsnapstation",
-            "rank": "PLATINUM"
+            "name": "Turok  Dinosaur Hunter",
+            "key": "turokdinosaurhunter",
+            "rank": "GOLD"
         },
         {
-            "name": "Magical Tetris Challenge",
-            "key": "magicaltetrischallenge",
-            "rank": "PLATINUM"
+            "name": "Gauntlet Legends",
+            "key": "gauntletlegends",
+            "rank": "FAULTY"
         },
         {
-            "name": "NFL Blitz  Special Edition",
-            "key": "nflblitzspecialedition",
-            "rank": "PLATINUM"
+            "name": "Duck Dodgers Starring Daffy Duck",
+            "key": "duckdodgersstarringdaffyduck",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "PGA European Tour",
+            "key": "pgaeuropeantour",
+            "rank": "BRONZE"
         },
         {
             "name": "Madden NFL 2002",
@@ -1416,33 +326,93 @@
             "rank": "BRONZE"
         },
         {
-            "name": "GoldenEye 007",
-            "key": "goldeneye007",
+            "name": "Nuclear Strike 64",
+            "key": "nuclearstrike64",
             "rank": "FAULTY"
         },
         {
-            "name": "Vigilante 8  2nd Offense",
-            "key": "vigilante82ndoffense",
+            "name": "Chopper Attack",
+            "key": "chopperattack",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Army Men  Air Combat",
+            "key": "armymenaircombat",
             "rank": "FAULTY"
         },
         {
-            "name": "Mario Party",
-            "key": "marioparty",
-            "rank": "GOLD"
-        },
-        {
-            "name": "NBA Jam 2000",
-            "key": "nbajam2000",
+            "name": "NFL Quarterback Club 98",
+            "key": "nflquarterbackclub98",
             "rank": "FAULTY"
         },
         {
-            "name": "Shadowgate 64  Trials Of The Four Towers",
-            "key": "shadowgate64trialsofthefourtowers",
+            "name": "Rally Challenge 2000",
+            "key": "rallychallenge2000",
             "rank": "BRONZE"
         },
         {
-            "name": "NBA Live 2000",
-            "key": "nbalive2000",
+            "name": "Yoshis Story",
+            "key": "yoshisstory",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Bassmasters 2000",
+            "key": "bassmasters2000",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Duke Nukem 64",
+            "key": "dukenukem64",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Madden NFL 2000",
+            "key": "maddennfl2000",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Bomberman Hero",
+            "key": "bombermanhero",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "NFL Blitz 2000",
+            "key": "nflblitz2000",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Hey You Pikachu",
+            "key": "heyyoupikachu",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Turok  Rage Wars",
+            "key": "turokragewars",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Polaris SnoCross",
+            "key": "polarissnocross",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Hybrid Heaven",
+            "key": "hybridheaven",
+            "rank": "GOLD"
+        },
+        {
+            "name": "ODT",
+            "key": "odt",
+            "rank": "GOLD"
+        },
+        {
+            "name": "NBA In the Zone 98",
+            "key": "nbainthezone98",
+            "rank": "GOLD"
+        },
+        {
+            "name": "AllStar Baseball 2000",
+            "key": "allstarbaseball2000",
             "rank": "BRONZE"
         },
         {
@@ -1451,9 +421,314 @@
             "rank": "GOLD"
         },
         {
-            "name": "Castlevania  Legacy of Darkness",
-            "key": "castlevanialegacyofdarkness",
+            "name": "Lode Runner 3D",
+            "key": "loderunner3d",
             "rank": "SILVER"
+        },
+        {
+            "name": "Wayne Gretzkys 3D Hockey",
+            "key": "waynegretzkys3dhockey",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Nagano Winter Olympics 98",
+            "key": "naganowinterolympics98",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Xena Warrior Princess  The Talisman of Fate",
+            "key": "xenawarriorprincessthetalismanoffate",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Top Gear Hyper Bike",
+            "key": "topgearhyperbike",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Wave Race 64",
+            "key": "waverace64",
+            "rank": "GOLD"
+        },
+        {
+            "name": "World Driver Championship",
+            "key": "worlddriverchampionship",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "NHL Blades of Steel 99",
+            "key": "nhlbladesofsteel99",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Destruction Derby 64",
+            "key": "destructionderby64",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Fox Sports College Hoops 99",
+            "key": "foxsportscollegehoops99",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Premier Manager 64",
+            "key": "premiermanager64",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "SCARS",
+            "key": "scars",
+            "rank": "SILVER"
+        },
+        {
+            "name": "BattleTanx",
+            "key": "battletanx",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Worms  Armageddon",
+            "key": "wormsarmageddon",
+            "rank": "SILVER"
+        },
+        {
+            "name": "SpiderMan",
+            "key": "spiderman",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Body Harvest",
+            "key": "bodyharvest",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "NASCAR 2000",
+            "key": "nascar2000",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Mortal Kombat Mythologies  SubZero",
+            "key": "mortalkombatmythologiessubzero",
+            "rank": "GOLD"
+        },
+        {
+            "name": "ReVolt",
+            "key": "revolt",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "NBA Showtime  NBA on NBC",
+            "key": "nbashowtimenbaonnbc",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Pokemon Snap Station",
+            "key": "pokemonsnapstation",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "AeroGauge",
+            "key": "aerogauge",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Armorines  Project SWARM",
+            "key": "armorinesprojectswarm",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Shadow Man",
+            "key": "shadowman",
+            "rank": "SILVER"
+        },
+        {
+            "name": "AllStar Baseball 99",
+            "key": "allstarbaseball99",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "WCW Nitro",
+            "key": "wcwnitro",
+            "rank": "SILVER"
+        },
+        {
+            "name": "FIFA 99",
+            "key": "fifa99",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Big Mountain 2000",
+            "key": "bigmountain2000",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Tetrisphere",
+            "key": "tetrisphere",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Blast Corps",
+            "key": "blastcorps",
+            "rank": "SILVER"
+        },
+        {
+            "name": "WCW vs nWo  World Tour",
+            "key": "wcwvsnwoworldtour",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Mario Tennis",
+            "key": "mariotennis",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Supercross 2000",
+            "key": "supercross2000",
+            "rank": "GOLD"
+        },
+        {
+            "name": "VRally Edition 99",
+            "key": "vrallyedition99",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Razor Freestyle Scooter",
+            "key": "razorfreestylescooter",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Superman",
+            "key": "superman",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Space Station Silicon Valley",
+            "key": "spacestationsiliconvalley",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Quake II",
+            "key": "quakeii",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Star Wars  Rogue Squadron",
+            "key": "starwarsroguesquadron",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Earthworm Jim 3D",
+            "key": "earthwormjim3d",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Rocket  Robot on Wheels",
+            "key": "rocketrobotonwheels",
+            "rank": "GOLD"
+        },
+        {
+            "name": "F1 World Grand Prix",
+            "key": "f1worldgrandprix",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Micro Machines 64 Turbo",
+            "key": "micromachines64turbo",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "NBA Courtside 2  Featuring Kobe Bryant",
+            "key": "nbacourtside2featuringkobebryant",
+            "rank": "SILVER"
+        },
+        {
+            "name": "1080 Snowboarding",
+            "key": "1080snowboarding",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Monopoly",
+            "key": "monopoly",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "NFL Quarterback Club 99",
+            "key": "nflquarterbackclub99",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "NBA Live 2000",
+            "key": "nbalive2000",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Indy Racing 2000",
+            "key": "indyracing2000",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Wetrix",
+            "key": "wetrix",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Fighting Force 64",
+            "key": "fightingforce64",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Stunt Racer 64",
+            "key": "stuntracer64",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Pokemon Snap",
+            "key": "pokemonsnap",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Mickeys Speedway USA",
+            "key": "mickeysspeedwayusa",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Star Wars Episode I  Racer",
+            "key": "starwarsepisodeiracer",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Command  Conquer",
+            "key": "commandconquer",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "FZERO X",
+            "key": "fzerox",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Rush 2  Extreme Racing USA",
+            "key": "rush2extremeracingusa",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Pokemon Puzzle League",
+            "key": "pokemonpuzzleleague",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Star Fox 64",
+            "key": "starfox64",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Indiana Jones and the Infernal Machine",
+            "key": "indianajonesandtheinfernalmachine",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Tony Hawks Pro Skater 2",
+            "key": "tonyhawksproskater2",
+            "rank": "GOLD"
         },
         {
             "name": "WinBack  Covert Operations",
@@ -1461,33 +736,8 @@
             "rank": "FAULTY"
         },
         {
-            "name": "Namco Museum 64",
-            "key": "namcomuseum64",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Beetle Adventure Racing",
-            "key": "beetleadventureracing",
-            "rank": "SILVER"
-        },
-        {
-            "name": "International Track  Field 2000",
-            "key": "internationaltrackfield2000",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Virtual Chess 64",
-            "key": "virtualchess64",
-            "rank": "GOLD"
-        },
-        {
-            "name": "F1 Pole Position 64",
-            "key": "f1poleposition64",
-            "rank": "SILVER"
-        },
-        {
-            "name": "Space Station Silicon Valley",
-            "key": "spacestationsiliconvalley",
+            "name": "Diddy Kong Racing",
+            "key": "diddykongracing",
             "rank": "GOLD"
         },
         {
@@ -1496,9 +746,759 @@
             "rank": "BRONZE"
         },
         {
+            "name": "International Track  Field 2000",
+            "key": "internationaltrackfield2000",
+            "rank": "GOLD"
+        },
+        {
+            "name": "AllStar Baseball 2001",
+            "key": "allstarbaseball2001",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Mike Piazzas Strike Zone",
+            "key": "mikepiazzasstrikezone",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Powerpuff Girls The  Chemical XTraction",
+            "key": "powerpuffgirlsthechemicalxtraction",
+            "rank": "GOLD"
+        },
+        {
+            "name": "All Star Tennis 99",
+            "key": "allstartennis99",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Clay Fighter  Sculptors Cut",
+            "key": "clayfightersculptorscut",
+            "rank": "GOLD"
+        },
+        {
+            "name": "NBA Live 99",
+            "key": "nbalive99",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "International Superstar Soccer 98",
+            "key": "internationalsuperstarsoccer98",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Perfect Dark",
+            "key": "perfectdark",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Super Mario 64",
+            "key": "supermario64",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Army Men  Sarges Heroes",
+            "key": "armymensargesheroes",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Top Gear Rally",
+            "key": "topgearrally",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Mortal Kombat 4",
+            "key": "mortalkombat4",
+            "rank": "GOLD"
+        },
+        {
+            "name": "BustAMove 2  Arcade Edition",
+            "key": "bustamove2arcadeedition",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Disneys Tarzan",
+            "key": "disneystarzan",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "WCW Backstage Assault",
+            "key": "wcwbackstageassault",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Mace  The Dark Age",
+            "key": "macethedarkage",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Glover",
+            "key": "glover",
+            "rank": "GOLD"
+        },
+        {
+            "name": "ECW Hardcore Revolution",
+            "key": "ecwhardcorerevolution",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "WCWnWo Revenge",
+            "key": "wcwnworevenge",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Charlie Blasts Territory",
+            "key": "charlieblaststerritory",
+            "rank": "GOLD"
+        },
+        {
+            "name": "ExtremeG",
+            "key": "extremeg",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Aidyn Chronicles  The First Mage",
+            "key": "aidynchroniclesthefirstmage",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Super Bowling 64",
+            "key": "superbowling64",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Ken Griffey Jrs Slugfest",
+            "key": "kengriffeyjrsslugfest",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "South Park",
+            "key": "southpark",
+            "rank": "GOLD"
+        },
+        {
+            "name": "WWF WrestleMania 2000",
+            "key": "wwfwrestlemania2000",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Paper Mario",
+            "key": "papermario",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Madden Football 64",
+            "key": "maddenfootball64",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Army Men  Sarges Heroes 2",
+            "key": "armymensargesheroes2",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Bottom of the 9th",
+            "key": "bottomofthe9th",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Castlevania",
+            "key": "castlevania",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Wayne Gretzkys 3D Hockey 98",
+            "key": "waynegretzkys3dhockey98",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Buck Bumble",
+            "key": "buckbumble",
+            "rank": "GOLD"
+        },
+        {
+            "name": "NFL Quarterback Club 2001",
+            "key": "nflquarterbackclub2001",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Pokemon Stadium",
+            "key": "pokemonstadium",
+            "rank": "SILVER"
+        },
+        {
+            "name": "InFisherman Bass Hunter 64",
+            "key": "infishermanbasshunter64",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Turok 3  Shadow of Oblivion",
+            "key": "turok3shadowofoblivion",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Midways Greatest Arcade Hits Volume 1",
+            "key": "midwaysgreatestarcadehitsvolume1",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Elmos Letter Adventure",
+            "key": "elmosletteradventure",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Jet Force Gemini",
+            "key": "jetforcegemini",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Bugs Life A",
+            "key": "bugslifea",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Mario Golf",
+            "key": "mariogolf",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Ogre Battle 64  Person of Lordly Caliber",
+            "key": "ogrebattle64personoflordlycaliber",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Frogger 2",
+            "key": "frogger2",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Monaco Grand Prix",
+            "key": "monacograndprix",
+            "rank": "SILVER"
+        },
+        {
+            "name": "NBA In the Zone 99",
+            "key": "nbainthezone99",
+            "rank": "SILVER"
+        },
+        {
+            "name": "CyberTiger",
+            "key": "cybertiger",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Donkey Kong 64",
+            "key": "donkeykong64",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Jeopardy",
+            "key": "jeopardy",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Doom 64",
+            "key": "doom64",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Star Soldier  Vanishing Earth",
+            "key": "starsoldiervanishingearth",
+            "rank": "SILVER"
+        },
+        {
+            "name": "BustAMove 99",
+            "key": "bustamove99",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Robotron 64",
+            "key": "robotron64",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Vigilante 8",
+            "key": "vigilante8",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Jeremy McGrath Supercross 2000",
+            "key": "jeremymcgrathsupercross2000",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Beetle Adventure Racing",
+            "key": "beetleadventureracing",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Tony Hawks Pro Skater",
+            "key": "tonyhawksproskater",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Rampage 2  Universal Tour",
+            "key": "rampage2universaltour",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Cruisn Exotica",
+            "key": "cruisnexotica",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "NHL Breakaway 99",
+            "key": "nhlbreakaway99",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Mortal Kombat Trilogy",
+            "key": "mortalkombattrilogy",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Castlevania  Legacy of Darkness",
+            "key": "castlevanialegacyofdarkness",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Batman Beyond  Return of the Joker",
+            "key": "batmanbeyondreturnofthejoker",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Kobe Bryants NBA Courtside",
+            "key": "kobebryantsnbacourtside",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Disneys Donald Duck  Goin Quackers",
+            "key": "disneysdonaldduckgoinquackers",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Hot Wheels Turbo Racing",
+            "key": "hotwheelsturboracing",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Off Road Challenge",
+            "key": "offroadchallenge",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Fighters Destiny",
+            "key": "fightersdestiny",
+            "rank": "GOLD"
+        },
+        {
+            "name": "BanjoTooie",
+            "key": "banjotooie",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Namco Museum 64",
+            "key": "namcomuseum64",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Waialae Country Club  True Golf Classics",
+            "key": "waialaecountryclubtruegolfclassics",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Legend of Zelda The  Majoras Mask",
+            "key": "legendofzeldathemajorasmask",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Tom Clancys Rainbow Six",
+            "key": "tomclancysrainbowsix",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "GT 64  Championship Edition",
+            "key": "gt64championshipedition",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Starshot  Space Circus Fever",
+            "key": "starshotspacecircusfever",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Legend of Zelda The  Ocarina of Time",
+            "key": "legendofzeldatheocarinaoftime",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Olympic Hockey Nagano 98",
+            "key": "olympichockeynagano98",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Roadsters Trophy",
+            "key": "roadsterstrophy",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "NFL Blitz 2001",
+            "key": "nflblitz2001",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "War Gods",
+            "key": "wargods",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Snowboard Kids 2",
+            "key": "snowboardkids2",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Deadly Arts",
+            "key": "deadlyarts",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "NHL 99",
+            "key": "nhl99",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Tonic Trouble",
+            "key": "tonictrouble",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "BanjoKazooie",
+            "key": "banjokazooie",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Power Rangers  Lightspeed Rescue",
+            "key": "powerrangerslightspeedrescue",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Ready 2 Rumble Boxing",
+            "key": "ready2rumbleboxing",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Major League Baseball Featuring Ken Griffey Jr",
+            "key": "majorleaguebaseballfeaturingkengriffeyjr",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Killer Instinct Gold",
+            "key": "killerinstinctgold",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Goemons Great Adventure",
+            "key": "goemonsgreatadventure",
+            "rank": "GOLD"
+        },
+        {
+            "name": "NASCAR 99",
+            "key": "nascar99",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Snowboard Kids",
+            "key": "snowboardkids",
+            "rank": "GOLD"
+        },
+        {
+            "name": "RR64  Ridge Racer 64",
+            "key": "rr64ridgeracer64",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Tom and Jerry in Fists of Furry",
+            "key": "tomandjerryinfistsoffurry",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Rat Attack",
+            "key": "ratattack",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Blues Brothers 2000",
+            "key": "bluesbrothers2000",
+            "rank": "SILVER"
+        },
+        {
+            "name": "WCW Mayhem",
+            "key": "wcwmayhem",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Knockout Kings 2000",
+            "key": "knockoutkings2000",
+            "rank": "GOLD"
+        },
+        {
+            "name": "AeroFighters Assault",
+            "key": "aerofightersassault",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Forsaken 64",
+            "key": "forsaken64",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "MRC  Multi Racing Championship",
+            "key": "mrcmultiracingchampionship",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Transformers  Beast Wars Transmetal",
+            "key": "transformersbeastwarstransmetal",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Golden Nugget 64",
+            "key": "goldennugget64",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Pokemon Stadium 2",
+            "key": "pokemonstadium2",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Automobili Lamborghini",
+            "key": "automobililamborghini",
+            "rank": "GOLD"
+        },
+        {
+            "name": "FIFA  Road to World Cup 98",
+            "key": "fifaroadtoworldcup98",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Ready 2 Rumble Boxing  Round 2",
+            "key": "ready2rumbleboxinground2",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Turok 2  Seeds of Evil",
+            "key": "turok2seedsofevil",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Resident Evil 2",
+            "key": "residentevil2",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "San Francisco Rush 2049",
+            "key": "sanfranciscorush2049",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Mario Kart 64",
+            "key": "mariokart64",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Super Smash Bros",
+            "key": "supersmashbros",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Rampage  World Tour",
+            "key": "rampageworldtour",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Flying Dragon",
+            "key": "flyingdragon",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Toy Story 2",
+            "key": "toystory2",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Triple Play 2000",
+            "key": "tripleplay2000",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "StarCraft 64",
+            "key": "starcraft64",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Hexen",
+            "key": "hexen",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "South Park Rally",
+            "key": "southparkrally",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "ExtremeG XG2",
+            "key": "extremegxg2",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Quake 64",
+            "key": "quake64",
+            "rank": "SILVER"
+        },
+        {
+            "name": "John Romeros Daikatana",
+            "key": "johnromerosdaikatana",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Battlezone  Rise of the Black Dogs",
+            "key": "battlezoneriseoftheblackdogs",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Mario Party",
+            "key": "marioparty",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Monster Truck Madness 64",
+            "key": "monstertruckmadness64",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "World Cup 98",
+            "key": "worldcup98",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "WWF Attitude",
+            "key": "wwfattitude",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Carmageddon 64",
+            "key": "carmageddon64",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Ms PacMan  Maze Madness",
+            "key": "mspacmanmazemadness",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Rayman 2  The Great Escape",
+            "key": "rayman2thegreatescape",
+            "rank": "SILVER"
+        },
+        {
+            "name": "Wheel of Fortune",
+            "key": "wheeloffortune",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Mission Impossible",
+            "key": "missionimpossible",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Top Gear Overdrive",
+            "key": "topgearoverdrive",
+            "rank": "SILVER"
+        },
+        {
+            "name": "NHL Breakaway 98",
+            "key": "nhlbreakaway98",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "Penny Racers",
             "key": "pennyracers",
             "rank": "GOLD"
+        },
+        {
+            "name": "Cruisn USA",
+            "key": "cruisnusa",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Rugrats  Scavenger Hunt",
+            "key": "rugratsscavengerhunt",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Bomberman 64  The Second Attack",
+            "key": "bomberman64thesecondattack",
+            "rank": "SILVER"
+        },
+        {
+            "name": "NBA Jam 99",
+            "key": "nbajam99",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Top Gear Rally 2",
+            "key": "topgearrally2",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Mega Man 64",
+            "key": "megaman64",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "LEGO Racers",
+            "key": "legoracers",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Conkers Bad Fur Day",
+            "key": "conkersbadfurday",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "Paperboy",
+            "key": "paperboy",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Milos Astro Lanes",
+            "key": "milosastrolanes",
+            "rank": "BRONZE"
+        },
+        {
+            "name": "Rugrats in Paris  The Movie",
+            "key": "rugratsinparisthemovie",
+            "rank": "SILVER"
+        },
+        {
+            "name": "WWF  War Zone",
+            "key": "wwfwarzone",
+            "rank": "GOLD"
+        },
+        {
+            "name": "Knife Edge  Nose Gunner",
+            "key": "knifeedgenosegunner",
+            "rank": "FAULTY"
+        },
+        {
+            "name": "South Park  Chefs Luv Shack",
+            "key": "southparkchefsluvshack",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "NBA In the Zone 2000",
+            "key": "nbainthezone2000",
+            "rank": "SILVER"
         }
     ]
 }

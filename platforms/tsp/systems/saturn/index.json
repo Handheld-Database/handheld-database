@@ -1,14 +1,14 @@
 {
     "games": [
         {
-            "name": "Sonic 3D Blast",
-            "key": "sonic3dblast",
-            "rank": "GOLD"
-        },
-        {
             "name": "Sonic R",
             "key": "sonicr",
             "rank": "BRONZE"
+        },
+        {
+            "name": "Sonic 3D Blast",
+            "key": "sonic3dblast",
+            "rank": "GOLD"
         }
     ]
 }
