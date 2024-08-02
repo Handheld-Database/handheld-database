@@ -1,27 +1,30 @@
-import argparse, sys
+import argparse
+import sys
 from helpers.games import create_game
 from helpers.platforms import create_platform
 from helpers.systems import create_system
+
 # Function to display help text for using the script
 def display_help():
     help_text = """
-    Usage: python script.py [command] [arguments] [--steamgrid-key your_api_key]
-    
+    Usage: python script.py [command] [arguments] [--steamgrid-key your_api_key] [--tester your_tester_name]
+
     Commands:
     new platform [platform_name]            Create a new platform
     new system [platform_name] [system_name] Create a new system under a specified platform
     new game [platform_name] [system_name] [game_name] Create a new game under a specified platform and system
     help                                    Display this help message
-    
+
     Examples:
     python script.py new platform myplatform
     python script.py new system myplatform mysystem
     python script.py new game myplatform mysystem mygame
     python script.py new platform myplatform --steamgrid-key myapikey
     python script.py new system myplatform mysystem --steamgrid-key myapikey
-    python script.py new game myplatform mysystem mygame --steamgrid-key myapikey
+    python script.py new game myplatform mysystem mygame --steamgrid-key myapikey --tester mytester
     """
     print(help_text)
+
 # Main function to handle command line arguments and execute corresponding actions
 def main():
     parser = argparse.ArgumentParser(description="Game management script")
@@ -29,6 +32,7 @@ def main():
     parser.add_argument('entity', nargs='?', choices=['platform', 'system', 'game'], help='Entity type')
     parser.add_argument('names', nargs='*', help='Names for the entity')
     parser.add_argument('--steamgrid-key', help='API key for authentication')
+    parser.add_argument('--tester', help='Name of the tester')
 
     args = parser.parse_args()
 
@@ -39,8 +43,8 @@ def main():
             display_help()
             sys.exit(1)
 
-        
         api_key = args.steamgrid_key
+        tester = args.tester
 
         if args.entity == 'platform':
             if len(args.names) != 1:
@@ -59,7 +63,7 @@ def main():
                 display_help()
                 sys.exit(1)
             platform_name, system_name, game_name = args.names
-            create_game(platform_name, system_name, game_name, api_key)
+            create_game(platform_name, system_name, game_name, tester, api_key)
         else:
             print("Unknown entity type. Use 'platform', 'system', or 'game'.")
             display_help()
