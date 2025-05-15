@@ -11,14 +11,14 @@
             "rank": "BRONZE"
         },
         {
-            "name": "Dragon Ball Z: Shin Budokai - Another Road",
-            "key": "dragonballzshinbudokaianotherroad",
-            "rank": "SILVER"
-        },
-        {
             "name": "Dragon Ball Z: Shin Budokai",
             "key": "dragonballzshinbudokai",
             "rank": "GOLD"
+        },
+        {
+            "name": "Dragon Ball Z: Shin Budokai - Another Road",
+            "key": "dragonballzshinbudokaianotherroad",
+            "rank": "SILVER"
         }
     ]
 }

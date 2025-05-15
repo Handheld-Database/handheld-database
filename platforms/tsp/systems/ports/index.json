@@ -1,18 +1,13 @@
 {
     "games": [
         {
-            "name": "Ocean's Heart",
-            "key": "oceansheart",
+            "name": "Return to Castle Wolfeinstin",
+            "key": "returntocastlewolfeinstein",
             "rank": "PLATINUM"
         },
         {
-            "name": "Grand Theft Auto: Vice City",
-            "key": "grandtheftautovc",
-            "rank": "PLATINUM"
-        },
-        {
-            "name": "Blossom Tales 2",
-            "key": "blossomtales2",
+            "name": "Raptor",
+            "key": "raptor",
             "rank": "PLATINUM"
         },
         {
@@ -21,13 +16,8 @@
             "rank": "GOLD"
         },
         {
-            "name": "Half-Life",
-            "key": "halflife",
-            "rank": "GOLD"
-        },
-        {
-            "name": "Re-Volt",
-            "key": "revolt",
+            "name": "Blossom Tales 2",
+            "key": "blossomtales2",
             "rank": "PLATINUM"
         },
         {
@@ -36,14 +26,24 @@
             "rank": "PLATINUM"
         },
         {
+            "name": "Grand Theft Auto: Vice City",
+            "key": "grandtheftautovc",
+            "rank": "PLATINUM"
+        },
+        {
+            "name": "Ocean's Heart",
+            "key": "oceansheart",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "Grand Theft Auto 3",
             "key": "grandtheftauto3",
             "rank": "PLATINUM"
         },
         {
-            "name": "Alien vs Predator",
-            "key": "alienvspredator",
-            "rank": "FAULTY"
+            "name": "Half-Life",
+            "key": "halflife",
+            "rank": "GOLD"
         },
         {
             "name": "Yarntown",
@@ -51,18 +51,18 @@
             "rank": "FAULTY"
         },
         {
+            "name": "Little Runmo",
+            "key": "littlerunmo",
+            "rank": "PLATINUM"
+        },
+        {
             "name": "Spell Sling",
             "key": "spellsling",
             "rank": "PLATINUM"
         },
         {
-            "name": "Doom 3",
-            "key": "doom3",
-            "rank": "FAULTY"
-        },
-        {
-            "name": "Return to Castle Wolfeinstin",
-            "key": "returntocastlewolfeinstein",
+            "name": "Re-Volt",
+            "key": "revolt",
             "rank": "PLATINUM"
         },
         {
@@ -71,14 +71,14 @@
             "rank": "PLATINUM"
         },
         {
-            "name": "Little Runmo",
-            "key": "littlerunmo",
-            "rank": "PLATINUM"
+            "name": "Alien vs Predator",
+            "key": "alienvspredator",
+            "rank": "FAULTY"
         },
         {
-            "name": "Raptor",
-            "key": "raptor",
-            "rank": "PLATINUM"
+            "name": "Doom 3",
+            "key": "doom3",
+            "rank": "FAULTY"
         }
     ]
 }
