@@ -1,0 +1,27 @@
+{
+    "name": "Trimui Brick",
+    "database_key": "tbrick",
+    "manufacturer": "Trimui",
+    "screen_size": "3.2 inches",
+    "resolution": "1024 x 768 pixels",
+    "battery_life": "5 hours",
+    "weight": "159g",
+    "system": "Linux",
+    "cpu": "Allwinner A133P (A133 plus) 1.8GHZ",
+    "gpu": "Imagination PowerVR GE8300 660MHz",
+    "ram": "1GB LPDDR3",
+    "arch": "aarch64",
+    "storage": "8GB eMMC, expandable up to 1TB via TF card",
+    "media": "Digital download",
+    "connectivity": [
+        "Wi-Fi",
+        "Bluetooth",
+        "USB-C"
+    ],
+    "systems": [
+        {
+            "name": "Playstation Portable",
+            "key": "psp"
+        }
+    ]
+}
