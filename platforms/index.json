@@ -13,6 +13,13 @@
             "database_key": "r36s",
             "manufacturer": "Shenzhen YL Electronics Co., Ltd.",
             "system": "Open source Linux system"
+        },
+        {
+            "name": "Trimui Brick",
+            "image": "platforms/tbrick.webp",
+            "database_key": "tbrick",
+            "manufacturer": "Trimui",
+            "system": "Linux"
         }
     ]
 }
